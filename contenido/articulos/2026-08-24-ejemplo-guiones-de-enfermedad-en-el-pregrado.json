@@ -1,0 +1,76 @@
+{
+  "id": "2026-08-24-ejemplo-guiones-de-enfermedad-en-el-pregrado",
+  "estado": "publicado",
+  "_nota": "ARTÍCULO DE EJEMPLO. Bórralo tras la primera ejecución real del flujo semanal.",
+  "pmid": "00000000",
+  "doi": "",
+  "titulo": "Illness script development in undergraduate medical education: a scoping review",
+  "tituloEs": "Cómo se construyen los guiones de enfermedad en el pregrado: una revisión de alcance",
+  "revista": "Medical Education",
+  "autores": [
+    "Ejemplo A",
+    "Ejemplo B",
+    "Ejemplo C"
+  ],
+  "fechaPublicacion": "2026 Aug 20",
+  "tiposPublicacion": [
+    "Review",
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/",
+  "resumenOriginal": "Texto de ejemplo del resumen original del artículo.",
+  "mesh": [
+    "Education, Medical, Undergraduate",
+    "Clinical Reasoning",
+    "Problem Solving"
+  ],
+  "palabrasClave": [
+    "illness scripts",
+    "clinical reasoning",
+    "undergraduate"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 24,
+  "semana": "2026-S35",
+  "descubiertoEl": "2026-08-24",
+  "publicadoEl": "2026-08-24",
+  "disenoEstudio": "Revisión de alcance de estudios en estudiantes de pregrado",
+  "nivelEvidencia": "moderado",
+  "sintesis": "Revisión de alcance sobre cómo los estudiantes de pregrado construyen y refinan guiones de enfermedad (illness scripts). Los autores describen que la exposición repetida a casos contrastados y la explicitación del razonamiento aceleran la organización del conocimiento clínico.",
+  "tips": [
+    {
+      "titulo": "Contrasta casos parecidos",
+      "texto": "Presenta dos cuadros clínicos similares en la misma sesión y pide al estudiante nombrar el rasgo que los separa. El contraste construye el guion mejor que el caso aislado."
+    },
+    {
+      "titulo": "Pide el razonamiento en voz alta",
+      "texto": "Antes de dar el diagnóstico, solicita una hipótesis con la evidencia que la sostiene. Lo implícito no se corrige; lo explícito sí."
+    },
+    {
+      "titulo": "Nombra el guion",
+      "texto": "Cierra cada caso resumiendo el guion en una frase: predisponentes, fisiopatología y hallazgos clave. Esa etiqueta es lo que el estudiante recupera después."
+    },
+    {
+      "titulo": "Repite con separación temporal",
+      "texto": "Vuelve al mismo cuadro dos semanas después con una presentación distinta. La práctica espaciada consolida más que la revisión seguida."
+    },
+    {
+      "titulo": "Corrige el guion, no solo el diagnóstico",
+      "texto": "Cuando el estudiante falla, identifica qué parte del guion estaba incompleta en lugar de limitarte a dar la respuesta correcta."
+    }
+  ],
+  "aplicacionDocente": "En tu próxima ronda, elige dos pacientes con presentaciones parecidas y distinto diagnóstico. Pide a los estudiantes que expliquen en voz alta qué dato los separa, y cierra nombrando ambos guiones en una frase cada uno.",
+  "fraseInfografia": "Los guiones de enfermedad se construyen contrastando casos, no acumulándolos",
+  "etiquetas": [
+    "guiones de enfermedad",
+    "razonamiento clínico",
+    "pregrado",
+    "práctica espaciada"
+  ],
+  "advertencia": "Revisión de alcance: describe la literatura disponible, no establece la eficacia comparada de las estrategias.",
+  "generadoPor": "ejemplo-manual",
+  "infografia": "/img/infografias/2026-08-24-ejemplo-guiones-de-enfermedad-en-el-pregrado.png"
+}

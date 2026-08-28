@@ -1,0 +1,18 @@
+{
+  "nombre": "MEDICABILITY",
+  "lema": "Docencia médica y razonamiento clínico, una semana a la vez",
+  "descripcion": "Difusión semanal de evidencia sobre educación médica y razonamiento clínico: cada artículo relevante se publica con una infografía y un resumen de 5 tips accionables para docentes clínicos.",
+  "url": "https://medicability.netlify.app",
+  "idioma": "es",
+  "autor": "José López",
+  "correo": "hockstar34@gmail.com",
+  "colores": {
+    "tinta": "#0B1F3A",
+    "acento": "#0E7C7B",
+    "acento2": "#E4572E",
+    "arena": "#F6F4EF",
+    "gris": "#5A6672"
+  },
+  "articulosPorPagina": 12,
+  "maximoPorSemana": 5
+}

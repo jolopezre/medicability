@@ -1,0 +1,58 @@
+{
+  "_comentario": "Cada entrada es una linea de busqueda en PubMed. 'peso' ordena la prioridad cuando hay mas candidatos que 'maximoPorSemana'.",
+  "ventanaDias": 10,
+  "consultas": [
+    {
+      "id": "razonamiento-clinico",
+      "etiqueta": "Razonamiento clínico",
+      "peso": 10,
+      "termino": "(\"clinical reasoning\"[Title/Abstract] OR \"diagnostic reasoning\"[Title/Abstract] OR \"clinical decision making\"[Title/Abstract] OR \"illness script*\"[Title/Abstract]) AND (education[Title/Abstract] OR teaching[Title/Abstract] OR training[Title/Abstract] OR learner*[Title/Abstract])"
+    },
+    {
+      "id": "error-diagnostico",
+      "etiqueta": "Error diagnóstico y metacognición",
+      "peso": 9,
+      "termino": "(\"diagnostic error*\"[Title/Abstract] OR \"cognitive bias*\"[Title/Abstract] OR metacognit*[Title/Abstract] OR \"dual process\"[Title/Abstract]) AND (medical[Title/Abstract] OR clinician*[Title/Abstract] OR physician*[Title/Abstract] OR student*[Title/Abstract])"
+    },
+    {
+      "id": "docencia-medica",
+      "etiqueta": "Docencia médica",
+      "peso": 8,
+      "termino": "(\"medical education\"[Title/Abstract] OR \"health professions education\"[Title/Abstract]) AND (curriculum[Title/Abstract] OR \"teaching method*\"[Title/Abstract] OR faculty[Title/Abstract] OR \"clinical teaching\"[Title/Abstract])"
+    },
+    {
+      "id": "evaluacion-competencias",
+      "etiqueta": "Evaluación y competencias",
+      "peso": 7,
+      "termino": "(\"workplace-based assessment\"[Title/Abstract] OR \"entrustable professional activit*\"[Title/Abstract] OR \"competency-based\"[Title/Abstract] OR \"programmatic assessment\"[Title/Abstract] OR OSCE[Title/Abstract]) AND (medical[Title/Abstract] OR resident*[Title/Abstract] OR student*[Title/Abstract])"
+    },
+    {
+      "id": "simulacion-feedback",
+      "etiqueta": "Simulación y retroalimentación",
+      "peso": 6,
+      "termino": "(\"simulation-based\"[Title/Abstract] OR debriefing[Title/Abstract] OR feedback[Title/Abstract] OR \"deliberate practice\"[Title/Abstract]) AND (\"medical education\"[Title/Abstract] OR \"clinical skills\"[Title/Abstract])"
+    },
+    {
+      "id": "ia-educacion-medica",
+      "etiqueta": "IA en educación médica",
+      "peso": 6,
+      "termino": "(\"artificial intelligence\"[Title/Abstract] OR \"large language model*\"[Title/Abstract] OR chatbot*[Title/Abstract]) AND (\"medical education\"[Title/Abstract] OR \"clinical reasoning\"[Title/Abstract] OR assessment[Title/Abstract])"
+    }
+  ],
+  "filtros": {
+    "tiposPublicacionPreferidos": [
+      "Systematic Review", "Meta-Analysis", "Randomized Controlled Trial",
+      "Review", "Journal Article", "Comparative Study"
+    ],
+    "excluirTipos": ["Retracted Publication", "Comment", "Published Erratum"],
+    "revistasDestacadas": [
+      "Medical Education", "Academic Medicine", "Advances in Health Sciences Education",
+      "Medical Teacher", "BMC Medical Education", "Diagnosis (Berl)",
+      "Perspectives on Medical Education", "Journal of Graduate Medical Education",
+      "Teaching and Learning in Medicine", "The Clinical Teacher", "JAMA",
+      "BMJ Quality & Safety", "Educación Médica", "Revista Médica de Chile"
+    ],
+    "requiereResumen": true,
+    "minimoPalabrasResumen": 120
+  }
+}
