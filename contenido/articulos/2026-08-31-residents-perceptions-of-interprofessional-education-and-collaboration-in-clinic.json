@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-residents-perceptions-of-interprofessional-education-and-collaboration-in-clinic",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42669607",
   "doi": "10.3946/kjme.2026.208",
   "titulo": "Residents' perceptions of interprofessional education and collaboration in clinical settings and implications for medical education: a scoping review",
-  "tituloEs": null,
+  "tituloEs": "Percepciones de residentes sobre educacion interprofesional: revision de alcance",
   "revista": "Korean journal of medical education",
   "autores": [
     "Wardhana DPW",
@@ -47,8 +47,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Formalizar IPE en residencia",
+      "texto": "Integrad actividades estructuradas de educacion interprofesional en el curriculum de residencia, no solo experiencias ocasionales. La educacion longitudinal fortalece competencias colaborativas reales."
+    },
+    {
+      "titulo": "Simulacion interprofesional",
+      "texto": "Usad escenarios de simulacion con enfermeras, farmaceuticos y otros profesionales. Permite practicar comunicacion y roles sin riesgo para pacientes."
+    },
+    {
+      "titulo": "Discusion de casos en equipo",
+      "texto": "Implementad sesiones regulares de discusion interprofesional de casos clinicos. Los residentes valoran espacios para entender perspectivas de otras disciplinas."
+    },
+    {
+      "titulo": "Identificar barreras culturales",
+      "texto": "Haced visibles las jerarquias y actitudes que obstaculizan la colaboracion. Discutid con residentes experiencias donde la cultura institucional limito el trabajo en equipo."
+    },
+    {
+      "titulo": "Evaluacion de competencias colaborativas",
+      "texto": "Incorporad la colaboracion interprofesional como criterio explicito en evaluaciones formativas. Lo que se evalua, se aprende."
+    }
+  ],
+  "sintesis": "Revision de 10 estudios que explora como los residentes perciben la educacion interprofesional (IPE) en entornos clinicos. Se identificaron cuatro temas principales: conocimientos, habilidades, actitudes e implicaciones educativas. Los residentes reportan tension entre barreras culturales y facilitadores sistematicos para la colaboracion.",
+  "aplicacionDocente": "Esta revision subraya la necesidad de curriculums formales de IPE durante la residencia. Como docentes, podemos iniciar discusiones interprofesionales en la ronda, usar simulacion con otros profesionales y evaluar explicitamente habilidades colaborativas. Reconocer barreras culturales institucionales es el primer paso para transformarlas.",
+  "infografia": "/img/infografias/2026-08-31-residents-perceptions-of-interprofessional-education-and-collaboration-in-clinic.png",
+  "disenoEstudio": "Revision de alcance de 10 estudios sobre percepciones de residentes",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Residentes reportan tension entre barreras culturales y facilitadores para colaborar",
+  "etiquetas": [
+    "educacion interprofesional",
+    "residencia medica",
+    "colaboracion",
+    "curriculum",
+    "competencias"
+  ],
+  "advertencia": "Revision de alcance con solo 10 estudios; no evalua calidad metodologica ni permite conclusiones sobre efectividad de intervenciones especificas.",
+  "generadoPor": "claude-sonnet-4-5"
 }

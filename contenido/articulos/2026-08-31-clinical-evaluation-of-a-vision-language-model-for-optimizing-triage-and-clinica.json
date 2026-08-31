@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-clinical-evaluation-of-a-vision-language-model-for-optimizing-triage-and-clinica",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42667903",
   "doi": "10.1016/j.ijmedinf.2026.106673",
   "titulo": "Clinical evaluation of a vision-language model for optimizing triage and clinical workflows in critical care",
-  "tituloEs": null,
+  "tituloEs": "Modelo de lenguaje-vision analiza tendencias fisiologicas para clasificar pacientes en cuidados criticos",
   "revista": "International journal of medical informatics",
   "autores": [
     "Strechen I",
@@ -41,8 +41,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Entrenar lectura de tendencias",
+      "texto": "Usen graficas de signos vitales de dos horas en lugar de valores aislados durante la ronda. Pidan a residentes identificar patrones de deterioro antes de revisar la nota de enfermeria."
+    },
+    {
+      "titulo": "Calibrar umbrales de alerta",
+      "texto": "Discutan casos donde la inteligencia artificial clasifico diferente que el clinico. Identifiquen que patrones visuales motivan cada decision de triaje y comparen criterios."
+    },
+    {
+      "titulo": "Simular triaje con imagenes",
+      "texto": "Presenten graficas anonimizadas de signos vitales sin contexto clinico. Evaluen si residentes y estudiantes priorizan igual que el sistema automatizado y exploren discrepancias."
+    },
+    {
+      "titulo": "Reconocer subtriaje critico",
+      "texto": "Enfaticen que subestimar gravedad es mas peligroso que sobrestimar. Analicen el 7% de casos donde el modelo fallo para identificar senales de deterioro fisiologico perdidas."
+    },
+    {
+      "titulo": "Integrar razonamiento visual",
+      "texto": "Ensenien a interpretar tendencias dinamicas, no solo alarmas puntuales. Usen estos datos para mostrar que el deterioro clinico suele preceder cambios agudos en parametros aislados."
+    }
+  ],
+  "sintesis": "Un modelo de inteligencia artificial analizo imagenes de signos vitales de 100 pacientes hospitalizados durante dos horas. El modelo coincidio con la clasificacion de gravedad del medico tratante en 75% de los casos y subestimo la gravedad en solo 7%, menos que el medico en formacion.",
+  "aplicacionDocente": "Usen graficas de tendencias fisiologicas de dos horas en sesiones de triaje simulado. Comparen decisiones de residentes con las de sistemas automatizados para calibrar umbrales de alerta y ensenar reconocimiento temprano de deterioro, priorizando la deteccion de subtriaje por su mayor riesgo clinico.",
+  "infografia": "/img/infografias/2026-08-31-clinical-evaluation-of-a-vision-language-model-for-optimizing-triage-and-clinica.png",
+  "disenoEstudio": "Estudio piloto de concordancia con 100 pacientes adultos monitorizados, comparando modelo contra medico tratante",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Modelo IA coincidio con medico tratante en 75% de triajes y subestimo menos que residente",
+  "etiquetas": [
+    "inteligencia artificial",
+    "triaje",
+    "cuidados criticos",
+    "signos vitales",
+    "deterioro fisiologico"
+  ],
+  "advertencia": "Estudio piloto unicentrico con muestra pequena; requiere validacion externa y comparacion con sistemas de alerta temprana ya establecidos",
+  "generadoPor": "claude-sonnet-4-5"
 }

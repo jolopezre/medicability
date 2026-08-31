@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-understanding-barriers-to-epa-microassessment-completion-among-low-assessment-co",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42659912",
   "doi": "10.1016/j.jsurg.2026.104116",
   "titulo": "Understanding Barriers to EPA Microassessment Completion Among Low-Assessment-Completion Surgical Faculty and Residents: A Two-Cohort Qualitative Study",
-  "tituloEs": null,
+  "tituloEs": "Por qué docentes y residentes quirúrgicos no completan microevaluaciones de EPAs",
   "revista": "Journal of surgical education",
   "autores": [
     "Jenkins PD",
@@ -39,8 +39,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Distinguir feedback de evaluación",
+      "texto": "Explicad a residentes y docentes que la microevaluación EPA documenta confiabilidad longitudinal, no reemplaza la conversación formativa inmediata. Son procesos complementarios con funciones distintas."
+    },
+    {
+      "titulo": "Integrar evaluación al flujo clínico",
+      "texto": "Incorporad la captura de EPAs dentro del sistema de historia clínica electrónica donde ya trabajan docentes y residentes, reduciendo la percepción de carga administrativa separada."
+    },
+    {
+      "titulo": "Solicitar EPAs tras desempeños difíciles",
+      "texto": "Enseñad a residentes que pedir evaluación después de casos desafiantes genera datos más útiles que solicitarlas solo tras éxitos, evitando sesgo positivo en el registro de confiabilidad."
+    },
+    {
+      "titulo": "Estandarizar quién inicia la evaluación",
+      "texto": "Definid en vuestro programa si serán residentes o docentes quienes activen las microevaluaciones, porque las plataformas digitales moldean estas prácticas culturales de forma inadvertida."
+    },
+    {
+      "titulo": "Capacitar en el propósito longitudinal",
+      "texto": "Desarrollad sesiones formales para docentes y residentes sobre la función específica de las EPAs: rastrear progresión de confiabilidad en el tiempo, no documentar cada interacción educativa."
+    }
+  ],
+  "sintesis": "Estudio cualitativo en dos cohortes de cirugía general identificó barreras comunes para completar microevaluaciones de actividades profesionales confiables (EPAs). Tanto docentes como residentes perciben las EPAs como trámites administrativos desconectados del proceso educativo real, confundiendo retroalimentación formativa con evaluación formal de confiabilidad.",
+  "aplicacionDocente": "Antes de implementar EPAs o mejorar tasas de completitud, reunid a vuestro equipo docente para aclarar que microevaluación no es sinónimo de retroalimentación verbal. Ajustad flujos de trabajo clínico para que documentar confiabilidad sea parte natural de la atención, no tarea extra, y modelad solicitando EPAs tras casos complejos.",
+  "infografia": "/img/infografias/2026-08-31-understanding-barriers-to-epa-microassessment-completion-among-low-assessment-co.png",
+  "disenoEstudio": "Estudio cualitativo con entrevistas semiestructuradas: 5 docentes y 10 residentes de cirugía general",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Docentes y residentes confunden EPAs con feedback: aclarar esta distinción es clave",
+  "etiquetas": [
+    "evaluación basada en competencias",
+    "actividades profesionales confiables",
+    "educación quirúrgica",
+    "cultura de evaluación",
+    "retroalimentación formativa"
+  ],
+  "advertencia": "Muestra pequeña de un solo centro académico y dos programas; las barreras pueden variar en contextos con diferentes recursos tecnológicos o culturas institucionales.",
+  "generadoPor": "claude-sonnet-4-5"
 }

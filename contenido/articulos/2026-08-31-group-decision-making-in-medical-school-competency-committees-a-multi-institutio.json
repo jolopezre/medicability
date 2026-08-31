@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-group-decision-making-in-medical-school-competency-committees-a-multi-institutio",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42658655",
   "doi": "10.1093/acamed/wvag268",
   "titulo": "Group decision-making in medical school competency committees: a multi-institutional ethnographic study",
-  "tituloEs": null,
+  "tituloEs": "Cómo deciden los comités de competencias en pregrado: hallazgos de siete escuelas de medicina",
   "revista": "Academic medicine : journal of the Association of American Medical Colleges",
   "autores": [
     "Ryan MS",
@@ -39,8 +39,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Explicite el proceso decisional",
+      "texto": "Antes de evaluar casos, consensúe con su equipo los pasos que seguirán para llegar a una decisión. La variabilidad oculta genera inequidad entre estudiantes."
+    },
+    {
+      "titulo": "Defina umbrales locales claros",
+      "texto": "Establezcan criterios explícitos para remediar, avanzar o dar retroalimentación. Los umbrales implícitos amplían la subjetividad y dificultan la defensa de las decisiones."
+    },
+    {
+      "titulo": "Revise el rol del moderador",
+      "texto": "El liderazgo del comité influye en el resultado. Acuerden si el moderador vota, resume o cierra la discusión, y documéntenlo en el reglamento interno."
+    },
+    {
+      "titulo": "Coordine con otros comités académicos",
+      "texto": "Si coexisten comités de avance, de competencias y calificaciones numéricas, clarifiquen qué decide cada uno. La superposición de instancias confunde a estudiantes y docentes."
+    },
+    {
+      "titulo": "Adapte modelos de posgrado con cautela",
+      "texto": "Los comités de pregrado operan en contextos más complejos que los de residencia. No replique procedimientos sin ajustarlos a políticas académicas y estructuras institucionales propias."
+    }
+  ],
+  "sintesis": "Estudio etnográfico en siete escuelas de medicina estadounidenses observó 20 reuniones de comités de competencias que evaluaron 242 estudiantes. Se identificó un proceso escalonado común, pero con gran variación institucional en procedimientos, umbrales de decisión y roles del moderador.",
+  "aplicacionDocente": "Si participa en un comité de competencias, proponga una sesión de calibración para estandarizar el proceso: defina pasos, umbrales y roles antes de revisar casos. Documente las decisiones y sus fundamentos para auditar sesgos y mejorar equidad entre estudiantes evaluados.",
+  "infografia": "/img/infografias/2026-08-31-group-decision-making-in-medical-school-competency-committees-a-multi-institutio.png",
+  "disenoEstudio": "Estudio etnográfico multicéntrico en siete escuelas de medicina (2023-2024)",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Decidir en comité no basta: sin proceso explícito, cada estudiante recibe un juicio distinto",
+  "etiquetas": [
+    "comités de competencias",
+    "toma de decisiones grupales",
+    "educación médica de pregrado",
+    "evaluación de competencias",
+    "calidad educativa"
+  ],
+  "advertencia": "Estudio limitado a siete escuelas estadounidenses; los hallazgos pueden no reflejar contextos con estructuras curriculares o culturas institucionales diferentes.",
+  "generadoPor": "claude-sonnet-4-5"
 }

@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-inclusive-medical-spanish-education-to-address-bias-in-clinical-communication-tu",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42627956",
   "doi": "10.2196/98398",
   "titulo": "Inclusive Medical Spanish Education to Address Bias in Clinical Communication: Tutorial on Patient-Informed Module Development",
-  "tituloEs": null,
+  "tituloEs": "Español médico inclusivo: cómo integrar comunicación sin sesgo en la formación de pregrado",
   "revista": "JMIR medical education",
   "autores": [
     "Lopez Vera A"
@@ -46,8 +46,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Lenguaje abierto en anamnesis",
+      "texto": "Enseñad a preguntar por relaciones sin asumir género ni estructura familiar. Usad «¿Con quién vive?» en lugar de «¿Tiene esposo/esposa?»."
+    },
+    {
+      "titulo": "Formas de tratamiento respetuosas",
+      "texto": "Entrenamiento explícito en pronombres y formas de cortesía en español que reconozcan identidad de género sin imponer binarios lingüísticos."
+    },
+    {
+      "titulo": "Simulación con retroalimentación específica",
+      "texto": "Incorporad escenarios de pacientes estandarizados LGBTQ+ hispanohablantes con rúbricas que evalúen comunicación inclusiva, no solo fluidez léxica."
+    },
+    {
+      "titulo": "Inclusión como competencia central",
+      "texto": "Integrad la comunicación sin sesgo como criterio de desempeño clínico en español, no como contenido cultural opcional o añadido marginal."
+    },
+    {
+      "titulo": "Autoaprendizaje previo estructurado",
+      "texto": "Diseñad actividades preparatorias (módulos en línea, casos breves) que expongan vocabulario inclusivo antes de la práctica supervisada."
+    }
+  ],
+  "sintesis": "Este tutorial sintetiza hallazgos cualitativos previos con pacientes LGBTQ+ hispanohablantes y experiencia curricular para proponer un marco de desarrollo de módulos de español médico que aborden barreras comunicacionales (uso de género erróneo, preguntas heteronormativas, lenguaje excluyente). Ofrece guía práctica para traducir prioridades reportadas por pacientes en objetivos, actividades preparatorias, simulación con pacientes estandarizados y evaluación.",
+  "aplicacionDocente": "Revisad vuestras rondas en español: ¿usáis lenguaje abierto al preguntar por apoyo social o pareja? En simulación, agregad escenarios LGBTQ+ con criterios de evaluación explícitos sobre respeto comunicacional. En aula, modelad preguntas sin heteronormatividad y solicitad a estudiantes identificar supuestos implícitos en su propio discurso.",
+  "infografia": "/img/infografias/2026-08-31-inclusive-medical-spanish-education-to-address-bias-in-clinical-communication-tu.png",
+  "disenoEstudio": "Tutorial educativo basado en síntesis de trabajo cualitativo previo y experiencia curricular",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Comunicación inclusiva en español médico: competencia clínica, no adorno cultural",
+  "etiquetas": [
+    "español médico",
+    "comunicación clínica",
+    "sesgo implícito",
+    "pacientes lgbtq+",
+    "educación pregrado"
+  ],
+  "advertencia": "Tutorial sin datos de implementación ni evaluación de resultados educativos; requiere validación empírica del marco propuesto",
+  "generadoPor": "claude-sonnet-4-5"
 }

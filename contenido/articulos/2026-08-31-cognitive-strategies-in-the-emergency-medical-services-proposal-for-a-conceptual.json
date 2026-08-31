@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-cognitive-strategies-in-the-emergency-medical-services-proposal-for-a-conceptual",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42642726",
   "doi": "10.1186/s12245-026-01355-2",
   "titulo": "Cognitive strategies in the Emergency Medical Services: proposal for a conceptual integrated framework to explicate clinical reasoning in EMS",
-  "tituloEs": null,
+  "tituloEs": "Marco cognitivo integrado para razonamiento clínico en servicios de emergencia prehospitalarios",
   "revista": "International journal of emergency medicine",
   "autores": [
     "Dercksen B",
@@ -34,8 +34,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Visibilice los dos sistemas",
+      "texto": "En la ronda, pregunte a residentes si aplicaron razonamiento intuitivo o analítico ante un paciente urgente. Nombre explícitamente ambos sistemas para normalizar su coexistencia en la práctica."
+    },
+    {
+      "titulo": "Enseñe metacognición activa",
+      "texto": "Modele en voz alta cuándo cambia de intuición a análisis durante una evaluación. Por ejemplo: «Pensé sepsis, pero ahora reviso sistemáticamente porque hay datos atípicos». Esto entrena el Sistema 3 supervisor."
+    },
+    {
+      "titulo": "Ancle la enseñanza al flujo real",
+      "texto": "Use el modelo SPART como mapa: divida la atención en fases (evaluación inicial, tratamiento, disposición) y discuta qué tipo de razonamiento corresponde a cada una, sin desconectar teoría de práctica."
+    },
+    {
+      "titulo": "Entrene decisiones de no traslado",
+      "texto": "Simule casos donde decidir no trasladar requiere razonamiento analítico explícito. Desafíe la intuición inicial con preguntas metacognitivas: «¿Qué me haría cambiar de opinión aquí?»"
+    },
+    {
+      "titulo": "Mitigue sesgos en urgencias",
+      "texto": "Introduzca checklists breves en escenarios de alta presión para forzar cambio de sistema intuitivo a analítico cuando haya señales de alerta, reduciendo anclaje y disponibilidad."
+    }
+  ],
+  "sintesis": "Se propone un marco conceptual que integra el modelo de trabajo SPART con la Teoría Dual de Procesamiento y un sistema metacognitivo supervisor para explicar cómo razonan los paramédicos en ambientes de alta presión. El marco conecta las actividades observables del cuidado prehospitalario con los procesos cognitivos subyacentes.",
+  "aplicacionDocente": "Este marco permite nombrar y entrenar explícitamente los tres sistemas cognitivos durante la enseñanza en urgencias. Docentes pueden anclar discusiones de caso a las fases del SPART, preguntando qué sistema cognitivo operó en cada etapa y cuándo el supervisor metacognitivo debió activarse, volviendo visible un proceso que tradicionalmente se enseña implícitamente.",
+  "infografia": "/img/infografias/2026-08-31-cognitive-strategies-in-the-emergency-medical-services-proposal-for-a-conceptual.png",
+  "disenoEstudio": "Sintesis conceptual basada en etnografia y literatura de razonamiento diagnostico",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Razonamiento clínico en urgencias: intuición, análisis y metacognición en cada fase del cuidado",
+  "etiquetas": [
+    "razonamiento clinico",
+    "medicina de emergencia",
+    "metacognicion",
+    "teoria dual procesamiento",
+    "cuidado prehospitalario"
+  ],
+  "advertencia": "Propuesta conceptual sin validación empírica en campo; requiere estudios observacionales que confirmen su utilidad para entrenar y evaluar razonamiento en paramédicos.",
+  "generadoPor": "claude-sonnet-4-5"
 }

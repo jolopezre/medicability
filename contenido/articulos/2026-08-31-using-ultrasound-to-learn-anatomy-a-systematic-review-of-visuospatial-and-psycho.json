@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-using-ultrasound-to-learn-anatomy-a-systematic-review-of-visuospatial-and-psycho",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42647896",
   "doi": "10.1002/ca.70146",
   "titulo": "Using Ultrasound to Learn Anatomy: A Systematic Review of Visuospatial and Psychomotor Skill Outcomes in Medical Students",
-  "tituloEs": null,
+  "tituloEs": "Ecografia en anatomia: impacto en habilidades visuales y psicomotoras de estudiantes",
   "revista": "Clinical anatomy (New York, N.Y.)",
   "autores": [
     "Alexander M",
@@ -36,8 +36,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Priorizar interpretacion de imagenes",
+      "texto": "La interpretacion de imagenes ecograficas mejoro en 83% de estudios evaluados. Incorporar ejercicios de lectura de imagenes antes de la adquisicion practica."
+    },
+    {
+      "titulo": "Adquisicion de imagenes requiere mas practica",
+      "texto": "Solo 33% de estudios mostro mejora significativa en adquisicion tecnica. Planificar sesiones repetidas con retroalimentacion directa para consolidar esta habilidad motora."
+    },
+    {
+      "titulo": "Cuidado con el examen fisico",
+      "texto": "Un estudio reporto deterioro significativo en habilidades de examen fisico tras entrenamiento ecografico. Mantener evaluacion clinica tradicional como competencia independiente y prioritaria."
+    },
+    {
+      "titulo": "Evaluacion por observacion directa",
+      "texto": "Esta revision excluyo estudios basados solo en encuestas o examenes escritos. Evaluar competencias ecograficas mediante OSCE o demostracion practica observada."
+    },
+    {
+      "titulo": "Integrar sin reemplazar",
+      "texto": "Solo 57% de estudios mostro mejora en al menos una habilidad. Usar ecografia como complemento anatomico, no como sustituto de ensenanza tradicional ni de semiologia."
+    }
+  ],
+  "sintesis": "Revision sistematica de 21 estudios (2665 estudiantes) evalua el uso de ecografia en ensenanza anatomica mediante observacion directa. Los resultados sugieren mejora en adquisicion e interpretacion de imagenes, pero son inconsistentes en habilidades de examen fisico.",
+  "aplicacionDocente": "Incorporar ecografia para reforzar anatomia topografica, iniciando con interpretacion de imagenes. Supervisar directamente la adquisicion practica en sesiones repetidas. Evaluar el examen fisico independientemente para prevenir dependencia tecnologica. Usar OSCE con estaciones ecograficas estandarizadas para medir competencia objetivamente.",
+  "infografia": "/img/infografias/2026-08-31-using-ultrasound-to-learn-anatomy-a-systematic-review-of-visuospatial-and-psycho.png",
+  "disenoEstudio": "Revision sistematica de 21 estudios en estudiantes de medicina",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Ecografia mejora interpretacion de imagenes, pero no garantiza mejor examen fisico",
+  "etiquetas": [
+    "ecografia",
+    "ensenanza anatomica",
+    "habilidades psicomotoras",
+    "evaluacion clinica",
+    "estudiantes medicina"
+  ],
+  "advertencia": "Heterogeneidad metodologica entre estudios y 38% sin resultados significativos limitan la generalizacion de hallazgos.",
+  "generadoPor": "claude-sonnet-4-5"
 }

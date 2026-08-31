@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-reaching-beyond-the-milestones-the-thresholds-to-mastery-in-obstetrics-and-gynec",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42648266",
   "doi": "10.1016/j.jsurg.2026.104133",
   "titulo": "Reaching Beyond the Milestones: The Thresholds to Mastery in Obstetrics and Gynecology Training",
-  "tituloEs": null,
+  "tituloEs": "Seis conceptos umbral que definen la madurez clínica en residencia de obstetricia y ginecología",
   "revista": "Journal of surgical education",
   "autores": [
     "Myrick O",
@@ -35,8 +35,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Evaluar más allá de competencias técnicas",
+      "texto": "Observen en ronda si el residente anticipa complicaciones antes de que ocurran, no solo si ejecuta procedimientos. Esa anticipación marca transición hacia autonomía."
+    },
+    {
+      "titulo": "Nombrar la transformación en retroalimentación",
+      "texto": "Señalen cuando un residente pasa de reportar signos a interpretar gravedad clínica: 'Hoy no solo notaste taquicardia, reconociste inestabilidad'. Refuerza el salto conceptual."
+    },
+    {
+      "titulo": "Modelar apropiación del cuidado",
+      "texto": "Deleguen decisiones dinámicas (ajustar plan en turno cambiante) y supervisen cómo el residente asume responsabilidad sin transferirla constantemente. Es práctica supervisada de ownership."
+    },
+    {
+      "titulo": "Visibilizar regulación emocional en crisis",
+      "texto": "Discutan en debriefing cómo manejaron emocionalmente una urgencia obstétrica. Normalizar la carga afectiva y reflexionar sobre ella entrena madurez emocional explícitamente."
+    },
+    {
+      "titulo": "Integrar conceptos umbral en evaluación formativa",
+      "texto": "Diseñen rúbricas que incluyan dimensiones como 'anticipa ajustes técnicos' o 'lidera equipo con emempatía', complementando listas de procedimientos. Dan lenguaje común para crecimiento transformador."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con líderes educativos identificó seis transformaciones esenciales en residentes de obstetricia y ginecología que marcan el paso hacia la práctica independiente. Incluyen reconocimiento de severidad clínica, anticipación quirúrgica, apropiación del cuidado, colaboración empática, decisión autónoma y regulación emocional avanzada. El 90% de educadores encuestados respalda incorporarlos en evaluación.",
+  "aplicacionDocente": "Usen estos seis conceptos umbral (threshold concepts) como lente en observación directa y retroalimentación. Pregunten: ¿el residente reconoce severidad o solo describe datos? ¿Anticipa o reacciona? ¿Asume ownership o consulta cada decisión? Incorporar esta taxonomía en evaluaciones formativas ayuda a nombrar y apoyar transiciones del razonamiento que las competencias tradicionales no capturan.",
+  "infografia": "/img/infografias/2026-08-31-reaching-beyond-the-milestones-the-thresholds-to-mastery-in-obstetrics-and-gynec.png",
+  "disenoEstudio": "Entrevistas cualitativas con 11 líderes educativos de 4 instituciones académicas, seguidas de encuesta a 78 educadores",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Seis saltos conceptuales que marcan la transición del residente a médico independiente",
+  "etiquetas": [
+    "conceptos umbral",
+    "educación basada en competencias",
+    "formación en residencia",
+    "obstetricia y ginecología",
+    "razonamiento clínico"
+  ],
+  "advertencia": "Muestra limitada a cuatro instituciones de una región metropolitana; generalización a otros contextos requiere validación adicional.",
+  "generadoPor": "claude-sonnet-4-5"
 }

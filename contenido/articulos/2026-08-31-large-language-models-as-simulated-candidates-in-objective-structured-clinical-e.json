@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-large-language-models-as-simulated-candidates-in-objective-structured-clinical-e",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42662474",
   "doi": "10.2147/AMEP.S623640",
   "titulo": "Large Language Models as Simulated Candidates in Objective Structured Clinical Examinations: A Rubric-Mapping Proof-of-Concept Study",
-  "tituloEs": null,
+  "tituloEs": "Modelos de lenguaje como candidatos simulados en exámenes clínicos estructurados: estudio de concepto",
   "revista": "Advances in medical education and practice",
   "autores": [
     "Lupon E",
@@ -37,8 +37,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Auditoría de rúbricas con IA",
+      "texto": "Considerad usar modelos de lenguaje para simular respuestas estudiantiles en estaciones OSCE piloto y detectar ítems faltantes, ambiguos o inconsistentes en vuestras listas de cotejo antes de la aplicación formal."
+    },
+    {
+      "titulo": "Alimentad el contexto curricular",
+      "texto": "Al usar IA para revisión de rúbricas, proporcionad objetivos de aprendizaje y casos clínicos oficiales: la cobertura de checklist aumentó de 81% a 95% con esta estrategia de referencias aumentadas (RAG)."
+    },
+    {
+      "titulo": "Priorizad estaciones estructuradas",
+      "texto": "Los modelos rindieron mejor en estaciones orientadas a procedimientos (92%) que en diálogos complejos (74%). Usadlos primero para validar estaciones de habilidades técnicas o anamnesis estructuradas."
+    },
+    {
+      "titulo": "Revisad contenido fuera de checklist",
+      "texto": "El modelo generó 22% de acciones clínicamente apropiadas no contempladas en rúbricas. Estas adiciones pueden revelar lagunas en vuestras listas de cotejo que requieren revisión experta."
+    },
+    {
+      "titulo": "No reemplacéis la validación humana",
+      "texto": "Este enfoque es de apoyo a la decisión, no sustituto de evaluadores. Requiere múltiples ejecuciones, bancos grandes de estaciones y comparación con desempeño humano antes de implementarse rutinariamente."
+    }
+  ],
+  "sintesis": "Un modelo de lenguaje (GPT-4 Turbo) simuló respuestas de estudiante en 10 estaciones OSCE validadas en Francia, cubriendo 81% de rúbricas sin referencias y 95% con documentos oficiales. El modelo generó contenido clínicamente apropiado no contemplado en listas de cotejo, sugiriendo que estas herramientas podrían ayudar a identificar elementos faltantes o ambiguos en rúbricas antes de aplicar exámenes.",
+  "aplicacionDocente": "Antes de aplicar una nueva estación OSCE, simulad respuestas estudiantiles con un modelo de lenguaje alimentado por objetivos curriculares. Comparad salidas con vuestra rúbrica para identificar ítems ausentes o ambiguos, luego revisadlos con pares expertos. Este proceso de prevalidación puede reducir inconsistencias en la evaluación y mejorar la calidad del examen sin reemplazar el juicio clínico docente.",
+  "infografia": "/img/infografias/2026-08-31-large-language-models-as-simulated-candidates-in-objective-structured-clinical-e.png",
+  "disenoEstudio": "Estudio exploratorio de prueba de concepto con 10 estaciones OSCE nacionales, ejecución única por condición",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA simula estudiantes en OSCE y detecta vacíos en listas de cotejo antes del examen",
+  "etiquetas": [
+    "osce",
+    "inteligencia artificial",
+    "evaluacion clinica",
+    "modelos de lenguaje",
+    "validacion de rubricas"
+  ],
+  "advertencia": "Estudio de ejecución única sin comparador humano; los resultados son generadores de hipótesis y requieren replicación con múltiples corridas y muestras ampliadas.",
+  "generadoPor": "claude-sonnet-4-5"
 }

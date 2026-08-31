@@ -1,10 +1,10 @@
 {
   "id": "2026-08-31-understanding-undergraduate-medicines-optimisation-education-and-its-importance-",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42666696",
   "doi": "10.5334/pme.2450",
   "titulo": "Understanding Undergraduate Medicines Optimisation Education and Its Importance; a Realist Evaluation",
-  "tituloEs": null,
+  "tituloEs": "Por que la educacion en optimizacion de medicamentos ayuda a integrar lo biomedico con lo biografico",
   "revista": "Perspectives on medical education",
   "autores": [
     "Bodington R",
@@ -32,8 +32,41 @@
   "semana": "2026-S36",
   "descubiertoEl": "2026-08-31",
   "publicadoEl": "2026-08-31",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Valorar la medicina interpretativa",
+      "texto": "Expliquen en rondas por que conocer la biografia del paciente no es opcional, sino parte del razonamiento clinico riguroso, especialmente en polifarmacia."
+    },
+    {
+      "titulo": "Dar permiso explicito",
+      "texto": "Autoricen activamente a estudiantes y residentes a preguntar sobre contexto de vida, metas y preferencias del paciente al revisar esquemas terapeuticos, incluso si enlentece la ronda."
+    },
+    {
+      "titulo": "Modelar la integracion biomedica-biografica",
+      "texto": "Demuestren en voz alta como combinan datos de laboratorio con situacion social del paciente para ajustar o suspender medicamentos, haciendo visible el proceso."
+    },
+    {
+      "titulo": "Construir masa critica",
+      "texto": "Impulsen grupos de docentes que practiquen y enseñen optimizacion de medicamentos para que aprendices perciban que es practica estandar, no excepcion de un profesor aislado."
+    },
+    {
+      "titulo": "Asignar tiempo protegido",
+      "texto": "Negocien espacios curriculares especificos para discutir casos de polifarmacia compleja donde la discusion biografica no compita con presion asistencial."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con 16 expertos explora como funciona la educacion en optimizacion de medicamentos para abordar la polifarmacia problematica. Encuentra que requiere valoracion institucional, asignacion de recursos y permiso explicito para que los estudiantes integren medicina interpretativa en sus decisiones.",
+  "aplicacionDocente": "Este estudio sugiere que para ensenar optimizacion de medicamentos debemos crear condiciones institucionales: tiempo curricular protegido, modelaje explicito de como integramos biografia con biologia al desprescribir, y autorizacion clara a los aprendices para que pregunten sobre metas y contexto sin sentir que ralentizan el trabajo. La clave es hacerlo practica visible y comunitaria.",
+  "infografia": "/img/infografias/2026-08-31-understanding-undergraduate-medicines-optimisation-education-and-its-importance-.png",
+  "disenoEstudio": "Evaluacion realista con entrevistas individuales a 16 expertos clinicos y educativos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Ensenar optimizacion de medicamentos requiere permiso institucional y tiempo para lo biografico",
+  "etiquetas": [
+    "optimizacion de medicamentos",
+    "polifarmacia",
+    "medicina interpretativa",
+    "razonamiento clinico",
+    "educacion medica"
+  ],
+  "advertencia": "Estudio cualitativo con muestra de conveniencia de expertos; las barreras y facilitadores identificados pueden variar segun contexto institucional y sistema de salud.",
+  "generadoPor": "claude-sonnet-4-5"
 }
