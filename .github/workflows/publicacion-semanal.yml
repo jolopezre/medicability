@@ -46,6 +46,7 @@ jobs:
       - name: Redactar los 5 tips
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           MODELO_IA: ${{ vars.MODELO_IA || 'claude-sonnet-4-5' }}
         run: npm run resumir
       - name: Generar infografias
