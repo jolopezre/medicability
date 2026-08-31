@@ -1,0 +1,54 @@
+{
+  "id": "2026-08-31-residents-perceptions-of-interprofessional-education-and-collaboration-in-clinic",
+  "estado": "pendiente",
+  "pmid": "42669607",
+  "doi": "10.3946/kjme.2026.208",
+  "titulo": "Residents' perceptions of interprofessional education and collaboration in clinical settings and implications for medical education: a scoping review",
+  "tituloEs": null,
+  "revista": "Korean journal of medical education",
+  "autores": [
+    "Wardhana DPW",
+    "Yusuf I",
+    "As'ad S",
+    "Riu DS",
+    "Afandi IN",
+    "Adiputra IKH",
+    "Aras I"
+  ],
+  "fechaPublicacion": "2026 Sep",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42669607/",
+  "resumenOriginal": "Interprofessional collaboration (IPC) and intraprofessional collaboration (IntraPC) are core competencies in interprofessional education (IPE), but resident physicians often encounter difficulties in practice. Understanding residents' perceptions of IPE is essential for developing effective education. This scoping review aims to map and synthesize existing literature on residents' perceptions of IPE. A systematic search was conducted on the PubMed and ScienceDirect databases. The selection process followed the PRISMA-ScR (Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) framework. Data from eligible studies were extracted and analyzed thematically. Ten studies met the inclusion criteria from 337 identified articles. Thematic analysis revealed four interrelated main themes regarding residents' perceptions of IPE. These themes included \"knowledge, skills, and attitudes,\" as well as implications for medical education that highlight the urgent need for a formal, structured, and longitudinal IPE curriculum, utilizing methods such as simulation and discussion- based learning. Residents' perceptions of IPE are characterized by tension between cultural barriers and systematic drivers of collaboration. The gap between these barriers and drivers of collaboration underscores the need for residency programs to proactively integrate ongoing IPE training to prepare residents for collaborative challenges in clinical practice.",
+  "mesh": [
+    "Humans",
+    "Internship and Residency",
+    "Interprofessional Relations",
+    "Cooperative Behavior",
+    "Interprofessional Education",
+    "Attitude of Health Personnel",
+    "Curriculum",
+    "Clinical Competence",
+    "Education, Medical",
+    "Perception"
+  ],
+  "palabrasClave": [
+    "Internship and residency",
+    "Interprofessional education",
+    "Medical education",
+    "Scoping review"
+  ],
+  "temas": [
+    "Docencia médica"
+  ],
+  "puntaje": 20,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

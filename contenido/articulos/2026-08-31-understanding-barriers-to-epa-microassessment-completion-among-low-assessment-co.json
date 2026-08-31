@@ -1,0 +1,46 @@
+{
+  "id": "2026-08-31-understanding-barriers-to-epa-microassessment-completion-among-low-assessment-co",
+  "estado": "pendiente",
+  "pmid": "42659912",
+  "doi": "10.1016/j.jsurg.2026.104116",
+  "titulo": "Understanding Barriers to EPA Microassessment Completion Among Low-Assessment-Completion Surgical Faculty and Residents: A Two-Cohort Qualitative Study",
+  "tituloEs": null,
+  "revista": "Journal of surgical education",
+  "autores": [
+    "Jenkins PD",
+    "Willis S",
+    "Cook MR",
+    "Husain F",
+    "Doberne JW",
+    "Thanawala RM"
+  ],
+  "fechaPublicacion": "2026 Aug 27",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42659912/",
+  "resumenOriginal": "Objective: To identify barriers to entrustable professional activity (EPA) microassessment completion among surgical faculty and residents and to examine whether those barriers converge across roles and institutional contexts.\n\nDesign: Two-cohort qualitative study using semistructured interviews and focus groups. Faculty participants were identified through purposeful sampling of low-assessment-completion (LAC) attendings from a national EPA database (Firefly). Resident participants were recruited from 2 institutions using different EPA delivery platforms (Firefly and Society for Improving Medical Professional Learning [SIMPL]). Transcripts were analyzed using a constructivist-informed hybrid deductive-inductive thematic analysis framework with a structured codebook held open to emergent codes. Data saturation was confirmed using cumulative code analysis. Reporting follows the Consolidated Criteria for Reporting Qualitative Research (COREQ).\n\nSetting: Faculty were identified through a national EPA database and practiced across 5 surgical subspecialties at a single academic medical center and its affiliated Veterans Affairs hospital; residents were drawn from 2 academic general surgery residency programs using different EPA delivery platforms.\n\nParticipants: Five general surgery faculty and 10 PGY4 to 5 general surgery residents, including 2 maximum variation interviews with self-described high- and LAC EPA users.\n\nResults: Across both cohorts, faculty and residents described EPA microassessment completion as an administrative act disconnected from the educational interaction it is intended to represent. Four faculty themes were identified: structural workflow limitations, misaligned perceived value, cultural and motivational gaps, and training and conceptual ambiguity. Five resident themes were identified: lack of perceived value, institutional priorities and accountability, feedback modality dissatisfaction, lack of training standardization, and selective initiation. The conceptual core uniting both cohorts was the conflation of formative feedback with formal entrustment assessment: both groups treated EPAs as duplicative of feedback conversations that had already occurred. Residents reported being more likely to request assessments after strong performances and less likely after challenging ones, while faculty described reluctance to document poor performance in a permanent record, producing bidirectional pressure toward a positively skewed entrustment signal. Platform architecture shaped engagement culture, with resident-initiated patterns predominating on SIMPL and attending-initiated patterns on Firefly.\n\nConclusions: Low EPA microassessment completion rates among surgical faculty and residents reflect modifiable failures in workflow design, conceptual framing, and assessment culture rather than fundamental limitations of the EPA framework. The widespread conflation of formative feedback with formal entrustment assessment represents a conceptual gap that undermines the construct validity of EPA-generated data and must be addressed through targeted education before structural interventions can be fully effective. Electronic health record (EHR)-integrated assessment workflows, platform-agnostic sampling standards, and faculty and resident development focused on the distinct longitudinal function of EPA microassessments are needed to realize the construct validity and educational utility the framework is designed to provide.",
+  "mesh": [],
+  "palabrasClave": [
+    "assessment",
+    "competency-based medical education",
+    "entrustable professional activities",
+    "faculty engagement",
+    "qualitative research",
+    "resident education",
+    "surgical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 21.5,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

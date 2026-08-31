@@ -1,0 +1,48 @@
+{
+  "id": "2026-08-31-clinical-evaluation-of-a-vision-language-model-for-optimizing-triage-and-clinica",
+  "estado": "pendiente",
+  "pmid": "42667903",
+  "doi": "10.1016/j.ijmedinf.2026.106673",
+  "titulo": "Clinical evaluation of a vision-language model for optimizing triage and clinical workflows in critical care",
+  "tituloEs": null,
+  "revista": "International journal of medical informatics",
+  "autores": [
+    "Strechen I",
+    "Krishnan P",
+    "Kilickaya O",
+    "Barwise AK",
+    "Koo C",
+    "Kor NT",
+    "Deeduvanu LA",
+    "Argue DP",
+    "Herasevich V",
+    "Pickering BW",
+    "Herasevich S"
+  ],
+  "fechaPublicacion": "2026 Aug 23",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42667903/",
+  "resumenOriginal": "Objective: Clinical deterioration in hospitalized patients is often preceded by subtle, dynamic physiological changes that are difficult to detect using intermittently charted electronic health record (EHR) data. Our objective was to evaluate the reliability, interpretability, and clinical relevance of a Vision&#x2011;Language Model (VLM)-based triage framework that analyzes physiological trend images, by comparing VLM-generated outputs with attending physician assessments as the expert clinical comparator.\n\nMaterials and methods: We conducted a single-center expert agreement pilot study including 100 adult patients with two hours of dynamic monitoring data across four vital signs (SpO2, RR, HR, BP). A structured prompt was developed using the Gemini 2.5 Flash model. Two independent reviewers assessed VLM outputs for clinical interpretation, artifact detection, and triage classification. We evaluated reviewer agreement using percent agreement and weighted Cohen's &#x3ba;. A secondary risk-oriented analysis measured classification concordance and over-triaged cases as lower-risk classifications, while cases underestimating patient acuity were designated as higher-risk misclassifications.\n\nResults: The VLM demonstrated moderate to substantial agreement in triage classification with the attending physician and a low rate of under-triage. The VLM assigned the same patient acuity category as attending physician in 75&#xa0;% of cases and underestimated acuity in 7&#xa0;% of cases, compared with 14&#xa0;% underestimation by the physician in training.\n\nDiscussion: VLMs extend generative artificial intelligence capabilities by enabling image&#x2011;grounded clinical reasoning and offer signal&#x2011;processing capabilities for interpreting time&#x2011;stamped physiological trends.\n\nConclusion: The VLM demonstrated reliable clinical interpretation and an acceptable safety profile, however its integration into clinical workflows for early recognition of physiological deterioration and patient acuity assessment requires further rigorous evaluation and comparison to currently used track-and-trigger systems and patient monitoring methods.",
+  "mesh": [],
+  "palabrasClave": [
+    "Clinical deterioration detection",
+    "Generative artificial intelligence",
+    "Physiological trend analysis and triage",
+    "Vision&#x2011;language models",
+    "Vital sign signal processing"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "IA en educación médica"
+  ],
+  "puntaje": 20,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

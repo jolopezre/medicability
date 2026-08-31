@@ -1,0 +1,43 @@
+{
+  "id": "2026-08-31-using-ultrasound-to-learn-anatomy-a-systematic-review-of-visuospatial-and-psycho",
+  "estado": "pendiente",
+  "pmid": "42647896",
+  "doi": "10.1002/ca.70146",
+  "titulo": "Using Ultrasound to Learn Anatomy: A Systematic Review of Visuospatial and Psychomotor Skill Outcomes in Medical Students",
+  "tituloEs": null,
+  "revista": "Clinical anatomy (New York, N.Y.)",
+  "autores": [
+    "Alexander M",
+    "Montalbano MJ",
+    "Ward R",
+    "Loukas M"
+  ],
+  "fechaPublicacion": "2026 Aug 26",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42647896/",
+  "resumenOriginal": "The incorporation of ultrasound into over 70% of US medical schools since its introduction in 2006 has created a need for research to evaluate the impact on various educational outcomes, particularly on skill acquisition. This review aims to address this gap by reviewing studies that move beyond subjective surveys and written tests to evaluate performance through direct observation. Following PRISMA guidelines, 1206 studies were screened, and 21 of these met the inclusion criteria by stating the clear use of ultrasound to teach anatomy to medical students, and assessing skill acquisition as an outcome. A total of 2665 participants were included across the 21 studies. Fifty-seven percent (12/21) of studies evaluated technical image acquisition proficiency by assessing medical students' ability to obtain adequate images and identify specific anatomical structures during focused examinations, with 33% of those (4/12) showing a significant increase in image acquisition after US intervention. Of the 29% (6/21) of studies that assessed students' ability to interpret US images that were not self-acquired, 83% (5/6) showed a significant increase in image interpretation skills. Fifty-seven percent (12/21) of studies focused on the use of US to enhance clinical assessment techniques, including a combination of history, physical examination, diagnostic, or procedural assessments. Of the twelve studies, 58% (7/12) focused on US impact on physical examination, with 57% (4/7) showing a significant improvement, 14% (1/7) showing a significant decrease in physical examination skills acquisition after US intervention, and 29% (2/7) showing insignificant results. Overall, 57% (12/21) of studies demonstrated that the addition of hands-on US to the curriculum significantly improved at least one of the investigated skills in students. One study showed that hands-on US significantly decreased clinical skill acquisition. Thirty-eight percent (8/21) of the studies did not measure significance level or produced insignificant results across all skills investigated. After completion, this review suggests that the inclusion of hands-on ultrasound training in the medical curriculum may improve psychomotor and visuospatial skills, including image acquisition, image interpretation, and clinical assessment techniques.",
+  "mesh": [],
+  "palabrasClave": [
+    "curriculum",
+    "medical education",
+    "metacognition",
+    "psychomotor",
+    "ultrasonography",
+    "visuospatial"
+  ],
+  "temas": [
+    "Error diagnóstico y metacognición",
+    "Docencia médica"
+  ],
+  "puntaje": 22,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

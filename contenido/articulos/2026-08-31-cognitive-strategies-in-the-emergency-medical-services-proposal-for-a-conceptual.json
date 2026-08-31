@@ -1,0 +1,41 @@
+{
+  "id": "2026-08-31-cognitive-strategies-in-the-emergency-medical-services-proposal-for-a-conceptual",
+  "estado": "pendiente",
+  "pmid": "42642726",
+  "doi": "10.1186/s12245-026-01355-2",
+  "titulo": "Cognitive strategies in the Emergency Medical Services: proposal for a conceptual integrated framework to explicate clinical reasoning in EMS",
+  "tituloEs": null,
+  "revista": "International journal of emergency medicine",
+  "autores": [
+    "Dercksen B",
+    "Paans W",
+    "Struys MMRF",
+    "Cnossen F"
+  ],
+  "fechaPublicacion": "2026 Aug 25",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42642726/",
+  "resumenOriginal": "Background: Clinical reasoning is fundamental to safe and effective Emergency Medical Services (EMS) care. EMS providers operate in dynamic, time-pressured environments characterised by diagnostic uncertainty, limited information, and high-stakes decisions. These conditions necessitate rapid yet adaptable reasoning strategies.The SPART model was developed through focused ethnography and content validation to describe observable diagnostic and therapeutic activities in EMS practice. It provides a structured representation of the care process from dispatch to transfer of care, serving as a basis for the clinical reasoning (CR) process executed by EMS providers. While it clarifies what EMS providers do, it does not explicate the cognitive processes underpinning these activities.The Dual-Process Theory (DPT) has been widely adopted to explain clinical reasoning, distinguishing between intuitive (System 1) and analytic (System 2) processes. In addition to the two systems defined in the DPT, a third, supervisory metacognitive (System 3), was proposed. To our knowledge, the DPT and the System 3 concept have not yet been explicitly integrated with EMS-specific workflow models. As a result, cognitive explanations and process descriptions of CR in EMS remain conceptually disconnected.\n\nAim: To present a theory-based integrated framework that explicates clinical reasoning in EMS by integrating the SPART model, Dual-Process Theory, with a supervisory metacognitive system.\n\nMethod: A conceptual synthesis grounded in cognitive psychology and the diagnostic reasoning literature, explicitly mapped onto the empirically derived SPART workflow, was conducted.\n\nResults: The conceptual integrated framework views EMS clinical reasoning as an ongoing interaction between intuitive and analytical processes, overseen by a metacognitive supervisory system, and situated within the SPART phases of EMS care. The model explains adaptive decision-making, bias mitigation, and complex disposition decisions such as non-conveyance.\n\nConclusion: This paper addresses the gap between the theory and practice of EMS clinical reasoning by introducing a cognitive framework explicitly aligned with SPART, integrating Dual-Process Theory (DPT) and a supervisory metacognitive system, thereby enabling a combined understanding of workflow and cognition in EMS practice.",
+  "mesh": [],
+  "palabrasClave": [
+    "Clinical reasoning",
+    "Cognitive strategies",
+    "Education",
+    "Emergency Medical Services",
+    "Pre-hospital"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Error diagnóstico y metacognición"
+  ],
+  "puntaje": 21.5,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}
