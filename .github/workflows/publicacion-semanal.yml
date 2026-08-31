@@ -1,0 +1,68 @@
+name: Publicación semanal
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'
+  workflow_dispatch:
+    inputs:
+      maximo:
+        description: 'Número máximo de artículos a publicar'
+        required: false
+        default: '5'
+      ventana:
+        description: 'Ventana de búsqueda en días'
+        required: false
+        default: '10'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicacion-semanal
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - name: Instalar dependencias
+        run: npm ci || npm install
+      - name: Instalar Chromium para Playwright
+        run: npx playwright install --with-deps chromium
+      - name: Buscar articulos en PubMed
+        env:
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          MAXIMO_SEMANAL: ${{ github.event.inputs.maximo || '5' }}
+          VENTANA_DIAS: ${{ github.event.inputs.ventana || '10' }}
+        run: npm run buscar
+      - name: Redactar los 5 tips
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODELO_IA: ${{ vars.MODELO_IA || 'claude-sonnet-4-5' }}
+        run: npm run resumir
+      - name: Generar infografias
+        run: npm run infografias
+      - name: Verificar que el sitio construye
+        env:
+          SITIO_URL: ${{ vars.SITIO_URL }}
+        run: npm run construir
+      - name: Guardar los cambios en el repositorio
+        run: |
+          git config user.name "medicability-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add contenido/articulos publico/img/infografias
+          if git diff --staged --quiet; then
+            echo "Sin articulos nuevos esta semana."
+          else
+            git commit -m "Edicion semanal $(date -u +'%Y-%m-%d')"
+            git push
+          fi
