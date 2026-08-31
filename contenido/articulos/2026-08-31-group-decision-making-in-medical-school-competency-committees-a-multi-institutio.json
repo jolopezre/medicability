@@ -1,0 +1,46 @@
+{
+  "id": "2026-08-31-group-decision-making-in-medical-school-competency-committees-a-multi-institutio",
+  "estado": "pendiente",
+  "pmid": "42658655",
+  "doi": "10.1093/acamed/wvag268",
+  "titulo": "Group decision-making in medical school competency committees: a multi-institutional ethnographic study",
+  "tituloEs": null,
+  "revista": "Academic medicine : journal of the Association of American Medical Colleges",
+  "autores": [
+    "Ryan MS",
+    "Teunissen P",
+    "Santen SA",
+    "Schumacher DJ",
+    "Parsons AS",
+    "Poeppelman RS",
+    "Jolani S",
+    "Jones RL",
+    "Vitto CM",
+    "Vinson A",
+    "UME Competency Committee Collaborators"
+  ],
+  "fechaPublicacion": "2026 Aug 27",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42658655/",
+  "resumenOriginal": "Purpose: Competency committees use group decision-making procedures to determine when learners may advance in their training. These committees have been well-described in graduate medical education (GME) and efforts have explored transferability of this model to undergraduate medical education (UME). Existing research in UME has focused on committee structure and member perspectives, with little examination of decision-making processes. This study explored how UME competency committees use group decision-making to arrive at competency determinations.\n\nMethod: This theory-informed, multi-institutional ethnographic study was conducted at seven medical schools in the United States between 2023-2024. Participants were members of each medical school's competency committee. Data sources included observations of committee deliberations and member interviews. The authors analyzed data using an abductive approach, combining inductive and deductive reasoning with theory to formulate an understanding of group decision-making. Effective group process, a theoretical model for group-decision making in GME, served as the primary lens for analysis.\n\nResults: A total of 20 competency committee meetings were observed, during which 242 students were discussed. Committees formulated their decisions in a complex context. Factors contributing to the complexity included the existence multiple groups concerned with student performance (e.g. competency committees, advancement committees, etc.), other metrics for performance (i.e. grades), and academic polices. A similar stepwise process was used to make decisions across sites. However, there was significant inter-institutional variation in procedures and rules related to student presentations and deliberations, voting procedures, and the chair's role. Outcomes were determined by locally established thresholds and decisions varied; some rendered remediation or entrustment decisions while others provided developmental feedback.\n\nConclusions: Decision-making in the UME setting is complex with features distinct from GME. UME competency committees therefore require unique considerations to support effective group decision-making and mitigate challenges and threats to the process.",
+  "mesh": [],
+  "palabrasClave": [
+    "competency committee",
+    "competency-based medical education",
+    "group decision-making"
+  ],
+  "temas": [
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 25,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-08-31-large-language-models-as-simulated-candidates-in-objective-structured-clinical-e",
+  "estado": "pendiente",
+  "pmid": "42662474",
+  "doi": "10.2147/AMEP.S623640",
+  "titulo": "Large Language Models as Simulated Candidates in Objective Structured Clinical Examinations: A Rubric-Mapping Proof-of-Concept Study",
+  "tituloEs": null,
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Lupon E",
+    "Gérard AO",
+    "Destere A",
+    "Lombardi R",
+    "Maurice-Szamburski A",
+    "Micicoi G"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42662474/",
+  "resumenOriginal": "Background: Large language models (LLMs) perform well on knowledge-based medical examinations, but evidence on their utility for performance-based assessments such as Objective Structured Clinical Examinations (OSCEs) remains limited. Beyond simulating candidate answers, LLMs could support quality assurance of OSCE stations by auditing the completeness and internal consistency of analytic scoring rubrics.\n\nMethods: In this exploratory, single-run study, GPT-4 Turbo (OpenAI, accessed via the ChatGPT Plus consumer interface, May 2025) simulated a final-year medical student (DFASM3) across 10 validated French national OSCE stations covering all 11 nationally defined competency domains, using a fixed system prompt applied identically across stations. Each station was run once in a baseline condition and once in a reference-augmented (RAG) condition, in which official LiSA learning objectives and Starting Clinical Situation (SCS) documents were additionally provided. Outputs were scored against official analytic rubrics by two clinical educators through independent review (Cohen's &#x3ba;=0.84), with disagreements resolved by consensus; off-checklist content was similarly adjudicated.\n\nResults: Mean baseline checklist coverage was 81% (SD 10.2), with A-level item omission averaging 10% (SD 7.2). RAG coverage increased to 95% (SD 5.1; Wilcoxon signed-rank test, p=0.002), recovering 1-4 previously missed items per station. Off-checklist additions averaged 22% of checklist items per station, nearly all clinically relevant; one incorrect addition was identified. Coverage was higher in structured, action-oriented stations (91.6% &#xb1; 4.1) than dialogue-heavy stations (73.7% &#xb1; 7.4). Given the single-run design and absence of a human comparator, results are exploratory and hypothesis-generating rather than robust performance estimates.\n\nConclusion: This proof-of-concept study shows that an LLM can generate structured, rubric-mappable OSCE responses and may help educators flag missing, ambiguous, or inconsistent checklist elements for expert review. These exploratory findings support further investigation of LLMs as decision-support tools for OSCE station pre-validation, pending replication with multiple runs, larger station banks, and human comparators.\n\nMedical schools use Objective Structured Clinical Examinations (OSCEs) to test students&#x2019; clinical skills in standardized scenarios. Building these exams takes time, and teachers must carefully check that the scoring checklists are complete and consistent. In this study, we tested whether an artificial intelligence tool called a large language model (GPT-4 Turbo, the technology behind ChatGPT) could answer OSCE scenarios the way a medical student would. We then compared its answers with the official scoring checklists to see whether this could help teachers spot missing or unclear items. We tested 10 nationally validated French OSCE stations. The AI covered about 81% of the expected checklist items on average. When we gave it the official learning references, its coverage rose to 95%. The AI also gave extra, clinically appropriate answers that were not on the scoring checklist, suggesting some checklists may be incomplete. We found only one incorrect answer across all 10 stations. These findings suggest that AI tools could help teachers review and improve OSCE checklists before exams, as a quality-control support rather than a replacement for human examiners. This was a small, preliminary study with important limitations. We need larger studies that repeat the test multiple times before using this approach in practice.",
+  "mesh": [],
+  "palabrasClave": [
+    "OSCE",
+    "artificial intelligence",
+    "assessment validation",
+    "large language models",
+    "medical education",
+    "proof-of-concept"
+  ],
+  "temas": [
+    "Evaluación y competencias",
+    "IA en educación médica"
+  ],
+  "puntaje": 25,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

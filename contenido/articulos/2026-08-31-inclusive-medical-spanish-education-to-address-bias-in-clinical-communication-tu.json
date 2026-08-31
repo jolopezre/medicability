@@ -1,0 +1,53 @@
+{
+  "id": "2026-08-31-inclusive-medical-spanish-education-to-address-bias-in-clinical-communication-tu",
+  "estado": "pendiente",
+  "pmid": "42627956",
+  "doi": "10.2196/98398",
+  "titulo": "Inclusive Medical Spanish Education to Address Bias in Clinical Communication: Tutorial on Patient-Informed Module Development",
+  "tituloEs": null,
+  "revista": "JMIR medical education",
+  "autores": [
+    "Lopez Vera A"
+  ],
+  "fechaPublicacion": "2026 Aug 21",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42627956/",
+  "resumenOriginal": "Spanish-speaking patients who are lesbian, gay, bisexual, transgender, queer, and other minority sexual orientations and gender identities (LGBTQ+) may encounter overlapping barriers in clinical care related to language discordance, misgendering, heteronormative questioning, and culturally unresponsive communication. These barriers can undermine trust, limit disclosure, and negatively affect care experiences and continuity of care. At the same time, medical Spanish curricula in the United States remain highly variable in content, structure, and assessment, and inclusive, bias-aware communication has not been consistently integrated into language training for health professions learners. Our prior qualitative work with Latinx, Hispanic, and Spanish-origin LGBTQ+ adults identified communication priorities directly relevant to educational design, including respectful forms of address, open-ended relationship language, broader recognition of family structures, and reduced reliance on binary or heteronormative assumptions. Our prior curricular work has also shown that structured medical Spanish instruction using self-study, faculty-led teaching, peer support, standardized patient encounters, and performance-based assessment can be implemented in undergraduate medical education. This tutorial presents a patient-informed framework for developing an inclusive medical Spanish module to address bias in clinical communication. Rather than reporting a new intervention study, it synthesizes prior qualitative findings and prior curricular experience to provide practical guidance for educators. The framework describes how to translate patient-reported communication priorities into curricular design principles, learning objectives, technology-enhanced preparatory activities, standardized patient and live-practice components, feedback and assessment strategies, and implementation planning. It argues that inclusive communication should not be treated as optional cultural content or as a narrow language add-on but as a core component of competent clinical performance in Spanish-language care. This tutorial is intended for medical educators, language educators, course directors, and simulation teams seeking to strengthen language-concordant and bias-aware communication training in medical Spanish. By linking patient-informed findings to concrete educational design choices, the framework offers a practical model for integrating inclusive communication throughout instruction, simulation, and assessment. A patient-informed approach of this kind may help health professions programs move beyond general statements about inclusion and toward more deliberate preparation of learners to communicate respectfully and effectively with Spanish-speaking LGBTQ+ patients.",
+  "mesh": [
+    "Humans",
+    "Communication",
+    "Communication Barriers",
+    "Curriculum",
+    "Education, Medical, Undergraduate",
+    "Hispanic or Latino",
+    "Physician-Patient Relations",
+    "United States",
+    "Sexual and Gender Minorities"
+  ],
+  "palabrasClave": [
+    "LGBTQ+ health",
+    "bias",
+    "clinical communication",
+    "curriculum development",
+    "digital education",
+    "inclusive communication",
+    "language concordance",
+    "medical Spanish",
+    "simulation training",
+    "standardized patients"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S36",
+  "descubiertoEl": "2026-08-31",
+  "publicadoEl": "2026-08-31",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}
