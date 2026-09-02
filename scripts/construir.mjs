@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import * as P from './lib/plantillas.mjs';
+import { paginaSuscribirse } from './lib/suscribirse.mjs';
 import {
   DIR_SITIO, DIR_PUBLICO, rutaDe, leerJSON, asegurarDir,
   listarArticulos, log,
@@ -88,12 +89,18 @@ escribir('acerca/index.html', P.base({
   contenido: P.paginaAcerca({ sitio }),
 }));
 
+escribir('suscribirse/index.html', P.base({
+sitio, ruta: '/suscribirse/', titulo: 'Suscribirse',
+descripcion: 'Sigue MEDICABILITY por RSS: cada lunes, evidencia en docencia médica y razonamiento clínico.',
+contenido: paginaSuscribirse({ sitio }),
+}));
+
 escribir('404.html', P.base({ sitio, ruta: '/404', titulo: 'No encontrado', contenido: P.pagina404() }));
 
 // 6. RSS, sitemap, indice de busqueda
 escribir('feed.xml', P.feed({ sitio, articulos: todos }));
 
-const rutas = ['/', '/articulos/', '/infografias/', '/temas/', '/acerca/', ...todos.map((a) => `/articulo/${a.id}/`)];
+const rutas = ['/', '/articulos/', '/infografias/', '/suscribirse/', '/temas/', '/acerca/', ...todos.map((a) => `/articulo/${a.id}/`)];
 escribir('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${rutas.map((r) => `  <url><loc>${sitio.url}${r}</loc><lastmod>${new Date().toISOString().slice(0, 10)}</lastmod></url>`).join('\n')}
