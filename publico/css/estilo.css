@@ -1,3 +1,11 @@
+.lectores{display:grid;gap:.9rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin:1.5rem 0 2.5rem}
+.lector{display:flex;flex-direction:column;gap:.3rem;text-decoration:none;background:var(--papel);border:1px solid var(--linea);border-radius:var(--radio);padding:1.1rem 1.2rem;transition:transform .18s, box-shadow .18s, border-color .18s}
+.lector:hover{transform:translateY(-3px);box-shadow:var(--sombra);border-color:var(--acento)}
+.lector strong{font-size:1.02rem;color:var(--tinta)}
+.lector span{font-size:.86rem;color:var(--gris);line-height:1.45}
+.caja-url{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;background:var(--papel);border:1px solid var(--linea);border-radius:var(--radio);padding:1rem 1.2rem;margin:1.2rem 0 2.5rem}
+.caja-url code{font-size:.92rem;color:var(--acento);word-break:break-all;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+
 /* ══════════════════════════════════════════════════════════════
    MEDICABILITY — hoja de estilo única
    Paleta, tipografía y componentes. Todo editable desde :root.
