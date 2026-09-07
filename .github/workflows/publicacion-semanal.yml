@@ -2,7 +2,9 @@ name: Publicación semanal
 
 on:
   schedule:
-    - cron: '0 11 * * 1'
+    # Lunes 06:23 en Lima (11:23 UTC). Se evita el minuto 0 porque GitHub
+    # retrasa o descarta las tareas programadas en el pico de cada hora.
+    - cron: '23 11 * * 1'
   workflow_dispatch:
     inputs:
       maximo:
@@ -65,4 +67,19 @@ jobs:
           else
             git commit -m "Edicion semanal $(date -u +'%Y-%m-%d')"
             git push
+          fi
+      - name: Resumen y aviso de fallos
+        run: |
+          total=$(ls contenido/articulos/*.json 2>/dev/null | wc -l)
+          pend=$(grep -l '"estado": "pendiente"' contenido/articulos/*.json 2>/dev/null | wc -l)
+          img=$(ls publico/img/infografias/*.png 2>/dev/null | wc -l)
+          {
+            echo "### Publicacion semanal"
+            echo "- Articulos en el archivo: $total"
+            echo "- Infografias: $img"
+            echo "- Sin redactar: $pend"
+          } >> $GITHUB_STEP_SUMMARY
+          if [ "$pend" -gt 0 ]; then
+            echo "::error::Quedaron $pend articulos sin redactar. Revisa el paso 'Redactar los 5 tips' (saldo de la API, clave o workspace)."
+            exit 1
           fi
