@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-07-what-platform-scores-miss-multidimensional-evaluation-of-ai-teaching-agents-in-m",
+  "estado": "publicado",
+  "pmid": "42690903",
+  "doi": "10.2196/96819",
+  "titulo": "What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education",
+  "tituloEs": "Puntajes de plataforma no reflejan calidad pedagogica de agentes IA en educacion medica",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Zhang H",
+    "Qu L",
+    "Zheng J",
+    "Xiong Y",
+    "Bai H",
+    "Ji R",
+    "Liu G",
+    "Chen W",
+    "Cheng Z",
+    "Chen Y",
+    "Yang CT"
+  ],
+  "fechaPublicacion": "2026 Sep 3",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42690903/",
+  "resumenOriginal": "Background: Large language model (LLM)-based AI teaching agents are increasingly used in medical education, yet their pedagogical quality is typically judged by platform-generated scores whose scoring criteria are undisclosed and may not reflect the teaching quality of the agent.\n\nObjective: This study aimed to develop and validate a multidimensional rubric for evaluating AI teaching agents and to examine the correspondence between platform scores and rubric-based teaching quality.\n\nMethods: Eight AI teaching agents covering an endocrinology curriculum were deployed across 4 role-play paradigms (patient, student, expert, and family). Twenty-two fourth-year medical students generated 167 dialogues, which were scored both by the platform and by an independently applied 8-dimension rubric (100 points, covering knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, difficulty calibration, medical safety, student engagement, and feedback quality). Each dialogue was scored 4 times by a primary evaluator (Claude Opus 4.8; mean within-model SD 0.36), with 2 additional LLMs as robustness checks; 40 dialogues spanning all agents were rescored by a medical-education expert for validation.\n\nResults: Platform and rubric rankings diverged for most agents: the agent ranked third by the platform ranked last on rubric-based quality, and the platform's fourth-ranked agent ranked first. Agents differed most on knowledge-related dimensions (knowledge coverage coefficient of variation=27.3%) and least on role-play quality (coefficient of variation=5.7%), while difficulty calibration was a shared weakness. In a case-level observation, one agent revised specifically to strengthen empathy attained high role-play quality yet the lowest knowledge coverage of all agents. AI scores agreed with expert ratings at the total-score level (intraclass correlation coefficient=0.51) and on cognitive-process dimensions, but agreement was low for the more subjective dimensions. Student gender showed no detectable effect, though this analysis was underpowered.\n\nConclusions: In this exploratory study, platform-generated scores reflected a construct different from agent teaching quality and should be used as a complement rather than as the sole quality indicator. The 8-dimension rubric provides a transparent, standardized alternative that reveals differences missed by platform scores, including a lack of association between empathy and knowledge coverage that warrants attention in future agent design.",
+  "mesh": [
+    "Humans",
+    "Large Language Models",
+    "Teaching",
+    "Educational Measurement",
+    "Education, Medical",
+    "Artificial Intelligence",
+    "Curriculum",
+    "Students, Medical"
+  ],
+  "palabrasClave": [
+    "AI teaching agents",
+    "LLMs",
+    "educational data science",
+    "educational evaluation",
+    "endocrinology",
+    "large language models",
+    "multidimensional rubric",
+    "precision education",
+    "role-play"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S37",
+  "descubiertoEl": "2026-09-07",
+  "publicadoEl": "2026-09-07",
+  "tips": [
+    {
+      "titulo": "No confien solo en metricas automaticas",
+      "texto": "Si usan agentes IA para rol-play, evaluen ustedes mismos la calidad pedagogica. Los puntajes que genera la plataforma no miden lo que el agente ensena realmente."
+    },
+    {
+      "titulo": "Evaluen conocimiento Y empatia por separado",
+      "texto": "Un agente puede ser empatico pero deficiente en cobertura de contenido. Revisen ambas dimensiones antes de recomendar una herramienta a sus estudiantes."
+    },
+    {
+      "titulo": "Calibren dificultad del caso clinico",
+      "texto": "La calibracion de dificultad fue debilidad comun en todos los agentes. Antes de usar un caso IA, prueben ustedes si el nivel es apropiado para el estudiante."
+    },
+    {
+      "titulo": "Usen rubrica multidimensional, no puntaje unico",
+      "texto": "Evaluen precision del conocimiento, guia pedagogica, cobertura del contenido, calidad del rol, calibracion, seguridad, engagement y retroalimentacion. Un puntaje global oculta fortalezas y debilidades criticas."
+    },
+    {
+      "titulo": "Validen IA con experto antes de implementar",
+      "texto": "La concordancia entre IA y docente experto fue aceptable solo en dimensiones cognitivas, no en las subjetivas. Validen casos complejos con un clinico educador antes de usarlos."
+    }
+  ],
+  "sintesis": "Estudio exploratorio desarrollo una rubrica de 8 dimensiones para evaluar agentes de ensenanza basados en IA. Los puntajes automaticos de la plataforma no correspondieron con la calidad pedagogica medida por la rubrica: el agente mejor valorado por la plataforma ocupo el ultimo lugar en calidad de ensenanza.",
+  "aplicacionDocente": "Antes de adoptar un agente IA para rol-play o tutoria, evaluen ustedes mismos una muestra de dialogos usando criterios transparentes: precision, cobertura tematica, calidad del rol y seguridad. No deleguen la evaluacion pedagogica al algoritmo de la plataforma; un puntaje alto puede esconder deficiencias graves en contenido o en feedback.",
+  "infografia": "/img/infografias/2026-09-07-what-platform-scores-miss-multidimensional-evaluation-of-ai-teaching-agents-in-m.png",
+  "disenoEstudio": "Estudio exploratorio con 22 estudiantes de cuarto ano generando 167 dialogos con 8 agentes IA",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Puntaje alto de plataforma no garantiza que el agente IA ensene bien",
+  "etiquetas": [
+    "inteligencia artificial",
+    "agentes de ensenanza",
+    "evaluacion educativa",
+    "rol-play",
+    "calidad pedagogica"
+  ],
+  "advertencia": "Estudio exploratorio con muestra pequena (22 estudiantes, 167 dialogos) y evaluacion automatizada; la concordancia con experto humano fue moderada en dimensiones subjetivas.",
+  "generadoPor": "claude-sonnet-4-5"
+}

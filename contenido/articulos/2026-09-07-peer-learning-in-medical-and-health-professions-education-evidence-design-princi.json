@@ -1,0 +1,73 @@
+{
+  "id": "2026-09-07-peer-learning-in-medical-and-health-professions-education-evidence-design-princi",
+  "estado": "publicado",
+  "pmid": "42682807",
+  "doi": "10.1177/23821205261486310",
+  "titulo": "Peer Learning in Medical and Health Professions Education: Evidence, Design Principles, and Pedagogical Reflection",
+  "tituloEs": "Aprendizaje entre pares en educacion medica: evidencia, principios de diseno y reflexion pedagogica",
+  "revista": "Journal of medical education and curricular development",
+  "autores": [
+    "Elmi-Terander A"
+  ],
+  "fechaPublicacion": "2026 Jan-Dec",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42682807/",
+  "resumenOriginal": "Peer learning is a collaborative approach grounded in social constructivist theory, emphasizing that knowledge is co-created through interaction. In medical education, it promotes active engagement, critical thinking, and professional identity formation. Within the author's research group, PhD students in the field of neurosurgery and medical students working on their undergraduate medical research projects, benefit from structured peer learning by sharing expertise, discussing challenges, and providing feedback. This aligns with communities of practice theory, where learning occurs through participation in a shared domain, and with Topping's framework highlighting peer tutoring as a reciprocal process that enhances cognitive and social development. Recent studies demonstrate that peer assisted learning improves clinical knowledge, practical skills acquisition, and learner engagement compared with traditional teaching approaches. These effects appear particularly strong in clinical and applied contexts, with evidence suggesting retention beyond the immediate learning period and improved transfer to performance. Integrating peer learning as a deliberate strategy strengthens academic outcomes and fosters lifelong learning skills. The Kirkpatrick framework can be used to evaluate the design, implementation, and outcomes of peer learning (PL) interventions. In line with these traditions, recent work in Academic Medicine has clarified mechanisms through which longitudinal near-peer learning operates-structured preparation, dynamic role-shifting during joint encounters, and post-encounter debriefing within trusted relationships-offering concrete practices that can be translated into the proposed setting.",
+  "mesh": [],
+  "palabrasClave": [
+    "clinical reasoning",
+    "evaluation",
+    "feedback",
+    "medical education",
+    "peer assisted learning",
+    "peer learning"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S37",
+  "descubiertoEl": "2026-09-07",
+  "publicadoEl": "2026-09-07",
+  "tips": [
+    {
+      "titulo": "Estructura el intercambio deliberado",
+      "texto": "Implementen sesiones donde residentes y estudiantes compartan expertise sobre casos reales, con roles definidos: presentador, retroalimentador y observador rotativo."
+    },
+    {
+      "titulo": "Aprovechen el debrief post-encuentro",
+      "texto": "Tras cada ronda clinica, dediquen 10 minutos a que pares discutan decisiones tomadas y alternativas consideradas, dentro de relaciones de confianza establecidas previamente."
+    },
+    {
+      "titulo": "Disenen la preparacion conjunta",
+      "texto": "Antes de evaluaciones clinicas, asignen parejas de estudiantes para que preparen juntos presentaciones de casos, distribuyendo tareas complementarias segun fortalezas individuales."
+    },
+    {
+      "titulo": "Faciliten el cambio dinamico de roles",
+      "texto": "Durante encuentros clinicos supervisados, permitan que estudiantes alternen entre ejecutar procedimientos y retroalimentar a su par, fortaleciendo metacognicion y habilidades sociales simultaneamente."
+    },
+    {
+      "titulo": "Evaluen con marco Kirkpatrick",
+      "texto": "Midan el impacto de iniciativas de aprendizaje entre pares usando los cuatro niveles: reaccion de estudiantes, aprendizaje adquirido, cambio conductual y resultados clinicos."
+    }
+  ],
+  "sintesis": "El aprendizaje entre pares, fundamentado en teoria constructivista social, promueve el pensamiento critico y la formacion de identidad profesional. Estudios recientes demuestran mejoras en conocimiento clinico, habilidades practicas y engagement comparado con ensenanza tradicional, especialmente en contextos aplicados.",
+  "aplicacionDocente": "Integren aprendizaje entre pares como estrategia deliberada en rotaciones clinicas: estructuren preparacion previa de casos en parejas, alternen roles durante encuentros supervisados, y garanticen debriefing post-ronda en ambiente de confianza. Esta aproximacion fortalece no solo resultados academicos inmediatos sino habilidades de aprendizaje permanente.",
+  "infografia": "/img/infografias/2026-09-07-peer-learning-in-medical-and-health-professions-education-evidence-design-princi.png",
+  "disenoEstudio": "Articulo de revision sobre aprendizaje entre pares en educacion medica y ciencias de la salud",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "El aprendizaje entre pares mejora conocimiento clinico y engagement mas que la ensenanza tradicional",
+  "etiquetas": [
+    "aprendizaje entre pares",
+    "constructivismo social",
+    "educacion clinica",
+    "competencias profesionales",
+    "peer learning"
+  ],
+  "advertencia": "El articulo no especifica poblacion ni diseno de los estudios revisados, limitando la precision sobre contextos de aplicabilidad.",
+  "generadoPor": "claude-sonnet-4-5"
+}

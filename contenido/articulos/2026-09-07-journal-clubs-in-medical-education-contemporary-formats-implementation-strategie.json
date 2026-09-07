@@ -1,0 +1,73 @@
+{
+  "id": "2026-09-07-journal-clubs-in-medical-education-contemporary-formats-implementation-strategie",
+  "estado": "publicado",
+  "pmid": "42701632",
+  "doi": "10.2147/AMEP.S630370",
+  "titulo": "Journal Clubs in Medical Education: Contemporary Formats, Implementation Strategies, and Future Directions",
+  "tituloEs": "Clubes de revista en educacion medica: formatos actuales, estrategias de implementacion y futuro",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Juliebø-Jones P"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42701632/",
+  "resumenOriginal": "Purpose: Journal clubs (JCs) remain an important component of medical education, providing opportunities for critical appraisal, evidence-based learning, and collaborative discussion. While traditional face-to-face meetings remain common, contemporary JCs have evolved to include online, hybrid, social media-based, and emerging AI-assisted models. This narrative review aimed to synthesise contemporary journal club formats, examine factors associated with successful implementation, and explore future directions in journal club education.\n\nMethods: A narrative review of the literature was undertaken. Bibliographic databases searched included PubMed/MEDLINE, Google Scholar, and Scopus. Search terms included \"journal club\", \"medical education\", \"evidence-based medicine\", \"social media\", \"online journal club\", \"virtual journal club\", \"flipped classroom\", and \"artificial intelligence\". Findings were synthesised in a narrative format.\n\nResults: Journal clubs continue to provide a structured environment for collaborative learning and critical engagement with the scientific literature. Educational benefits include the promotion of critical appraisal skills, evidence-based medicine, lifelong learning, and the translation of research into clinical practice. Contemporary formats include virtual, social media-based, hybrid, flipped-classroom, and AI-assisted models. Factors associated with successful implementation include participant preparation, learner-centred design, structured appraisal frameworks, faculty involvement, and facilitative leadership.\n\nConclusion: Journal clubs remain a valuable and adaptable component of medical education. Although their format has evolved considerably, their core educational functions remain unchanged. Successful implementation appears to depend less on the specific format adopted and more on participant engagement, preparation, and effective facilitation.",
+  "mesh": [],
+  "palabrasClave": [
+    "artificial intelligence",
+    "critical appraisal",
+    "evidence-based medicine",
+    "journal club",
+    "medical education",
+    "social media"
+  ],
+  "temas": [
+    "Docencia médica",
+    "IA en educación médica"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S37",
+  "descubiertoEl": "2026-09-07",
+  "publicadoEl": "2026-09-07",
+  "tips": [
+    {
+      "titulo": "Preparacion estructurada obligatoria",
+      "texto": "Antes de cada sesion, asignen un marco de lectura critica (p. ej. CASP o AGREE) para que los participantes evaluen el articulo con criterios explicitos."
+    },
+    {
+      "titulo": "Liderazgo facilitador, no expositivo",
+      "texto": "El facilitador debe promover la discusion sin imponer su interpretacion. Usen preguntas abiertas para explorar puntos de vista y sostener la tension intelectual del grupo."
+    },
+    {
+      "titulo": "Formato adaptado al contexto",
+      "texto": "La modalidad (presencial, virtual, hibrida) importa menos que el compromiso de los participantes. Elijan el formato que reduzca barreras logisticas sin sacrificar interaccion."
+    },
+    {
+      "titulo": "Diseno centrado en el aprendiz",
+      "texto": "Permitan que los residentes propongan articulos relevantes para sus dudas clinicas actuales. La pertinencia aumenta el interes y la transferencia a la practica."
+    },
+    {
+      "titulo": "Vincular evidencia con practica",
+      "texto": "Cierren cada sesion preguntando: ¿como cambia este estudio nuestra practica esta semana? Eso concretiza el aprendizaje y refuerza la medicina basada en evidencia."
+    }
+  ],
+  "sintesis": "Los clubes de revista siguen siendo una estrategia educativa valiosa para promover lectura critica y aprendizaje colaborativo. Esta revision narrativa sintetiza formatos contemporaneos (presenciales, virtuales, hibridos, basados en redes sociales y asistidos por IA) e identifica factores de exito en su implementacion.",
+  "aplicacionDocente": "Incorporen clubes de revista en su rotacion usando un marco de lectura critica explicito y rotando la facilitacion entre residentes. Prueben modalidades hibridas si hay barreras de tiempo o distancia. Lo esencial no es la tecnologia sino la preparacion previa, la discusion colaborativa y la pregunta final: ¿que hacemos diferente manana?",
+  "infografia": "/img/infografias/2026-09-07-journal-clubs-in-medical-education-contemporary-formats-implementation-strategie.png",
+  "disenoEstudio": "Revision narrativa de literatura en educacion medica",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "El exito del club de revista depende mas del compromiso y facilitacion que del formato usado",
+  "etiquetas": [
+    "club de revista",
+    "lectura critica",
+    "aprendizaje colaborativo",
+    "medicina basada en evidencia",
+    "educacion medica"
+  ],
+  "advertencia": "Al ser una revision narrativa sin metaanalisis, la sintesis depende de la seleccion de estudios por los autores y no permite cuantificar efectos educativos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

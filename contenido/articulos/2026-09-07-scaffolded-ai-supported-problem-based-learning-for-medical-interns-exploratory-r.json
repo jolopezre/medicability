@@ -1,0 +1,90 @@
+{
+  "id": "2026-09-07-scaffolded-ai-supported-problem-based-learning-for-medical-interns-exploratory-r",
+  "estado": "publicado",
+  "pmid": "42691464",
+  "doi": "10.2196/95039",
+  "titulo": "Scaffolded AI-Supported Problem-Based Learning for Medical Interns: Exploratory Retrospectively Registered Randomized Controlled Evaluation With a Voluntary Feasibility Follow-Up",
+  "tituloEs": "IA como andamiaje en aprendizaje basado en problemas mejora razonamiento clinico en internos",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Zhao Z",
+    "Wu B",
+    "Tian S",
+    "Hu H",
+    "Hao P"
+  ],
+  "fechaPublicacion": "2026 Sep 3",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42691464/",
+  "resumenOriginal": "Background: High-quality problem-based learning (PBL) during internship is resource-intensive and difficult to scale without consistent facilitation. Although generative AI is increasingly used in health professions education, many applications remain on-demand answer tools that may not reproduce core PBL processes.\n\nObjective: This study aimed to develop and evaluate the Multiagent PBL Environment for Clinical Reasoning (MAPLE-CR), an AI-supported environment that uses generative AI as a process-oriented scaffold rather than an answer-delivery aid. The system supports cognitive mechanisms through reasoning prompts, social-interactional mechanisms through simulated tutor and peer roles, and regulatory mechanisms through structured workflows and feedback loops. We separately evaluated implementation and repeated-use feasibility, including learner experience, short-term outcomes versus self-study, and preliminary framework-aligned process evidence.\n\nMethods: We conducted a 2-stage study. In an exploratory randomized evaluation (N=52; intervention: n=26; control: n=26), interns completed parallel pretests and posttests around a standardized case. The intervention group engaged in asynchronous, scaffolded PBL in MAPLE-CR, whereas controls completed case-matched self-study using materials derived from the same case and learning objectives. We summarized transcript-derived process dimensions and postsession learner experience in the intervention group. In a voluntary follow-up, 18 participants completed 1 MAPLE-CR case per week for 4 additional weeks to examine repeated use feasibility and patterns across novel cases.\n\nResults: Baseline pretest scores were comparable between groups (P=.56). The intervention group achieved higher posttest scores than controls (Hodges-Lehmann median difference 8.25 points, 95% CI 6.60-11.60; Cliff &#x3b4;=0.506, 95% CI 0.21-0.76; P=.001) and greater score gains (median difference 6.60 points, 95% CI 1.60-14.95; P=.01). On a 0 to 5 scale, mean scores were highest for knowledge accuracy (4.4) and clinical reasoning (CR, 3.7), whereas active participation averaged 2.1, and interaction-oriented dimensions were more variable. Means for 12 positively worded questionnaire items ranged from 4.19 to 4.62, supporting high satisfaction, involvement, perceived support, and self-efficacy; open-ended responses contextualized perceived strengths and improvement needs. In the voluntary follow-up (n=18), weekly cross-case use was feasible; median within-session gains ranged from 13.4 to 20.0 points across 5 attempts, with marked increases in CR and aggregate scores from attempts 1 to 2 but statistically uncertain later trajectories.\n\nConclusions: MAPLE-CR was feasible and showed high learner acceptability. Its use was associated with larger short-term CR knowledge gains than case-matched self-study, while transcript analyses provided preliminary framework-aligned process evidence. However, the post hoc sensitivity analysis did not establish prospective power sufficiency, and the confidence interval could not exclude smaller educationally meaningful effects. These findings suggest that AI-supported, process-oriented PBL may provide a scalable formative supplement for CR practice when facilitator capacity and small-group scheduling are constrained, but the study did not isolate specific scaffolding effects. Further research should confirm these findings using larger, prospectively powered trials with stronger active comparators and longer-term outcome measures.",
+  "mesh": [
+    "Humans",
+    "Problem-Based Learning",
+    "Feasibility Studies",
+    "Internship and Residency",
+    "Retrospective Studies",
+    "Follow-Up Studies",
+    "Artificial Intelligence",
+    "Female",
+    "Generative Artificial Intelligence",
+    "Male",
+    "Educational Measurement",
+    "Clinical Competence"
+  ],
+  "palabrasClave": [
+    "artificial intelligence",
+    "clinical reasoning",
+    "educational technology",
+    "large language models",
+    "problem-based learning",
+    "randomized controlled trial",
+    "scaffolding"
+  ],
+  "temas": [
+    "Razonamiento clínico"
+  ],
+  "puntaje": 27,
+  "semana": "2026-S37",
+  "descubiertoEl": "2026-09-07",
+  "publicadoEl": "2026-09-07",
+  "tips": [
+    {
+      "titulo": "Usa IA como facilitador, no oraculo",
+      "texto": "Configura herramientas de IA para guiar el proceso de razonamiento con preguntas y retroalimentacion estructurada, no solo para entregar respuestas. Simula roles de tutor y pares."
+    },
+    {
+      "titulo": "Complementa, no reemplaces grupos presenciales",
+      "texto": "Emplea ABP con IA como practica formativa adicional cuando la facilitacion presencial es limitada, no como sustitucion de discusion grupal supervisada."
+    },
+    {
+      "titulo": "Valida ganancias con pre y postest",
+      "texto": "Mide conocimiento de razonamiento clinico antes y despues de sesiones de ABP con IA para documentar ganancia educativa objetiva, no solo satisfaccion."
+    },
+    {
+      "titulo": "Fomenta uso repetido con casos nuevos",
+      "texto": "Propone un caso semanal durante un mes para consolidar habitos de razonamiento. Las ganancias mas marcadas ocurren entre el primer y segundo intento."
+    },
+    {
+      "titulo": "Analiza transcripciones para ajustar andamiaje",
+      "texto": "Revisa registros de interaccion para identificar dimensiones debiles (participacion activa, intercambio social) y refinar prompts o flujos de trabajo."
+    }
+  ],
+  "sintesis": "Estudio piloto comparó un entorno de aprendizaje basado en problemas (ABP) con IA generativa versus autoestudio en 52 internos. El grupo con IA obtuvo ganancias mayores en conocimiento de razonamiento clinico a corto plazo y alta aceptacion, aunque el diseno no confirma potencia prospectiva ni aisla efectos especificos del andamiaje.",
+  "aplicacionDocente": "Implementa sesiones asincronicas de ABP con IA generativa cuando la facilitacion presencial es escasa. Usa casos estandarizados, mide ganancias con pre y postest, y revisa transcripciones para ajustar el andamiaje. Complementa, no sustituye, la discusion grupal supervisada.",
+  "infografia": "/img/infografias/2026-09-07-scaffolded-ai-supported-problem-based-learning-for-medical-interns-exploratory-r.png",
+  "disenoEstudio": "Ensayo controlado aleatorizado exploratorio con 52 internos y seguimiento voluntario de factibilidad",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA como tutor virtual en ABP: ganancias a corto plazo en razonamiento clinico de internos",
+  "etiquetas": [
+    "aprendizaje basado en problemas",
+    "inteligencia artificial generativa",
+    "razonamiento clinico",
+    "internado medico",
+    "andamiaje cognitivo"
+  ],
+  "advertencia": "Estudio exploratorio sin potencia prospectiva confirmada, sin comparador activo fuerte y sin medicion de resultados a largo plazo; no aisla efectos especificos del andamiaje.",
+  "generadoPor": "claude-sonnet-4-5"
+}

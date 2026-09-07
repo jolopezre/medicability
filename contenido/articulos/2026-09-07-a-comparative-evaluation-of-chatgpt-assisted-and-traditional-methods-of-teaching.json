@@ -1,0 +1,91 @@
+{
+  "id": "2026-09-07-a-comparative-evaluation-of-chatgpt-assisted-and-traditional-methods-of-teaching",
+  "estado": "publicado",
+  "pmid": "42700004",
+  "doi": "10.1097/MD.0000000000050512",
+  "titulo": "A comparative evaluation of ChatGPT-assisted and traditional methods of teaching diagnostic assessments to medical students: A randomized controlled study",
+  "tituloEs": "Enseñanza de diagnostico con ChatGPT mejora conocimiento teorico y habilidades clinicas en estudiantes",
+  "revista": "Medicine",
+  "autores": [
+    "Xu H",
+    "Sun Y",
+    "Mo ZW",
+    "Man YN",
+    "Liu SM",
+    "Wei YN",
+    "He ML"
+  ],
+  "fechaPublicacion": "2026 Sep 4",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Comparative Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42700004/",
+  "resumenOriginal": "The rapid development of artificial intelligence (AI) technology has brought new opportunities and challenges to the ever-evolving field of medical education. However, the specific impact of AI on the teaching of diagnostic assessments to medical students requires further investigation. The purpose of this study was to evaluate the effectiveness of ChatGPT-assisted teaching of diagnoses. Eighty medical students were randomly divided into 2 groups; 1 group received ChatGPT-assisted training, and the other group received conventional instruction. We evaluated the effectiveness of both teaching methods using a theoretical examination and the Mini-Clinical Evaluation Exercise (Mini-CEX). We also assessed satisfaction with the ChatGPT-assisted teaching method using a structured survey. The ChatGPT-assisted students scored significantly higher on the theoretical knowledge examination compared to the traditional teaching group (t&#x2005;=&#x2005;6.34, P&#x2005;<&#x2005;.001). The ChatGPT-assisted group showed significant improvement on the Mini-CEX examination, particularly on medical history taking (&#x3a7;2&#x2005;=&#x2005;5.115, P&#x2005;=&#x2005;.024), doctor-patient communication (&#x3a7;2&#x2005;=&#x2005;5.051, P&#x2005;=&#x2005;.025), professionalism (&#x3a7;2&#x2005;=&#x2005;4.073, P&#x2005;=&#x2005;.044), clinical judgment (&#x3a7;2&#x2005;=&#x2005;4.503, P&#x2005;=&#x2005;.034), and overall capabilities (&#x3a7;2&#x2005;=&#x2005;7.218, P&#x2005;=&#x2005;.007). The majority of participants rated the ChatGPT teaching method highly and provided positive feedback, highlighting the benefits of interactive learning and skill acquisition. ChatGPT-assisted teaching not only improved the students' scores on the theoretical knowledge of diagnostic assessments, but also enhanced the clinical knowledge of the medical students. The positive feedback of the ChatGPT-assisted group shows that this method has the potential to supplement and enhance conventional teaching methods in medical education. These results support further expansion and the application of AI in medical education.",
+  "mesh": [
+    "Humans",
+    "Students, Medical",
+    "Female",
+    "Generative Artificial Intelligence",
+    "Male",
+    "Teaching",
+    "Educational Measurement",
+    "Clinical Competence",
+    "Education, Medical, Undergraduate",
+    "Artificial Intelligence",
+    "Adult"
+  ],
+  "palabrasClave": [
+    "ChatGPT",
+    "Mini-Clinical Evaluation Exercise",
+    "diagnostic",
+    "medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación",
+    "IA en educación médica"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S37",
+  "descubiertoEl": "2026-09-07",
+  "publicadoEl": "2026-09-07",
+  "tips": [
+    {
+      "titulo": "Integrar IA como tutor interactivo",
+      "texto": "Utilizar ChatGPT como complemento para practicar razonamiento diagnostico entre sesiones presenciales, permitiendo que los estudiantes formulen hipotesis y reciban retroalimentacion inmediata."
+    },
+    {
+      "titulo": "Reforzar anamnesis con IA",
+      "texto": "Asignar ejercicios donde los estudiantes interroguen a ChatGPT como paciente simulado, enfocandose en habilidades de entrevista que el estudio mostro mejoran con esta herramienta."
+    },
+    {
+      "titulo": "Evaluar con Mini-CEX adaptado",
+      "texto": "Considerar que el Mini-CEX captura mejoras en comunicacion y profesionalismo asociadas a entrenamiento con IA, no solo conocimiento factual."
+    },
+    {
+      "titulo": "Documentar satisfaccion estudiantil",
+      "texto": "Recoger retroalimentacion estructurada cuando implementen IA educativa, ya que la aceptacion del metodo influye en su efectividad."
+    },
+    {
+      "titulo": "Combinar metodos, no reemplazar",
+      "texto": "El estudio sugiere que ChatGPT suplementa la ensenanza tradicional; no eliminar supervision docente ni practica clinica directa."
+    }
+  ],
+  "sintesis": "Ochenta estudiantes de medicina fueron asignados aleatoriamente a enseñanza asistida por ChatGPT o tradicional. El grupo con ChatGPT obtuvo puntajes significativamente superiores en conocimiento teorico y en evaluacion clinica Mini-CEX, particularmente en anamnesis, comunicacion medico-paciente y juicio clinico.",
+  "aplicacionDocente": "Incorporar sesiones supervisadas donde los estudiantes usen ChatGPT para practicar diagnostico diferencial antes de la ronda clinica. Evaluar no solo conocimiento teorico sino habilidades comunicativas usando herramientas como Mini-CEX. Monitorear satisfaccion y ajustar integracion de IA segun retroalimentacion estudiantil, manteniendo la ensenanza presencial como eje central.",
+  "infografia": "/img/infografias/2026-09-07-a-comparative-evaluation-of-chatgpt-assisted-and-traditional-methods-of-teaching.png",
+  "disenoEstudio": "Ensayo controlado aleatorizado en 80 estudiantes de medicina",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "ChatGPT como tutor mejora tanto examenes teoricos como habilidades clinicas en diagnostico",
+  "etiquetas": [
+    "inteligencia artificial",
+    "educacion medica",
+    "razonamiento diagnostico",
+    "mini-cex",
+    "chatgpt"
+  ],
+  "advertencia": "Muestra pequeña (80 estudiantes) y contexto institucional unico limitan generalizabilidad; no se reporta seguimiento a largo plazo del desempeño clinico.",
+  "generadoPor": "claude-sonnet-4-5"
+}
