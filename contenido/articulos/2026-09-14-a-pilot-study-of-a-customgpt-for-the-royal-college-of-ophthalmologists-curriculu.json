@@ -1,0 +1,75 @@
+{
+  "id": "2026-09-14-a-pilot-study-of-a-customgpt-for-the-royal-college-of-ophthalmologists-curriculu",
+  "estado": "publicado",
+  "pmid": "42732302",
+  "doi": "10.1177/23821205261474025",
+  "titulo": "A Pilot Study of a CustomGPT for the Royal College of Ophthalmologists Curriculum 2024",
+  "tituloEs": "ChatGPT entrenado con curriculum oftalmológico orienta a residentes y docentes con alta precisión",
+  "revista": "Journal of medical education and curricular development",
+  "autores": [
+    "Purcell W",
+    "Chadha V",
+    "Gogi D",
+    "Long V",
+    "Shafi A",
+    "Ramkissoon Y"
+  ],
+  "fechaPublicacion": "2026 Jan-Dec",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42732302/",
+  "resumenOriginal": "Background: Large language models (LLMs) employ transformer architectures to generate contextually appropriate responses and are increasingly applied in medical education. To support implementation of the Royal College of Ophthalmologists (RCOphth) Ophthalmic Specialist Training (OST) Curriculum 2024, the Yorkshire & Humber School of Ophthalmology developed a CustomGPT trained exclusively on official RCOphth curriculum documents. This study evaluated its usability, effectiveness, and accuracy.\n\nMethods: A pilot study invited ophthalmology trainees (ST1-ST7, Fellows) and trainers (Consultants, Supervisors, Tutors, Programme Directors) to use the CustomGPT over a three-month period (April to June 2025). Quantitative feedback (Likert scales) assessed relevance, ease of use, and satisfaction, while qualitative feedback explored perceived value and limitations. Accuracy was evaluated by comparing responses from the CustomGPT and the RCOphth Training Committee (TC) Chair to ten authentic curriculum queries.\n\nResults: Twenty-eight participants (14 trainees, 14 trainers) completed the survey; only 21% were regular AI users. Mean scores were high for relevance (4.21/5), ease of use (4.38/5), and satisfaction (4.10/5), with 86% reporting time savings and 75% rating their likelihood of recommending the tool as 8/10 or higher. Qualitative data highlighted concise, accurate, and well-structured responses but noted occasional technical issues and rigid interpretation of complex queries. Comparative analysis showed strong alignment with the TC Chair, though the GPT sometimes demonstrated greater precision in referencing but less flexibility in interpretation.\n\nConclusions: A curriculum-specific GPT can provide rapid, accurate guidance, reducing ambiguity and improving efficiency. When integrated into training platforms, such tools can enhance curriculum accessibility in postgraduate medical education.",
+  "mesh": [],
+  "palabrasClave": [
+    "Large language model",
+    "Ophthalmic Specialist Training",
+    "Royal College of Ophthalmologists"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación",
+    "IA en educación médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-14",
+  "publicadoEl": "2026-09-14",
+  "tips": [
+    {
+      "titulo": "Entrenar IA con documentos propios",
+      "texto": "Consideren crear un CustomGPT alimentado con los documentos curriculares oficiales de su programa. Ofrece respuestas contextualizadas que reducen la ambigüedad en consultas sobre competencias y rotaciones."
+    },
+    {
+      "titulo": "Evaluar precisión antes de implementar",
+      "texto": "Comparen respuestas del modelo con las de un experto curricular ante consultas auténticas. En este estudio, el GPT mostró buena concordancia pero menos flexibilidad interpretativa en situaciones complejas."
+    },
+    {
+      "titulo": "Herramienta complementaria, no sustituta",
+      "texto": "Usen la IA para consultas rápidas sobre requisitos, pero deriven casos ambiguos a tutores. La interpretación humana sigue siendo necesaria ante situaciones no estandarizadas del entrenamiento."
+    },
+    {
+      "titulo": "Capacitar a usuarios no habituales",
+      "texto": "El 79% de participantes no usaba IA regularmente, pero aun así valoró la herramienta. Ofrezcan sesión introductoria de 15 minutos para maximizar adopción entre docentes tradicionales."
+    },
+    {
+      "titulo": "Integrar en plataformas existentes",
+      "texto": "Inserten el acceso al GPT dentro del portal de residentes o sistema de gestión académica. La integración directa aumenta la probabilidad de uso sostenido versus accesos externos."
+    }
+  ],
+  "sintesis": "Un CustomGPT entrenado exclusivamente con documentos curriculares del Royal College of Ophthalmologists evaluó su utilidad en 28 usuarios (residentes y docentes) durante tres meses. El 86% reportó ahorro de tiempo, con puntajes altos en relevancia (4.21/5) y facilidad de uso (4.38/5), aunque mostró interpretación rígida ante consultas complejas.",
+  "aplicacionDocente": "Pueden implementar un asistente de IA entrenado con su propio curriculum de residencia para responder consultas frecuentes sobre rotaciones, competencias o evaluaciones. Esto libera tiempo docente para tutorías complejas, aunque requieren validar respuestas con un experto curricular antes del lanzamiento y clarificar al residente cuándo escalar la consulta a un tutor humano.",
+  "infografia": "/img/infografias/2026-09-14-a-pilot-study-of-a-customgpt-for-the-royal-college-of-ophthalmologists-curriculu.png",
+  "disenoEstudio": "Estudio piloto en 28 residentes y docentes de oftalmología durante 3 meses",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "CustomGPT entrenado con curriculum reduce ambigüedad y ahorra tiempo a docentes y residentes",
+  "etiquetas": [
+    "inteligencia artificial",
+    "curriculum",
+    "educación de posgrado",
+    "innovación educativa",
+    "oftalmología"
+  ],
+  "advertencia": "Estudio piloto pequeño (n=28) en una sola especialidad y región, sin grupo control ni seguimiento a largo plazo del impacto en aprendizaje.",
+  "generadoPor": "claude-sonnet-4-5"
+}

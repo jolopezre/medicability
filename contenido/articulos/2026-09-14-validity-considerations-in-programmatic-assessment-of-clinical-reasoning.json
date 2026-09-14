@@ -1,0 +1,71 @@
+{
+  "id": "2026-09-14-validity-considerations-in-programmatic-assessment-of-clinical-reasoning",
+  "estado": "publicado",
+  "pmid": "42728680",
+  "doi": "10.1111/medu.70308",
+  "titulo": "Validity considerations in programmatic assessment of clinical reasoning",
+  "tituloEs": "Validez en la evaluación programática del razonamiento clínico: marco conceptual",
+  "revista": "Medical education",
+  "autores": [
+    "Runyon C",
+    "Zwaan L",
+    "Cuddy MM",
+    "Olson APJ",
+    "Schaye V"
+  ],
+  "fechaPublicacion": "2026 Sep 11",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42728680/",
+  "resumenOriginal": "Problem: Clinical reasoning is a core competency in health professions education, but its assessment is challenging. Clinical reasoning is multifaceted, content- and context-dependent, and largely unobservable, and no single assessment can support a robust characterisation of a learner's clinical reasoning. Programmatic assessment has gained traction as a response to these challenges, but a validity argument explaining why a programmatic approach addresses the specific vulnerabilities of clinical reasoning assessment has received limited attention.\n\nApproach: We examine validity issues in the programmatic assessment of clinical reasoning using Kane's argument-based framework, organised around five inferences: performance, scoring, generalisation, extrapolation and consequences. For each inference, we identify the central validity question, describe issues specific to clinical reasoning at the level of the individual assessment and the programme, discuss how a programmatic approach mitigates weaknesses of single assessments and describe residual or new validity threats. A fictional learner followed across undergraduate medical education makes these issues concrete. We then consider generative artificial intelligence (GAI) as a cross-cutting validity challenge affecting each inference.\n\nKey points: Programmatic assessment strengthens each inference in the validity chain, but it does not resolve every weakness and introduces new assumptions of its own, particularly around how conflicting evidence is synthesised. GAI compounds these challenges: it can shift what is actually being measured, complicate scoring and generalisation, and blur the line between assessment and target performance, while also offering new opportunities to make clinical reasoning more observable when incorporated deliberately.\n\nImplications: We conclude with a three-stage developmental framework-coherence and coverage, intentional depth, and multimodal longitudinal integration-to help institutions integrate existing assessments into a programme of clinical reasoning assessment. This framework reflects validity as an ongoing institutional commitment to evidence building for better learning, decisions and patient care.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Razonamiento clínico",
+    "Evaluación y competencias",
+    "IA en educación médica"
+  ],
+  "puntaje": 33.5,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-14",
+  "publicadoEl": "2026-09-14",
+  "tips": [
+    {
+      "titulo": "Triangular evidencias diversas",
+      "texto": "Combinen intencionalmente evaluaciones que capturen razonamiento clínico desde ángulos distintos: script concordance test, presentaciones orales y reflexiones escritas. Una sola herramienta no caracteriza robustamente esta competencia."
+    },
+    {
+      "titulo": "Explicitar síntesis de evidencias",
+      "texto": "Al integrar datos de múltiples evaluaciones, documenten cómo resuelven contradicciones. La evaluación programática no elimina automáticamente ambigüedades; requiere reglas claras de síntesis que comuniquen al estudiante."
+    },
+    {
+      "titulo": "Considerar IA generativa críticamente",
+      "texto": "Si usan IA en evaluaciones de razonamiento, verifiquen qué están midiendo realmente: ¿habilidad clínica o destreza tecnológica? La IA puede hacer más observable el razonamiento, pero también desplaza el constructo evaluado."
+    },
+    {
+      "titulo": "Comenzar con coherencia programática",
+      "texto": "Antes de agregar evaluaciones, revisen si las actuales cubren las facetas del razonamiento clínico que valoran. El primer paso no es más instrumentos, sino alinear los existentes con un mapa conceptual compartido."
+    },
+    {
+      "titulo": "Validez como proceso institucional",
+      "texto": "Traten la validez no como certificación de herramientas, sino como compromiso continuo con evidencias: recojan datos sobre decisiones tomadas, aprendizaje resultante y, eventualmente, impacto en cuidado del paciente."
+    }
+  ],
+  "sintesis": "El artículo examina cómo la evaluación programática fortalece la validez al evaluar razonamiento clínico, usando el marco de Kane. Identifica amenazas específicas en cada inferencia de validez y propone un marco de desarrollo institucional en tres etapas para integrar evaluaciones existentes.",
+  "aplicacionDocente": "Revisen su programa de evaluación con colegas: ¿cubren contenido, contexto y observabilidad del razonamiento clínico? Identifiquen una contradicción reciente entre evaluaciones de un estudiante y expliciten cómo la resolvieron. Esa transparencia fortalece la validez del programa y orienta mejor al aprendiz.",
+  "infografia": "/img/infografias/2026-09-14-validity-considerations-in-programmatic-assessment-of-clinical-reasoning.png",
+  "disenoEstudio": "Artículo de revisión conceptual con marco teórico aplicado",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Evaluar razonamiento clínico requiere programa, no solo instrumentos aislados",
+  "etiquetas": [
+    "razonamiento clínico",
+    "evaluación programática",
+    "validez",
+    "inteligencia artificial",
+    "educación médica"
+  ],
+  "advertencia": "Artículo conceptual sin datos empíricos; las recomendaciones requieren validación en contextos educativos reales.",
+  "generadoPor": "claude-sonnet-4-5"
+}

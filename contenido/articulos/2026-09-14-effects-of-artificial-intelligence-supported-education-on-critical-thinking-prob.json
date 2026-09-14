@@ -1,0 +1,76 @@
+{
+  "id": "2026-09-14-effects-of-artificial-intelligence-supported-education-on-critical-thinking-prob",
+  "estado": "publicado",
+  "pmid": "42732410",
+  "doi": "10.2147/AMEP.S641965",
+  "titulo": "Effects of Artificial Intelligence-Supported Education on Critical Thinking, Problem-Solving, Clinical Reasoning, and Decision-Making in Health Science Education: A Systematic Review of Interventional Studies",
+  "tituloEs": "Inteligencia artificial en educación médica: efectos mixtos sobre razonamiento clínico",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Alhur AA",
+    "Al-Kahtani NK",
+    "Mahgoub EA"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42732410/",
+  "resumenOriginal": "Background: Artificial intelligence (AI) is increasingly incorporated into health science education through diagnostic systems, intelligent tutoring systems, adaptive learning platforms, chatbots, virtual patients, and large language models. However, its effects on higher-order cognitive skills remain uncertain.\n\nObjective: To synthesize interventional evidence on the effects of AI-supported education on critical thinking, problem-solving, clinical reasoning, and decision-making among health science learners.\n\nMethods: This systematic review followed PRISMA 2020 and a prospectively registered protocol (PROSPERO CRD420251128495). PubMed, Scopus, the Cochrane Library, Google Scholar, and supplementary sources were searched for interventional studies evaluating AI-supported education and at least one of four predefined cognitive outcomes: critical thinking, problem-solving, clinical reasoning, or decision-making. Searches were updated through 24 August 2026. Randomized studies were assessed using RoB 2, non-randomized intervention studies using ROBINS-I, and quasi-experimental studies using JBI critical appraisal criteria. Findings were synthesized narratively and classified as positive, null, mixed, or negative.\n\nResults: Twenty-nine interventional studies involving 2138 participants met the eligibility criteria. The included studies evaluated conventional and generative AI technologies, including diagnostic AI systems, intelligent tutoring systems, AI-enabled chatbots, generative image systems, and large language models. Findings varied across the four cognitive outcomes. Structured AI-supported interventions frequently demonstrated favorable effects on selected clinical reasoning, decision-making, problem-solving, and critical-thinking outcomes; however, null, mixed, and negative findings were also reported, particularly when AI was compared with established educational resources or used without structured instructional guidance.\n\nConclusion: AI-supported education may enhance selected higher-order cognitive outcomes among health science learners, but the evidence is inconsistent across technologies, instructional designs, comparators, and cognitive constructs. Structured integration that preserves active learner engagement and independent reasoning appears important. Further rigorous studies using validated outcome measures and assessments of sustained, unaided performance are needed.",
+  "mesh": [],
+  "palabrasClave": [
+    "artificial intelligence",
+    "clinical reasoning",
+    "critical thinking",
+    "decision-making",
+    "health science education",
+    "problem-solving",
+    "systematic review"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "IA en educación médica"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-14",
+  "publicadoEl": "2026-09-14",
+  "tips": [
+    {
+      "titulo": "Estructuren la intervención con IA",
+      "texto": "No entreguen acceso libre a chatbots o sistemas diagnósticos. Diseñen actividades estructuradas que definan el rol de la IA, los pasos del razonamiento esperado y los momentos de supervisión docente."
+    },
+    {
+      "titulo": "Preserven el razonamiento independiente",
+      "texto": "Pidan a los estudiantes que formulen su diagnóstico diferencial o plan antes de consultar la IA. El sistema debe servir como contraste, no como punto de partida que inhiba el pensamiento crítico."
+    },
+    {
+      "titulo": "Comparen con recursos establecidos",
+      "texto": "La IA no superó consistentemente a guías clínicas, tutorías o casos simulados bien diseñados. Evalúen si realmente aporta sobre lo que ya tienen antes de invertir tiempo curricular."
+    },
+    {
+      "titulo": "Evalúen desempeño sin ayuda",
+      "texto": "Midan si el estudiante transfiere lo aprendido con IA a situaciones reales sin soporte tecnológico. El objetivo es mejorar el razonamiento autónomo, no la dependencia del sistema."
+    },
+    {
+      "titulo": "Validen las mediciones",
+      "texto": "Usen instrumentos validados para evaluar razonamiento clínico o toma de decisiones. Las percepciones del estudiante sobre su mejora no correlacionan necesariamente con habilidades objetivas."
+    }
+  ],
+  "sintesis": "Revisión sistemática de 29 estudios con 2138 participantes evaluó el efecto de la IA en habilidades cognitivas superiores en educación médica. La IA estructurada mostró resultados favorables en razonamiento clínico y toma de decisiones, pero también se reportaron efectos nulos o negativos, especialmente cuando se usó sin guía instruccional clara.",
+  "aplicacionDocente": "Incorporen IA solo dentro de actividades estructuradas que obliguen al estudiante a razonar primero. Diseñen rúbricas que evalúen el proceso de pensamiento, no solo la respuesta final. Comparen el rendimiento con y sin IA en casos subsecuentes para verificar transferencia real del aprendizaje.",
+  "infografia": "/img/infografias/2026-09-14-effects-of-artificial-intelligence-supported-education-on-critical-thinking-prob.png",
+  "disenoEstudio": "Revisión sistemática de 29 estudios intervencionales en estudiantes de ciencias de la salud",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "La IA mejora razonamiento clínico solo con estructura docente que preserve pensamiento crítico",
+  "etiquetas": [
+    "inteligencia artificial",
+    "razonamiento clínico",
+    "educación médica",
+    "pensamiento crítico",
+    "tecnología educativa"
+  ],
+  "advertencia": "Heterogeneidad importante en tecnologías evaluadas, diseños instruccionales, comparadores y mediciones de desenlace limita la generalización de los hallazgos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

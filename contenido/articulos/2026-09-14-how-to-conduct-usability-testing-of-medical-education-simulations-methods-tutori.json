@@ -1,0 +1,96 @@
+{
+  "id": "2026-09-14-how-to-conduct-usability-testing-of-medical-education-simulations-methods-tutori",
+  "estado": "publicado",
+  "pmid": "42714952",
+  "doi": "10.2196/102697",
+  "titulo": "How to Conduct Usability Testing of Medical Education Simulations: Methods Tutorial Using a Telemedicine Simulation for Maternal Care",
+  "tituloEs": "Pruebas de usabilidad en simulaciones clinicas: protocolo para detectar problemas antes del pilotaje",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Lesselroth BJ",
+    "Douglas A",
+    "Monkman H",
+    "Marcilly R",
+    "Bellavia K",
+    "Anderson M",
+    "Van Buren J",
+    "Parsons C",
+    "Mohanty S",
+    "Homco J",
+    "Richards M",
+    "Gold KP"
+  ],
+  "fechaPublicacion": "2026 Sep 9",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42714952/",
+  "resumenOriginal": "Background: Clinical educators regularly use simulation-based education to help learners develop clinical reasoning, procedural skills, and communication strategies. However, differences between simulated and live clinical environments, such as missing case details or workflow interruptions, can reduce realism and divert learners' attention from the intended learning goals. While published design guidelines recommend pilot testing simulations, they do not explain how to systematically identify usability problems. Human factors evaluation methods can address this gap by identifying issues before piloting and providing design insights.\n\nObjective: This tutorial describes our usability testing protocol for evaluating educational simulations before piloting with learners. Using a telemedicine maternal care simulation as an example, we show how mixed methods usability testing can identify technical, workflow, and assessment-related issues in simulation design.\n\nMethods: We recruited obstetricians and family practitioners to test our simulation. To measure multiple usability dimensions concurrently, we used several published instruments, including an Agile Task Analysis (ATA), the Single Ease Question (SEQ), an adapted System Usability Scale (SUS), the Satisfaction With Simulation Experience Scale (SSES), and the NASA (National Aeronautics and Space Administration) Task Load Index (NASA-TLX). We also developed a competency assessment rubric to measure telemedicine competencies. We recorded observations on the ATA while testers used a think-aloud protocol. We then debriefed testers and administered the posttest questionnaires. We summarized quantitative data using descriptive statistics and analyzed qualitative data using theory-based deductive coding with published usability heuristics.\n\nResults: Twelve testers identified 52 usability issues over 2 testing cycles; 15 issues required correction before piloting with learners. Revisions included changes to standardized patient scripts, synthetic patient data, and scoring rubric instructions. Testers assigned a median SEQ score of 6 or higher to 4 of the 6 workflow steps; most struggled with unfamiliar telemedicine tasks or completing a virtual physical examination. SUS scores ranged from 65 to 100. The median SUS score was 77.5, indicating above-average usability. The NASA-TLX subscale scores were highest for mental workload (median 60, IQR 56.3-63.8) compared with other subscales, such as physical or temporal workload (median 15.00, IQR 11.3-18.8 and median 20.00, IQR 11.3-43.8, respectively), suggesting the simulation imposed a high mental demand. The overall SSES score of 43.5 out of 50 suggested faculty testers thought the simulation offered valuable learning opportunities.\n\nConclusions: Following usability testing, we successfully piloted the simulation with 23 obstetrics and family medicine residents without encountering any implementation issues. Incorporating usability evaluation methods throughout the simulation development life cycle helped identify and mitigate design problems that might otherwise limit simulation fidelity and instructional effectiveness. Our tutorial showcases a modular mixed methods approach that can be adapted to study a range of simulation types and research questions related to workflow, technology, and learning objectives.",
+  "mesh": [
+    "Humans",
+    "Telemedicine",
+    "Simulation Training",
+    "Education, Medical",
+    "Clinical Competence",
+    "Maternal Health Services",
+    "Female",
+    "Educational Measurement"
+  ],
+  "palabrasClave": [
+    "human factors engineering",
+    "maternal health services telehealth simulation",
+    "medical education",
+    "simulation testing",
+    "simulation training",
+    "telehealth competencies",
+    "telemedicine",
+    "usability testing",
+    "user-centered design"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-14",
+  "publicadoEl": "2026-09-14",
+  "tips": [
+    {
+      "titulo": "Testear antes de pilotar",
+      "texto": "Inviten a 6 clinicos expertos a probar su simulacion antes del pilotaje formal. Usen protocolos de pensamiento en voz alta para identificar problemas de flujo de trabajo, guiones o rubricas que distraigan del objetivo docente."
+    },
+    {
+      "titulo": "Medir usabilidad con instrumentos validados",
+      "texto": "Apliquen el System Usability Scale (SUS) adaptado y la Single Ease Question (SEQ) para cada paso critico. Un puntaje SUS bajo 70 o SEQ bajo 5 senala necesidad de revision inmediata del diseno."
+    },
+    {
+      "titulo": "Documentar carga cognitiva",
+      "texto": "Usen el NASA Task Load Index para medir demanda mental. Si la carga mental supera ampliamente otras dimensiones, simplifiquen la simulacion o ajusten complejidad al nivel del aprendiz."
+    },
+    {
+      "titulo": "Enfoque modular y adaptable",
+      "texto": "Seleccionen instrumentos segun su pregunta docente: flujo de trabajo, tecnologia o alineacion con objetivos. No es necesario aplicar todos en cada prueba; adapten el protocolo a su contexto."
+    },
+    {
+      "titulo": "Iterar en dos ciclos minimo",
+      "texto": "Realicen al menos dos rondas de prueba con usuarios reales. Corrijan problemas criticos tras la primera ronda y vuelvan a testear antes de implementar con estudiantes."
+    }
+  ],
+  "sintesis": "Doce medicos probaron una simulacion de telemedicina materno-fetal usando metodos mixtos de evaluacion de usabilidad. Identificaron 52 problemas de diseno en dos ciclos de prueba, 15 requirieron correccion antes del pilotaje con residentes. El protocolo combino instrumentos publicados y permitio corregir guiones, datos sinteticos y rubricas de evaluacion.",
+  "aplicacionDocente": "Antes de lanzar una nueva simulacion, organicen sesiones de prueba con colegas usando instrumentos sencillos como el SEQ o SUS. Observen donde los testers se frustran o distraen. Corrijan guiones de pacientes estandarizados, datos clinicos y rubricas de evaluacion. Este protocolo modular es aplicable a simulaciones de alta fidelidad, casos virtuales o telemedicina.",
+  "infografia": "/img/infografias/2026-09-14-how-to-conduct-usability-testing-of-medical-education-simulations-methods-tutori.png",
+  "disenoEstudio": "Tutorial de metodos con 12 medicos testeando simulacion de telemedicina en dos ciclos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "12 medicos detectaron 52 problemas de diseno antes del pilotaje: usabilidad como paso previo",
+  "etiquetas": [
+    "simulacion clinica",
+    "usabilidad",
+    "telemedicina",
+    "diseno educativo",
+    "evaluacion formativa"
+  ],
+  "advertencia": "Estudio de desarrollo de metodos con muestra pequena y unica simulacion de telemedicina; generalizacion a otros tipos de simulacion requiere validacion adicional",
+  "generadoPor": "claude-sonnet-4-5"
+}
