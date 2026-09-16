@@ -1,0 +1,93 @@
+{
+  "id": "2026-09-16-a-dual-hospital-university-specialist-training-reform-to-address-workforce-short",
+  "estado": "publicado",
+  "pmid": "42715522",
+  "doi": "10.2196/90270",
+  "titulo": "A Dual Hospital-University Specialist Training Reform to Address Workforce Shortage and Geographic Maldistribution in Indonesia: Integrative Qualitative Policy Process Review",
+  "tituloEs": "Indonesia implementa residencias hospitalarias para reducir escasez de especialistas médicos",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Abdullah A",
+    "Farianti Y",
+    "Trilaksono L",
+    "Anaya A",
+    "Kurniati A",
+    "Rosyati OF",
+    "Wiyati ER",
+    "Sumiarsih M",
+    "Manik CG",
+    "Sonia NHA",
+    "Muharram FR",
+    "Simanjuntak KT"
+  ],
+  "fechaPublicacion": "2026 Sep 9",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42715522/",
+  "resumenOriginal": "Background: Indonesia faces 3 interlocking medical workforce crises: an absolute specialist deficit projected to reach 70,000 by 2032 (national density of 0.18 per 1000 population vs the Ministry of National Development Planning [Bappenas] target of 0.28), severe maldistribution (with nearly 59% of specialists concentrated in Java), and a structural anomaly in which residents pay tuition while performing essential clinical work. The 2023 Health Law (Law 17/2023) authorized a transformative reform: a hospital-based residency pathway (Rumah Sakit Pendidikan Penyelenggara Utama [primary teaching hospital; RSPPU]) operating in parallel with the long-established university-based system.\n\nObjective: This study aimed to examine the rationale, policy design, and early implementation of Indonesia's dual hospital-university specialist medical education reform, interpreted through an 8-step change management framework developed by Kotter, and to identify transferable lessons for low- and middle-income countries.\n\nMethods: We conducted an integrative qualitative policy process review combining two evidence streams: (1) systematic documentary analysis of 19 source documents (17 primary legal, regulatory, and policy instruments plus 2 interministerial joint monitoring site-visit reports) and (2) engagement of 34 key informants through semistructured interviews and focus group discussions (45-120 min), comprising policymakers, collegium representatives, hospital leaders, and residents across all 6 pilot sites, recruited purposively until thematic saturation. Interview and focus group data were analyzed using a hybrid deductive-inductive thematic approach with an 8-step change management framework developed by Kotter as an a priori coding frame, and member checking was completed with 7 of the 34 informants.\n\nResults: The reform designated 6 top-tier national referral hospitals as RSPPUs and enrolled 52 residents from 412 applicants (an acceptance rate of 12.6%) across 6 high-need specialties (ophthalmology, cardiology, pediatrics, orthopedics, neurology, and oncology). All 6 pilot sites established functional education units and designated institutional officials, adopted dual accreditation, and operationalized an integrated e-logbook for competency tracking, real-time monitoring of 80-hour duty limits, and anonymous bullying reporting. An interministerial joint monitoring team visited all 6 sites and scored each site as satisfactory or better across governance, curriculum, faculty, infrastructure, and learner support. Four cross-cutting themes emerged: financial-barrier removal, dual-governance pragmatism, accreditation strain, and equity-anchored deployment. Persistent tensions include variable educator compensation across hospitals; however, a standardized national framework remains under development. Mapping to the framework developed by Kotter demonstrated strong evidence for steps 1 to 6 and early evidence for steps 7 to 8.\n\nConclusions: Indonesia's dual hospital-university residency model is a scalable, equity-oriented, and competency-based reform that is operationally feasible and globally aligned in its early implementation. While long-term effectiveness and sustainability await longitudinal evaluation, the design offers a transferable, not yet definitively replicable, template for low- and middle-income countries confronting parallel workforce crises.",
+  "mesh": [
+    "Indonesia",
+    "Humans",
+    "Qualitative Research",
+    "Internship and Residency",
+    "Specialization",
+    "Workforce",
+    "Academia",
+    "Health Workforce"
+  ],
+  "palabrasClave": [
+    "Indonesia",
+    "health care disparities",
+    "health policy",
+    "health workforce",
+    "internship and residency",
+    "medical education",
+    "universal health coverage"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-16",
+  "publicadoEl": "2026-09-16",
+  "tips": [
+    {
+      "titulo": "Eliminar barreras financieras",
+      "texto": "Las residencias basadas en hospitales públicos eliminan el pago de matrícula, transformando a los residentes de estudiantes pagadores en personal formativo esencial. Consideren visibilizar esta inequidad estructural en sus programas."
+    },
+    {
+      "titulo": "Monitoreo integrado en tiempo real",
+      "texto": "El sistema piloto usa un e-logbook unificado que rastrea competencias, vigila el límite de 80 horas semanales y permite reporte anónimo de maltrato. Exploren herramientas digitales equivalentes en su contexto."
+    },
+    {
+      "titulo": "Doble acreditación pragmática",
+      "texto": "El modelo combina estándares hospitalarios y académicos sin duplicar burocracia. Evalúen si sus procesos de acreditación facilitan u obstruyen la formación clínica distribuida."
+    },
+    {
+      "titulo": "Selección orientada a equidad",
+      "texto": "De 412 candidatos, aceptaron 52 (12.6%) en especialidades de alta necesidad poblacional. Revisen si sus criterios de selección priorizan cobertura geográfica o solo mérito académico tradicional."
+    },
+    {
+      "titulo": "Gobernanza interinstitucional clara",
+      "texto": "Cada hospital designó autoridades educativas, estableció unidades docentes funcionales y recibió monitoreo interministerial estandarizado. Identifiquen quién gobierna realmente la formación clínica en sus sedes."
+    }
+  ],
+  "sintesis": "Indonesia enfrenta un déficit proyectado de 70.000 especialistas para 2032 y concentración del 59% en una sola región. Implementó un modelo dual: residencias en hospitales públicos paralelas al sistema universitario tradicional. Seis hospitales piloto inscribieron 52 residentes en especialidades prioritarias con monitoreo competencial estructurado.",
+  "aplicacionDocente": "Usen este modelo para cuestionar dónde ocurre la formación especializada: ¿en universidades o donde están los pacientes? Discutan con residentes si pagar matrícula mientras trabajan 80 horas semanales es sostenible. Evalúen si sus bitácoras rastrean competencias o solo procedimientos. Revisen quién acredita y gobierna la docencia en los hospitales donde enseñan.",
+  "infografia": "/img/infografias/2026-09-16-a-dual-hospital-university-specialist-training-reform-to-address-workforce-short.png",
+  "disenoEstudio": "Revisión cualitativa de política pública con análisis documental (19 fuentes) y 34 informantes clave en 6 sitios piloto",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Indonesia forma especialistas en hospitales públicos sin matrícula: equidad y cobertura",
+  "etiquetas": [
+    "formación especializada",
+    "equidad educativa",
+    "distribución de personal",
+    "acreditación dual",
+    "países de ingreso medio"
+  ],
+  "advertencia": "Estudio de implementación temprana sin datos de efectividad a largo plazo ni comparación formal con el modelo universitario tradicional",
+  "generadoPor": "claude-sonnet-4-5"
+}

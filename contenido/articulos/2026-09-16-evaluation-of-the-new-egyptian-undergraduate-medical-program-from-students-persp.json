@@ -1,0 +1,92 @@
+{
+  "id": "2026-09-16-evaluation-of-the-new-egyptian-undergraduate-medical-program-from-students-persp",
+  "estado": "publicado",
+  "pmid": "42717331",
+  "doi": "10.1186/s12909-026-10200-2",
+  "titulo": "Evaluation of the new Egyptian undergraduate medical program from students' perspectives: a nationwide cross-sectional study",
+  "tituloEs": "Egresados egipcios evalúan programa de medicina por competencias: fortalezas y desafíos identificados",
+  "revista": "BMC medical education",
+  "autores": [
+    "Hosny S",
+    "Atwa H",
+    "Ghaly MS",
+    "Makhlouf AM",
+    "Radi S",
+    "Said ZNA",
+    "Salah H",
+    "Shoulah A",
+    "Abdelnasser A"
+  ],
+  "fechaPublicacion": "2026 Sep 8",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42717331/",
+  "resumenOriginal": "Background: The global emphasis on medical education reform highlights the need for essential competencies to meet evolving healthcare demands. In Egypt, significant reforms in 2018 introduced a competency-based, integrated undergraduate medical curriculum-a five-year program followed by a two-year internship aligned with the National Academic Reference Standards for Medicine. This study assesses graduates' perceptions and experiences with the newly implemented reformed national medical program.\n\nMethods: This descriptive, cross-sectional study was conducted between December 2023 and December 2024. Using a convenience sampling, it included 7,264 recent graduates from 27 Egyptian medical schools. Data was collected via an online survey comprising 45 Likert-scale items assessing various aspects of the program. Additionally, three open-ended questions explored graduates' most and least favorable aspects of the program and improvement suggestions. The survey underwent validity testing through exploratory factor analysis and expert review, as well as reliability testing through Cronbach's test. Data analysis included descriptive and inferential statistics, such as independent samples t-tests and one-way ANOVA, with significance set at p < 0.05. Effect sizes (Cohen's d and &#x3b7;&#xb2;) were calculated for all significant group comparisons to assess practical significance. Responses to open-ended questions were categorized and analyzed using quantitative content analysis (thematic categorization with frequency counts). Ethical approval, informed consent, and participant anonymity were ensured.\n\nResults: The study received responses from 7,264 graduates (40.7%). Validity and reliability tests confirmed the survey's robustness, with Cronbach's alpha of 0.98 and exploratory factor analysis identifying four factors, accounting for 64.53% of total variance. Survey responses indicated moderate overall satisfaction across program dimensions, with mean scores ranging from 2.71 to 3.41. Key strengths included integration of basic and clinical sciences, diverse learning opportunities, early clinical exposure, emphasis on critical thinking, self-directed learning, and faculty support. Male students, high achievers, and those with strong English proficiency or university housing reported slightly higher satisfaction, though effect sizes were small. Challenges such as heavy workload, difficulty adapting to the new curriculum, and frequent assessments were noted. Quantitative content analysis of open-ended responses reinforced the quantitative findings, offering additional descriptive insights into students' experiences.\n\nConclusion: The shift to Competency-Based Medical Education in Egypt marks a significant reform to better prepare graduates for modern medical practice. Key strengths include subject integration, diverse learning opportunities, early clinical exposure, emphasis on critical thinking and self-directed learning. However, challenges like increased workload, frequent assessments, and difficulties adapting to the new curriculum were noted.",
+  "mesh": [
+    "Cross-Sectional Studies",
+    "Egypt",
+    "Humans",
+    "Education, Medical, Undergraduate",
+    "Male",
+    "Curriculum",
+    "Students, Medical",
+    "Female",
+    "Surveys and Questionnaires",
+    "Program Evaluation",
+    "Adult",
+    "Competency-Based Education"
+  ],
+  "palabrasClave": [
+    "Competency-based education",
+    "Program evaluation",
+    "Students' experiences",
+    "Students&#x2019; perspectives",
+    "Undergraduate medical program"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-16",
+  "publicadoEl": "2026-09-16",
+  "tips": [
+    {
+      "titulo": "Integración vertical temprana",
+      "texto": "Incorporad casos clínicos desde ciencias básicas que conecten fisiopatología con manifestaciones clínicas. La integración horizontal y vertical mejora la retención y el razonamiento clínico temprano."
+    },
+    {
+      "titulo": "Exposición clínica progresiva",
+      "texto": "Diseñad actividades de contacto con pacientes desde primeros años, incluso observacionales. La exposición clínica temprana se asocia con mayor satisfacción y mejor transición al internado."
+    },
+    {
+      "titulo": "Andamiaje en aprendizaje autodirigido",
+      "texto": "Enseñad explícitamente estrategias de aprendizaje autodirigido antes de asignar tareas independientes. Los estudiantes valoran este enfoque pero necesitan estructura inicial para desarrollar la competencia."
+    },
+    {
+      "titulo": "Calibración de carga evaluativa",
+      "texto": "Revisad la frecuencia y propósito de cada evaluación en vuestro programa. Las evaluaciones frecuentes generan sobrecarga; priorizar evaluaciones formativas de bajo estrés con retroalimentación inmediata."
+    },
+    {
+      "titulo": "Apoyo en transiciones curriculares",
+      "texto": "Implementad sesiones de orientación explícita cuando los estudiantes transiten entre modelos pedagógicos. Las dificultades de adaptación son predecibles y prevenibles con acompañamiento estructurado."
+    }
+  ],
+  "sintesis": "Estudio transversal con 7.264 egresados de 27 escuelas de medicina egipcias evaluó el nuevo programa de pregrado basado en competencias implementado en 2018. Los graduados reportaron satisfacción moderada, destacando la integración de ciencias básicas y clínicas, exposición clínica temprana y énfasis en pensamiento crítico, aunque señalaron carga académica excesiva y dificultades de adaptación.",
+  "aplicacionDocente": "Este estudio valida la educación por competencias pero subraya que la integración curricular y la exposición clínica temprana requieren acompañamiento docente activo. En vuestra ronda o aula, explicad por qué conectáis conceptos básicos con casos clínicos, y ofreced retroalimentación formativa frecuente sin multiplicar exámenes sumativos. La transición curricular no es automática: anticipad las dificultades.",
+  "infografia": "/img/infografias/2026-09-16-evaluation-of-the-new-egyptian-undergraduate-medical-program-from-students-persp.png",
+  "disenoEstudio": "Estudio transversal con 7.264 egresados de 27 escuelas de medicina egipcias",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "La educación por competencias funciona, pero necesita apoyo docente en la transición",
+  "etiquetas": [
+    "educación basada en competencias",
+    "integración curricular",
+    "exposición clínica temprana",
+    "aprendizaje autodirigido",
+    "carga académica"
+  ],
+  "advertencia": "Muestra por conveniencia y medición de satisfacción subjetiva limitan la generalización; no se evaluaron resultados de aprendizaje objetivos ni desempeño clínico real.",
+  "generadoPor": "claude-sonnet-4-5"
+}

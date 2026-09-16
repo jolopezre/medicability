@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-16-teaching-acute-coronary-syndrome-high-risk-ecg-interpretation-and-clinical-decis",
+  "estado": "publicado",
+  "pmid": "42743531",
+  "doi": "10.2196/87587",
+  "titulo": "Teaching Acute Coronary Syndrome High-Risk ECG Interpretation and Clinical Decision-Making Through FOAMed Videos and Podcast Versus Print-Based Materials Among Emergency Care Providers: Randomized Controlled Mixed Methods Trial",
+  "tituloEs": "Videos y podcast FOAMed mejoran interpretación de ECG de alto riesgo en síndrome coronario agudo",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Turner W",
+    "Fessele K",
+    "Fandler M",
+    "Ehlers JP",
+    "Nitsche J"
+  ],
+  "fechaPublicacion": "2026 Sep 15",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42743531/",
+  "resumenOriginal": "Background: Accurate interpretation of high-risk acute coronary syndrome (ACS) electrocardiograms (ECGs) is essential for early diagnosis and timely reperfusion, yet substantial deficits persist across health care professions. Digital self-learning formats such as FOAMed (Free Open Access Medical Education) are widely used, but their effectiveness has rarely been evaluated for complex, high-risk ACS ECG patterns. Existing ECG education studies often focus on students or single professional groups and established ST-segment elevation myocardial infarction (STEMI) criteria, leaving newer guideline-recognized STEMI equivalents, selected emerging occlusion myocardial infarction (OMI)-related patterns, and interprofessional emergency care underrepresented.\n\nObjective: This study aimed to compare the effectiveness of FOAMed podcast and videos versus traditional print-based materials for teaching high-risk ACS ECG patterns and related clinical decision-making in emergency providers.\n\nMethods: We conducted a prospective, interprofessional, controlled mixed methods trial across 5 training sites in Germany. Paramedics, prehospital emergency physicians, and emergency department clinicians received either a FOAMed multimedia module or print-based materials through concealed allocation; deviations from the intended 1:1 ratio resulted from participant no-shows. The intervention consisted of a 30-minute supervised self-learning session. In total, 103 participants were allocated to FOAMed (n=45) or print-based materials (n=58). Two coprimary outcomes were assessed: ECG interpretation accuracy and text-based ACS clinical decision-making. Secondary outcomes included subjective confidence, learning experience, and exploratory qualitative free-text responses. Outcome assessment was automated and blinded; mixed ANOVA was the primary analysis. The study was not prospectively registered because it assessed educational outcomes in health care professionals rather than patient health outcomes.\n\nResults: All 103 participants completed the study. Both groups improved, with greater gains in the FOAMed group: ECG interpretation increased from 55% to 65.5% and text-based ACS clinical decision-making from 45% to 68%, versus 57% to 60% and from 47% to 63%, respectively, in the print-based group. Effect sizes were &#x3b7;&#xb2;=0.055 for ECG interpretation and &#x3b7;&#xb2;=0.044 for clinical decision-making. Exploratory subgroup analyses provided no evidence of differential effects across age, gender, or professional background and were likely underpowered. Qualitative responses (46 and 37 entries) provided contextual insights into perceived clarity, engagement, and practical relevance supporting the quantitative findings.\n\nConclusions: This study is innovative in directly comparing a curated FOAMed multimedia module with selected print-based materials in an interprofessional emergency care population. It differs from existing research by focusing on subtle, emerging ischemic patterns and evaluating realistic, time-limited self-learning formats. The findings provide evidence that curated FOAMed resources can produce greater short-term improvements in ECG interpretation and text-based ACS clinical decision-making than traditional print-based materials in this setting. Although implications for clinical performance remain hypothetical, concise, high-quality digital modules may represent a practical supplement to structured continuing education in emergency care.",
+  "mesh": [
+    "Humans",
+    "Acute Coronary Syndrome",
+    "Electrocardiography",
+    "Prospective Studies",
+    "Clinical Decision-Making",
+    "Germany",
+    "Female",
+    "Video Recording",
+    "Male",
+    "Adult",
+    "Webcasts as Topic"
+  ],
+  "palabrasClave": [
+    "FOAMed",
+    "Free Open Access Medical Education",
+    "STEMI equivalents",
+    "acute coronary syndrome",
+    "clinical decision-making",
+    "digital learning",
+    "electrocardiogram",
+    "electrocardiogram interpretation",
+    "high-risk ECG signs",
+    "podcast-based education",
+    "self-directed learning",
+    "video-based learning"
+  ],
+  "temas": [
+    "Razonamiento clínico"
+  ],
+  "puntaje": 27,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-16",
+  "publicadoEl": "2026-09-16",
+  "tips": [
+    {
+      "titulo": "Módulos digitales cortos funcionan",
+      "texto": "Sesiones de autoaprendizaje de 30 minutos con videos y podcast curados producen mejoras medibles en interpretación de ECG de alto riesgo, mayores que materiales impresos tradicionales."
+    },
+    {
+      "titulo": "Incluyan patrones emergentes de OMI",
+      "texto": "Actualicen enseñanza de ECG más allá de criterios STEMI establecidos: incluyan equivalentes de STEMI reconocidos en guías y patrones emergentes de oclusión miocárdica (OMI)."
+    },
+    {
+      "titulo": "Formato interprofesional es viable",
+      "texto": "No hubo diferencias por profesión, edad o género en respuesta a FOAMed. Diseñen sesiones que integren paramédicos, médicos prehospitalarios y clínicos de urgencias."
+    },
+    {
+      "titulo": "Cursen antes de asignar",
+      "texto": "No todos los recursos FOAMed son iguales. Seleccionen y validen contenidos específicos para patrones de alto riesgo antes de incorporarlos al currículo."
+    },
+    {
+      "titulo": "Evalúen más allá del reconocimiento",
+      "texto": "Midan tanto interpretación de ECG como toma de decisiones clínicas basada en casos de texto, reflejando complejidad real de la práctica de emergencias."
+    }
+  ],
+  "sintesis": "Ensayo controlado con 103 profesionales de emergencias en Alemania comparó módulo multimedia FOAMed versus material impreso para enseñar patrones ECG de alto riesgo en síndrome coronario agudo. El grupo FOAMed mostró mayores ganancias en interpretación de ECG y toma de decisiones clínicas tras 30 minutos de autoaprendizaje supervisado.",
+  "aplicacionDocente": "Incorporen módulos digitales breves y curados (videos, podcast) en rotaciones de emergencias para actualizar interpretación de ECG de alto riesgo. Combinen autoaprendizaje supervisado con evaluación de toma de decisiones basada en casos. Prioricen patrones sutiles y emergentes que van más allá de STEMI clásico.",
+  "infografia": "/img/infografias/2026-09-16-teaching-acute-coronary-syndrome-high-risk-ecg-interpretation-and-clinical-decis.png",
+  "disenoEstudio": "Ensayo controlado prospectivo con 103 profesionales de emergencias (paramédicos, médicos prehospitalarios, clínicos de urgencias) en 5 centros en Alemania",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "30 minutos de FOAMed curado superan material impreso para ECG de alto riesgo en urgencias",
+  "etiquetas": [
+    "electrocardiograma",
+    "síndrome coronario agudo",
+    "foamed",
+    "medicina de emergencias",
+    "educación digital"
+  ],
+  "advertencia": "Estudio evaluó resultados educativos a corto plazo; el impacto en desempeño clínico real permanece hipotético y requiere investigación adicional.",
+  "generadoPor": "claude-sonnet-4-5"
+}

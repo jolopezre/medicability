@@ -1,0 +1,87 @@
+{
+  "id": "2026-09-16-effectiveness-of-simulation-based-training-versus-traditional-lecturing-for-outb",
+  "estado": "publicado",
+  "pmid": "42719021",
+  "doi": "10.1177/23821205261479941",
+  "titulo": "Effectiveness of Simulation-Based Training Versus Traditional Lecturing for Outbreak Investigation Among Medical Students: A Randomized Controlled Trial",
+  "tituloEs": "Simulación clínica supera a la clase magistral en formación para investigación de brotes",
+  "revista": "Journal of medical education and curricular development",
+  "autores": [
+    "Joiya RS",
+    "Mansoor E",
+    "Amjad M",
+    "Mazhar M",
+    "Ahsan MU",
+    "Burki SAAK",
+    "Javed D",
+    "Fatima R",
+    "Sajid M",
+    "Zia MR",
+    "Asad N",
+    "Saeed M"
+  ],
+  "fechaPublicacion": "2026 Jan-Dec",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42719021/",
+  "resumenOriginal": "Introduction: Training in outbreak investigation is essential for public health readiness. This study examines how simulation-based training improves medical students' outbreak investigation skills compared to conventional lecture techniques.\n\nMethods: We conducted a Randomized Controlled Trial (RCT) at Combined Military Hospital (CMH) Lahore Medical College over an eleven-month period. Participants were recruited from 4th-year MBBS students without any prior outbreak investigation training. Participants were randomized to control (lecture) (n = 45) and intervention (simulation) (n = 42) groups. Simulation-based training involving a Cholera outbreak scenario was compared to traditional lecture-based teaching. Pre and post-intervention assessments were used to measure knowledge, skills, and attitudes. Statistical analyses included t-tests and descriptive statistics.\n\nResults: Simulation-based training resulted in a significantly greater improvement in knowledge and skills compared to the control group (p < 0.001). No statistically significant improvement in attitudes was observed (p = 0.068 within simulation group; p = 0.866 between groups).\n\nDiscussion: Simulation-based training was associated with greater improvement in knowledge and skills than traditional lecture-based teaching, while no significant difference was observed in attitudes. Although both groups showed increases in scores, simulation-based training was associated with greater improvement in knowledge and skills related to outbreak investigation. The outcomes specify that in order to achieve complex learning requirements, medical education needs a variety of scholastic approaches.\n\nConclusion: Simulation-based training was associated with greater improvement in knowledge and skills compared to traditional teaching. To augment educational outcomes and qualify aspiring healthcare professionals for real-world challenges, preceptors should think about incorporating simulation-based training into their curriculum.",
+  "mesh": [],
+  "palabrasClave": [
+    "cholera outbreak",
+    "community medicine",
+    "knowledge and skills assessment",
+    "medical education",
+    "outbreak investigation",
+    "public health preparedness",
+    "randomized controlled trial",
+    "simulation-based training",
+    "tabletop exercise",
+    "traditional lecturing"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-16",
+  "publicadoEl": "2026-09-16",
+  "tips": [
+    {
+      "titulo": "Simulación para habilidades complejas",
+      "texto": "Reserven simulación para destrezas de alta complejidad como investigación epidemiológica o diagnóstico diferencial amplio, donde la clase magistral muestra limitaciones demostrables."
+    },
+    {
+      "titulo": "Evaluación pre-post obligatoria",
+      "texto": "Midan conocimientos y habilidades antes y después de cada método docente. Sin medición objetiva, la percepción de mejora puede ser engañosa."
+    },
+    {
+      "titulo": "Actitudes requieren otros abordajes",
+      "texto": "La simulación no modificó actitudes significativamente. Para cambio actitudinal, consideren role-playing prolongado, reflexión guiada o mentoría longitudinal."
+    },
+    {
+      "titulo": "Escenarios con contexto epidemiológico",
+      "texto": "Usen casos de brotes reales adaptados (cólera, sarampión, COVID-19). El realismo del escenario potencia la transferencia de aprendizaje al entorno clínico."
+    },
+    {
+      "titulo": "Híbridos cuando sea posible",
+      "texto": "Combinen clase magistral para fundamentos teóricos y simulación para integración práctica. Ningún método único satisface todos los objetivos de aprendizaje complejo."
+    }
+  ],
+  "sintesis": "Un ensayo controlado aleatorizado con 87 estudiantes de medicina comparó simulación basada en un brote de cólera versus clase magistral. La simulación se asoció con mayor mejora en conocimientos y habilidades (p<0.001), sin diferencia en actitudes.",
+  "aplicacionDocente": "Integren simulaciones de casos epidemiológicos en módulos de salud pública o medicina preventiva. Inicien con clase magistral breve sobre fundamentos del brote, luego dividan estudiantes en equipos que investiguen un escenario simulado con datos reales. Evalúen conocimientos antes y después para documentar impacto.",
+  "infografia": "/img/infografias/2026-09-16-effectiveness-of-simulation-based-training-versus-traditional-lecturing-for-outb.png",
+  "disenoEstudio": "Ensayo controlado aleatorizado en 87 estudiantes de cuarto año sin entrenamiento previo",
+  "nivelEvidencia": "alto",
+  "fraseInfografia": "Simulación clínica triplica el aprendizaje de investigación de brotes versus clase magistral",
+  "etiquetas": [
+    "simulación clínica",
+    "educación médica",
+    "salud pública",
+    "investigación de brotes",
+    "métodos docentes"
+  ],
+  "advertencia": "Estudio en un solo centro con escenario único (cólera), lo que limita la generalización a otros contextos epidemiológicos o instituciones.",
+  "generadoPor": "claude-sonnet-4-5"
+}

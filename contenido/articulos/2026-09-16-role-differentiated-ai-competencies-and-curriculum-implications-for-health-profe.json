@@ -1,0 +1,86 @@
+{
+  "id": "2026-09-16-role-differentiated-ai-competencies-and-curriculum-implications-for-health-profe",
+  "estado": "publicado",
+  "pmid": "42710030",
+  "doi": "10.2196/97608",
+  "titulo": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study",
+  "tituloEs": "Competencias de IA diferenciadas por rol para educadores en ciencias de la salud",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Park Y",
+    "Han Y",
+    "Kim H",
+    "Ahn S",
+    "Kron FW",
+    "Lee J"
+  ],
+  "fechaPublicacion": "2026 Sep 8",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+  "resumenOriginal": "Background: As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for the diverse functions that healthcare professionals perform in an AI-integrated environment. Although existing tiered and domain-based competency models have clarified general AI competency requirements, they offer limited guidance on how such competencies should be differentiated according to the roles healthcare professionals perform in practice.\n\nObjective: This study aimed to explore how AI-driven changes in healthcare shape competency requirements across professional roles and to develop differentiated competency frameworks and curriculum implications for 3 distinct roles: users, developers, and leaders.\n\nMethods: Using a qualitative research design, we conducted in-depth interviews with 13 subject matter experts across academic medicine and dentistry, clinical practice, and the healthcare AI industry, who were recruited through 4 independent channels. Data were analyzed using reflexive thematic analysis with inductive coding organized around 3 research questions and published competency frameworks serving as sensitizing concepts. Trustworthiness was supported through investigator triangulation, member checking, an audit trail, and attention to researcher reflexivity and positionality.\n\nResults: We identified a role-differentiated competency framework with a layered structure as follows: (1) Users require machine learning and data literacy to understand where algorithms fail and scrutinize data origins and biases; the ability to select best-fit AI solutions and set appropriate thresholds for human-machine delegation; and a high degree of AI-related professionalism to work responsibly with AI by recognizing its limits, critically appraising outputs, maintaining clinical accountability, preserving patient-centered care, and updating knowledge continuously; (2) Developers add operational competencies, including validating systems across technical performance, clinical relevance, and regulatory compliance; bridging the language gap between clinical needs and technical refinements; and fostering a challenging, problem-solving mindset to address real-world clinical bottlenecks; and (3) Leaders focus on system-level competencies, including macro-level strategic planning, governing medical AI across its full lifecycle-selection, validation, deployment, and monitoring-through policy \"roads\" and governance frameworks, and optimizing systemic resource utilization while orchestrating trust-based collaboration that safeguards care quality. Rather than a strictly cumulative hierarchy, the roles represent analytic distinctions with shared foundational competencies. This framework translates these competencies into corresponding curriculum implications across the health professions education continuum.\n\nConclusions: This study identifies role-differentiated AI competencies and proposes a corresponding curriculum scaffold for healthcare education. As a preliminary, hypothesis-generating starting point requiring multistakeholder validation, the proposed framework can help prepare the future healthcare workforce to utilize AI responsibly and to govern and lead the next generation of digital health innovation.",
+  "mesh": [
+    "Humans",
+    "Qualitative Research",
+    "Curriculum",
+    "Artificial Intelligence",
+    "Professional Competence",
+    "Health Occupations"
+  ],
+  "palabrasClave": [
+    "AI",
+    "artificial intelligence",
+    "competency-based education",
+    "curriculum",
+    "healthcare professionals",
+    "medical education",
+    "professional competence",
+    "qualitative research"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S38",
+  "descubiertoEl": "2026-09-16",
+  "publicadoEl": "2026-09-16",
+  "tips": [
+    {
+      "titulo": "Alfabetización en datos para usuarios",
+      "texto": "Enseñen a reconocer dónde fallan los algoritmos y a cuestionar sesgos en los datos. Incluyan casos donde la IA sugirió diagnósticos incorrectos por problemas de representatividad."
+    },
+    {
+      "titulo": "Delegación humano-máquina en rondas",
+      "texto": "En la ronda, discutan umbrales para delegar decisiones a IA. Pregunten: ¿cuándo confían en la sugerencia algorítmica y cuándo exigen confirmación humana?"
+    },
+    {
+      "titulo": "Profesionalismo con IA en evaluaciones",
+      "texto": "Evalúen si los estudiantes mantienen responsabilidad clínica al usar IA: ¿verifican resultados, preservan atención centrada en el paciente y actualizan conocimiento continuamente?"
+    },
+    {
+      "titulo": "Validación técnico-clínica para desarrolladores",
+      "texto": "Formen a residentes interesados en desarrollo para validar sistemas de IA en tres dimensiones: rendimiento técnico, relevancia clínica y cumplimiento regulatorio."
+    },
+    {
+      "titulo": "Gobernanza de IA para líderes",
+      "texto": "Incluyan en programas de liderazgo médico la planificación estratégica de IA: selección, validación, implementación y monitoreo a través de políticas institucionales claras."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con 13 expertos identifica competencias de inteligencia artificial diferenciadas por tres roles: usuarios clínicos, desarrolladores y líderes. Se propone un marco curricular escalonado, desde alfabetización en datos y uso crítico hasta validación técnica y gobernanza estratégica.",
+  "aplicacionDocente": "Este marco permite segmentar la enseñanza de IA según trayectorias: todos los estudiantes necesitan alfabetización en datos y profesionalismo con IA; quienes busquen innovación técnica requieren competencias de validación; futuros jefes de servicio necesitan gobernanza estratégica. Ajusten objetivos curriculares a estos roles desde el pregrado.",
+  "infografia": "/img/infografias/2026-09-16-role-differentiated-ai-competencies-and-curriculum-implications-for-health-profe.png",
+  "disenoEstudio": "Estudio cualitativo con 13 expertos en medicina académica, práctica clínica e industria de IA sanitaria",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA en salud: competencias diferentes según roles de usuario, desarrollador o líder",
+  "etiquetas": [
+    "inteligencia artificial",
+    "competencias profesionales",
+    "diseño curricular",
+    "educación médica",
+    "roles clínicos"
+  ],
+  "advertencia": "Estudio cualitativo exploratorio con 13 expertos; requiere validación con múltiples actores antes de generalizar hallazgos.",
+  "generadoPor": "claude-sonnet-4-5"
+}
