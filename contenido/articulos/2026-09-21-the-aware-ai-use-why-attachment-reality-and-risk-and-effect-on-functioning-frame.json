@@ -1,0 +1,88 @@
+{
+  "id": "2026-09-21-the-aware-ai-use-why-attachment-reality-and-risk-and-effect-on-functioning-frame",
+  "estado": "publicado",
+  "pmid": "42749279",
+  "doi": "10.2196/108766",
+  "titulo": "The AWARE (AI Use, Why, Attachment, Reality and Risk, and Effect on Functioning) Framework for Assessing Patients' Use of AI in Mental Health Care",
+  "tituloEs": "Marco AWARE: cómo evaluar en consulta el uso de IA conversacional por pacientes en salud mental",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Hudon A",
+    "Bhat V",
+    "Nunez JJ",
+    "Paquin V",
+    "Malouin-Lachance A",
+    "Lespérance F"
+  ],
+  "fechaPublicacion": "2026 Sep 16",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42749279/",
+  "resumenOriginal": "Conversational AI has rapidly become integrated into everyday life, with many individuals using large language model-based systems, such as ChatGPT, Gemini, and Claude, for education, productivity, health information, decision-making, emotional support, and companionship. As patients increasingly incorporate conversational AI into their cognitive, emotional, and social lives, these interactions may influence coping strategies, treatment engagement, clinical decision-making, and mental health outcomes. However, although medical education has increasingly emphasized AI literacy and the responsible use of generative AI by clinicians, comparatively little attention has been given to preparing health care professionals to assess patients' use of conversational AI during routine clinical encounters. This Viewpoint introduces the AWARE (AI use, why, attachment, reality and risk, and effect on functioning) framework, a practical educational framework designed to help mental health professionals systematically assess patients' use of conversational AI. Rather than functioning as a diagnostic instrument or psychometric scale, AWARE provides a structured approach to psychiatric interviewing across 5 clinically relevant domains: AI use, why, attachment, reality and risk, and effect on functioning. Together, these domains guide clinicians in exploring patterns of AI use, the motivations underlying engagement, the emotional significance of patient-AI interactions, potential influences on reality testing and clinical risk, and the overall impact of AI on psychological well-being, daily functioning, relationships, and recovery. The framework is intended to complement existing psychiatric interviewing practices by supporting comprehensive history taking, clinical reasoning, risk assessment, documentation, and learner education. We discuss the rationale for routinely asking patients about AI use, review emerging evidence regarding both the potential benefits and risks of conversational AI, and describe how AWARE may be incorporated into undergraduate, postgraduate, and continuing professional education through simulation, objective structured clinical examinations, workplace-based assessment, and clinical supervision. We also outline priorities for future research, including validation, implementation, educational evaluation, and cross-cultural adaptation. As conversational AI becomes increasingly embedded within patients' daily lives, clinicians require practical approaches to understanding its role in mental health and health care. The AWARE framework offers a structured educational starting point for integrating assessment of patient-AI interactions into routine psychiatric interviewing while supporting patient-centered, evidence-informed clinical practice and health professions education.",
+  "mesh": [
+    "Humans",
+    "Artificial Intelligence",
+    "Mental Health Services",
+    "Generative Artificial Intelligence"
+  ],
+  "palabrasClave": [
+    "AI",
+    "ChatGPT",
+    "artificial intelligence",
+    "clinical assessment",
+    "conversational artificial intelligence",
+    "digital mental health",
+    "large language models",
+    "medical education",
+    "mental health",
+    "psychiatric interview",
+    "psychiatry"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 28.5,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Integren pregunta sobre IA en anamnesis",
+      "texto": "Incorporen en la historia clínica rutinaria la pregunta: '¿Utiliza sistemas de IA conversacional como ChatGPT?'. Normaliza la indagación y abre ventana a patrones de uso relevantes clínicamente."
+    },
+    {
+      "titulo": "Exploren motivación de uso",
+      "texto": "Pregunten para qué usan IA: información de salud, apoyo emocional, toma de decisiones. La motivación revela necesidades insatisfechas y oportunidades terapéuticas."
+    },
+    {
+      "titulo": "Evalúen apego emocional al sistema",
+      "texto": "Indaguen si el paciente siente compañía o vínculo con la IA. El apego excesivo puede indicar aislamiento social o dificultades interpersonales subyacentes."
+    },
+    {
+      "titulo": "Valoren impacto en prueba de realidad",
+      "texto": "Pregunten si el paciente distingue que la IA genera respuestas sin conciencia ni criterio clínico. Evalúa riesgo de toma de decisiones basadas en información no validada."
+    },
+    {
+      "titulo": "Documenten efecto en funcionamiento diario",
+      "texto": "Registren si el uso de IA mejora o interfiere con relaciones, trabajo, adherencia terapéutica. Guía decisiones de apoyo o límites."
+    }
+  ],
+  "sintesis": "Se propone el marco AWARE (uso de IA, motivación, apego, realidad y riesgo, efecto en funcionamiento) para evaluar sistemáticamente cómo pacientes utilizan sistemas conversacionales de IA (ChatGPT, Gemini, Claude) en su vida cognitiva, emocional y social, y su impacto en salud mental y tratamiento.",
+  "aplicacionDocente": "Usen AWARE en simulación o ECOE para entrenar exploración sistemática de uso de IA por pacientes. En supervisión clínica, modelen cómo integrar estas cinco dimensiones en entrevista psiquiátrica rutinaria sin juzgar. Prepara a residentes para realidad donde pacientes consultan IA antes, durante o en lugar de atención profesional.",
+  "infografia": "/img/infografias/2026-09-21-the-aware-ai-use-why-attachment-reality-and-risk-and-effect-on-functioning-frame.png",
+  "disenoEstudio": "Artículo de opinión que propone un marco educativo para entrevista psiquiátrica",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Cinco dominios para preguntar en consulta sobre uso de IA conversacional por pacientes",
+  "etiquetas": [
+    "inteligencia artificial",
+    "entrevista psiquiátrica",
+    "salud mental",
+    "educación médica",
+    "razonamiento clínico"
+  ],
+  "advertencia": "Marco propuesto sin validación empírica; requiere estudios de implementación y adaptación transcultural para confirmar utilidad clínica y educativa.",
+  "generadoPor": "claude-sonnet-4-5"
+}

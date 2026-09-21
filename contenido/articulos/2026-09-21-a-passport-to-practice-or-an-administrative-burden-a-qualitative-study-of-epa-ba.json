@@ -1,0 +1,74 @@
+{
+  "id": "2026-09-21-a-passport-to-practice-or-an-administrative-burden-a-qualitative-study-of-epa-ba",
+  "estado": "publicado",
+  "pmid": "42765811",
+  "doi": "10.1080/0142159X.2026.2733156",
+  "titulo": "A passport to practice or an administrative burden? A qualitative study of EPA-based E-portfolios in undergraduate medical education",
+  "tituloEs": "Portafolios EPA en pregrado: potencial educativo y riesgo de burocratización",
+  "revista": "Medical teacher",
+  "autores": [
+    "Lombard FB",
+    "Audétat MC",
+    "Buyck M"
+  ],
+  "fechaPublicacion": "2026 Sep 21",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42765811/",
+  "resumenOriginal": "Introduction: In undergraduate medical education (UME), the implementation of Competency-Based Medical Education (CBME) has led to the widespread use of Entrustable Professional Activities (EPAs) and electronic portfolios. Although EPA-based e-portfolios are intended to scaffold learning, reflection, and progressive clinical autonomy, their educational effects in undergraduate clinical clerkships remain insufficiently explored. This study examines how students and supervisors experience and interpret an EPA-based electronic portfolio in workplace-based undergraduate training.\n\nMethods: Using an interpretivist qualitative design, we conducted peer-facilitated focus groups with undergraduate medical students and clinical supervisors at a Swiss medical faculty following four years of EPA-based e-portfolio implementation. Data were analysed using reflexive thematic analysis to explore how stakeholders made sense of the portfolio and how its digital structure shaped learning, assessment, and supervision practices.\n\nResults: Three interconnected themes were identified. First, the EPA-based e-portfolio functioned as a learning scaffold and a legitimising 'passport', enabling students to claim clinical agency and access learning opportunities in the workplace. Second, a 'granularity paradox' emerged, whereby the digital entrustment scale imposed an assessment ceiling that failed to capture nuanced learning progression during short undergraduate rotations. Third, excessive documentation requirements, delayed entrustment, and perceptions of surveillance transformed the portfolio into a bureaucratic burden, eroding feedback quality and straining student-supervisor relationships.\n\nDiscussion: EPA-based e-portfolios can legitimise undergraduate students' clinical participation and scaffold reflective practice; however, their implementation within short clerkships reveals critical limitations. Digital entrustment scales tend to flatten meaningful progression, whilst excessive documentation requirements risk transforming portfolios into bureaucratic rituals at the expense of genuine feedback dialogue. The resulting assessment pressure fosters a perception of surveillance that undermines student well-being and erodes supervisory relationships. These findings suggest that EPA-based portfolios can support undergraduate learning only when simplified, developmentally aligned, and embedded within a structured supervisory framework.",
+  "mesh": [],
+  "palabrasClave": [
+    "Competency-based medical education",
+    "electronic portfolio",
+    "entrustable professional activities",
+    "undergraduate medical education",
+    "workplace-based learning"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Legitimar participación clínica",
+      "texto": "Usen portafolios como 'pasaporte' para que estudiantes accedan a actividades clínicas reales, documentando competencias logradas y justificando mayor autonomía ante el equipo."
+    },
+    {
+      "titulo": "Simplificar documentación",
+      "texto": "Eviten requisitos excesivos de registro: prioricer calidad sobre cantidad. Demasiadas entradas transforman el portafolio en carga administrativa que desvía del aprendizaje auténtico."
+    },
+    {
+      "titulo": "Ajustar escalas a rotaciones cortas",
+      "texto": "En rotaciones breves de pregrado, escalas digitales rígidas no capturan progresión gradual. Prefieran evaluaciones narrativas que documenten matices del desarrollo competencial."
+    },
+    {
+      "titulo": "Proteger diálogo educativo",
+      "texto": "Eviten que portafolio se perciba como vigilancia. Establezcan espacios protegidos donde retroalimentación sea formativa, no punitiva, preservando relación estudiante-supervisor."
+    },
+    {
+      "titulo": "Estructurar supervisión",
+      "texto": "Implementen marco supervisorio claro con tiempos dedicados. Sin estructura de soporte, portafolio se vuelve ritual burocrático sin impacto en aprendizaje."
+    }
+  ],
+  "sintesis": "Estudio cualitativo en Suiza explora cómo estudiantes y supervisores experimentan portafolios electrónicos basados en EPAs durante rotaciones clínicas de pregrado. Los portafolios legitimaron la participación clínica, pero documentación excesiva y escalas digitales rígidas transformaron la herramienta en carga burocrática que erosionó calidad de retroalimentación.",
+  "aplicacionDocente": "Implementen portafolios EPA simplificados que legitimen participación sin ahogar en documentación. Privilegien conversaciones formativas sobre registros extensos. En rotaciones cortas, usen narrativas flexibles en lugar de escalas rígidas. Establezcan espacios de retroalimentación protegidos donde estudiantes no perciban vigilancia, sino apoyo genuino al desarrollo competencial.",
+  "infografia": "/img/infografias/2026-09-21-a-passport-to-practice-or-an-administrative-burden-a-qualitative-study-of-epa-ba.png",
+  "disenoEstudio": "Estudio cualitativo interpretativo con grupos focales en facultad de medicina suiza tras cuatro años de implementación",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Portafolios EPA: de pasaporte educativo a carga burocrática sin diseño apropiado",
+  "etiquetas": [
+    "portafolios electronicos",
+    "actividades profesionales confiables",
+    "educacion medica de pregrado",
+    "retroalimentacion formativa",
+    "burocratizacion educativa"
+  ],
+  "advertencia": "Estudio en contexto suizo limita transferibilidad; hallazgos cualitativos no permiten generalizar magnitud del problema en otros sistemas educativos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2026-09-21-hidden-talents-in-medical-education-visual-thinkers-may-activate-intelligences-t",
+  "estado": "publicado",
+  "pmid": "42756921",
+  "doi": "10.2147/AMEP.S592187",
+  "titulo": "Hidden Talents in Medical Education: Visual Thinkers May Activate Intelligences Through Mind Mapping",
+  "tituloEs": "Mapas mentales: propuesta para revelar pensamiento clinico oculto en estudiantes de medicina",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Sajadi AS",
+    "Karimi A",
+    "Rahmani V",
+    "Khoshgoftar Z"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42756921/",
+  "resumenOriginal": "This conceptual paper proposes that mind mapping may serve as a tool with the potential to transform students' invisible clinical thinking into a tangible and assessable \"clinical palette\". By visually representing data, analyses, connections, and decision-making processes, mind mapping is proposed to help unveil hidden layers of clinical reasoning while potentially engaging a wide range of intelligences, including spatial, logical, creative, fluid, intrapersonal, and interpersonal. It is hypothesized that this approach may reduce working memory load and facilitate the recognition of previously unperceived patterns, although these proposed cognitive mechanisms have not yet been empirically tested in clinical education settings. Mind mapping is thus presented not merely as a learning technique but as a candidate framework to potentially illuminate overlooked cognitive pathways and help identify latent abilities. In clinical settings, this tool could, in principle, depict the student's cognitive journey from history-taking to diagnostic hypothesis generation and treatment planning, potentially making subtle and often overlooked aspects of clinical reasoning observable. To operationalize this proposed approach, clinical educators may consider integrating mind mapping into medical training through strategies such as brief 5-10 minute student-generated maps, establishing mind-mapping studios, integrating mind maps with clinical assessment tools, and developing faculty programs focused on teaching the art of visual thinking. As a conceptual perspective, this framework requires empirical validation including controlled and longitudinal studies, before its educational value and comparative advantage over related constructs such as concept mapping and illness scripts can be established.",
+  "mesh": [],
+  "palabrasClave": [
+    "clinical reasoning",
+    "medical education",
+    "mind mapping",
+    "multiple intelligences",
+    "visual thinking"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Mapeo rapido en ronda",
+      "texto": "Pedir al estudiante un mapa mental de 5 minutos tras interrogar al paciente, mostrando como conecta sintomas con hipotesis diagnosticas."
+    },
+    {
+      "titulo": "Visualizar razonamiento individual",
+      "texto": "Usar mapas mentales para que estudiantes tracen su camino desde anamnesis hasta plan terapeutico, revelando lagunas en su proceso."
+    },
+    {
+      "titulo": "Comparar con guiones clinicos",
+      "texto": "Contrastar mapas mentales estudiantiles con guiones de enfermedad (illness scripts) establecidos para identificar diferencias en organizacion del conocimiento."
+    },
+    {
+      "titulo": "Taller de pensamiento visual",
+      "texto": "Implementar sesiones breves donde estudiantes construyan mapas colaborativos, aprovechando inteligencias interpersonal y espacial en casos complejos."
+    },
+    {
+      "titulo": "Evaluacion formativa complementaria",
+      "texto": "Integrar mapas mentales a herramientas de evaluacion existentes, no como reemplazo sino como ventana al proceso cognitivo del aprendiz."
+    }
+  ],
+  "sintesis": "Este articulo conceptual propone que los mapas mentales podrian hacer visible el razonamiento clinico de estudiantes, involucrando inteligencias espacial, logica y creativa. La hipotesis sugiere reduccion de carga cognitiva y reconocimiento de patrones, pero aun no ha sido probada empiricamente en educacion medica.",
+  "aplicacionDocente": "Probar mapas mentales breves en rondas clinicas para hacer observable el razonamiento estudiantil. Considerar esto una hipotesis pedagogica pendiente de validacion, no una estrategia probada. Util para generar conversaciones sobre como piensan los estudiantes, especialmente aquellos con fortalezas visuales o espaciales no detectadas por metodos tradicionales.",
+  "infografia": "/img/infografias/2026-09-21-hidden-talents-in-medical-education-visual-thinkers-may-activate-intelligences-t.png",
+  "disenoEstudio": "Articulo conceptual sin validacion empirica",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Mapas mentales: hipotesis para revelar talentos ocultos en razonamiento clinico visual",
+  "etiquetas": [
+    "razonamiento clinico",
+    "mapas mentales",
+    "pensamiento visual",
+    "inteligencias multiples",
+    "evaluacion formativa"
+  ],
+  "advertencia": "Propuesta conceptual sin evidencia empirica: requiere estudios controlados y longitudinales para validar beneficios educativos y ventajas sobre mapas conceptuales o guiones de enfermedad.",
+  "generadoPor": "claude-sonnet-4-5"
+}

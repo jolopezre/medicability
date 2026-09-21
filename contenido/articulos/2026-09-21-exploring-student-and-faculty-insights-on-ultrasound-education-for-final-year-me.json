@@ -1,0 +1,77 @@
+{
+  "id": "2026-09-21-exploring-student-and-faculty-insights-on-ultrasound-education-for-final-year-me",
+  "estado": "publicado",
+  "pmid": "42756882",
+  "doi": "10.2147/AMEP.S621984",
+  "titulo": "Exploring Student and Faculty Insights on Ultrasound Education for Final-Year Medical Students: A Qualitative Study",
+  "tituloEs": "Brecha entre habilidad técnica y razonamiento clínico en enseñanza de ecografía",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Bashir K",
+    "Al-Rajhi AA",
+    "Altaissan M",
+    "Syed A",
+    "Desouki M",
+    "Al-Meraikhi N",
+    "Kane T"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42756882/",
+  "resumenOriginal": "Background: Ultrasound is an important bedside valuable tool, but its integration into undergraduate medical education remains variable, particularly in the Middle East and North Africa (MENA) region. At Qatar University (QU) College of Medicine, ultrasound is introduced during the preclinical years, while clinical exposure remains largely opportunistic. This study explored student and faculty perspectives on the strengths and limitations of the ultrasound curriculum at QU.\n\nMethods: A qualitative study used focus groups with final-year medical students (n=21) and semi-structured interviews with faculty involved in ultrasound training (n=15). Data were analyzed using a triangulated thematic approach combining independent manual coding with AI-assisted analysis. Final themes were refined through researcher consensus.\n\nResults: The main finding was a translational gap between early technical proficiency and the ability to apply ultrasound findings to clinical reasoning and decision-making. Four student themes and five faculty themes emerged. Early preclinical exposure was valued for developing technical skills and confidence. However, clinical clerkship exposure was often opportunistic and lacked structured integration. Students reported confidence in image acquisition but limited exposure to pathology and clinical application. Faculty similarly recognized strong technical skills but identified weaknesses in interpretation, diagnostic reasoning, and clinical integration. Both groups supported a longitudinal, spiral curriculum with structured exposure to abnormal findings.\n\nConclusion: This study identifies a clear gap between technical ultrasound skills and their application in clinical practice. Bridging this gap requires moving from isolated preclinical teaching toward a longitudinal, clinically integrated curriculum that supports interpretation and clinical reasoning. These findings may inform ultrasound curriculum development in the MENA region and similar settings.",
+  "mesh": [],
+  "palabrasClave": [
+    "Qatar",
+    "curriculum development",
+    "qualitative research",
+    "ultrasound",
+    "undergraduate medical education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S39",
+  "descubiertoEl": "2026-09-21",
+  "publicadoEl": "2026-09-21",
+  "tips": [
+    {
+      "titulo": "Exponer patología temprano",
+      "texto": "Incluyan casos con hallazgos anormales desde etapas preclínicas. La técnica sin contexto clínico no construye razonamiento diagnóstico."
+    },
+    {
+      "titulo": "Integración longitudinal espiral",
+      "texto": "Diseñen un curriculum que retome ecografía en cada rotación clínica, no solo al inicio. La exposición oportunista fragmenta el aprendizaje."
+    },
+    {
+      "titulo": "Vincular imagen con decisión",
+      "texto": "En la ronda, no se limiten a mostrar técnica: pidan que interpreten el hallazgo y propongan el siguiente paso diagnóstico o terapéutico."
+    },
+    {
+      "titulo": "Evaluar más que adquisición",
+      "texto": "Valorar solo si obtienen una imagen adecuada perpetúa la brecha. Evalúen interpretación y razonamiento clínico aplicado al caso."
+    },
+    {
+      "titulo": "Alinear expectativas docente-estudiante",
+      "texto": "Ambos grupos reconocen el problema. Discutan explícitamente objetivos de aprendizaje centrados en aplicación clínica, no solo en técnica."
+    }
+  ],
+  "sintesis": "Estudio cualitativo en Qatar revela que estudiantes de medicina dominan la adquisición de imágenes ecográficas pero carecen de exposición estructurada a hallazgos patológicos y aplicación clínica. Tanto estudiantes como docentes identifican debilidad en interpretación y razonamiento diagnóstico con ecografía.",
+  "aplicacionDocente": "Revisen si su curriculum de ecografía enfatiza técnica sin patología. Introduzcan hallazgos anormales desde preclínico y diseñen oportunidades estructuradas en clerkships donde estudiantes interpreten imágenes y justifiquen decisiones. Evalúen razonamiento, no solo habilidad técnica, para cerrar la brecha identificada.",
+  "infografia": "/img/infografias/2026-09-21-exploring-student-and-faculty-insights-on-ultrasound-education-for-final-year-me.png",
+  "disenoEstudio": "Estudio cualitativo: grupos focales con 21 estudiantes de último año y entrevistas con 15 docentes",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Saber tomar la imagen no es saber usarla: la brecha en enseñanza de ecografía",
+  "etiquetas": [
+    "ecografía",
+    "razonamiento clínico",
+    "curriculum longitudinal",
+    "integración clínica",
+    "evaluación de competencias"
+  ],
+  "advertencia": "Estudio en una sola institución de Qatar; las percepciones pueden no reflejar contextos con diferentes recursos o estructuras curriculares.",
+  "generadoPor": "claude-sonnet-4-5"
+}
