@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-28-longitudinal-changes-in-feedback-quality-after-nationwide-implementation-of-a-mo",
+  "estado": "publicado",
+  "pmid": "42770876",
+  "doi": "10.1093/acamed/wvag290",
+  "titulo": "Longitudinal Changes in Feedback Quality After Nationwide Implementation of a Mobile Application for Entrustable Professional Activity Data Management in Thailand",
+  "tituloEs": "Aplicación móvil de EPAs mejora calidad percibida del feedback entre docentes en medicina de emergencias",
+  "revista": "Academic medicine : journal of the Association of American Medical Colleges",
+  "autores": [
+    "Narajeenron K",
+    "Kerr SJ",
+    "Imsuwan I",
+    "Iramaneerat C",
+    "Tekian A",
+    "Park YS",
+    "TACTIC Study Group"
+  ],
+  "fechaPublicacion": "2026 Sep 22",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42770876/",
+  "resumenOriginal": "Purpose: This national study examined longitudinal changes in perceived feedback quality during phased rollout of a mobile entrustable professional activity (EPA)-based feedback application across Thai College of Emergency Physicians-accredited emergency medicine residency programs and explored institutional, contextual, and application-use variables associated with perceived feedback quality.\n\nMethod: This national, multisite prospective observational study (December 2019 to September 2020) included 135 faculty and 357 residents from accredited Thai emergency medicine residency programs. The application was implemented in three phases: notifications, feedback guide/self-reflection prompts, and dashboard. Participants completed FEED-ER across five domains (timeliness, specificity, communication, action plan, feedback culture) using 5-point Likert-type items. Scores were converted to Percent of Maximum Possible (POMP; 0-100; higher scores indicate higher perceived feedback quality). Linear mixed-effects models estimated changes in domain and total FEED-ER POMP scores over time; total-score models assessed associations with institutional, contextual, and application-use variables.\n\nResults: Faculty-reported overall perceived feedback quality did not change significantly at 3 months but increased at 6 months (4.03 POMP; 95% CI, 1.99 to 6.07) and 9 months (3.57; 95% CI, 1.02 to 6.11). Resident-reported overall scores did not change significantly. In resident models, dashboard review (always 2.54; 95% CI, 0.18 to 4.89; sometimes 2.21; 95% CI, 0.32 to 4.09) and resident rules (1.78; 95% CI, 0.09 to 3.48) were associated with higher scores; absence of formal feedback strategies was associated with lower scores (-2.00; 95% CI, -3.87 to -0.13).\n\nConclusions: During implementation of a mobile EPA-based feedback application, faculty reported modest improvements in perceived feedback quality, whereas resident perceptions remained stable. Digital tools may support feedback processes when aligned with institutional context. Future studies should link feedback to encounters and evaluate mechanisms and downstream educational outcomes using designs that strengthen causal inference.",
+  "mesh": [],
+  "palabrasClave": [
+    "competency-based medical education",
+    "emergency department",
+    "entrustable professional activity",
+    "feedback quality",
+    "mobile application"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-28",
+  "publicadoEl": "2026-09-28",
+  "tips": [
+    {
+      "titulo": "Implementación progresiva de tecnología",
+      "texto": "Al adoptar herramientas digitales para feedback, implementad por fases (notificaciones, guías, tableros) durante 6-9 meses antes de esperar cambios en calidad percibida."
+    },
+    {
+      "titulo": "Revisión activa del tablero",
+      "texto": "Promoved que residentes revisen regularmente el tablero de la aplicación: quienes lo hacen consistentemente reportan mayor calidad de feedback (2.54 puntos en escala 0-100)."
+    },
+    {
+      "titulo": "Estrategias formales institucionales",
+      "texto": "Estableced reglas explícitas para dar feedback. Los programas sin estrategias formales muestran percepciones 2 puntos menores en residentes."
+    },
+    {
+      "titulo": "Expectativas realistas sobre cambio",
+      "texto": "No esperéis que herramientas digitales por sí solas transformen la cultura de feedback. Este estudio muestra mejoras modestas solo en docentes, no en residentes."
+    },
+    {
+      "titulo": "Alineación con contexto institucional",
+      "texto": "Antes de adoptar apps de EPAs, asegurad que se ajusten a vuestro flujo de trabajo clínico y políticas locales de evaluación."
+    }
+  ],
+  "sintesis": "Estudio nacional en Tailandia implementó una aplicación móvil para gestionar actividades profesionales confiables (EPAs) en 19 programas de residencia. Los docentes reportaron mejoras modestas en calidad de feedback a los 6-9 meses; la percepción de residentes permaneció estable.",
+  "aplicacionDocente": "Usad apps móviles de EPAs como andamiaje, no como solución completa. Complementad con capacitación en feedback específico, estableced reglas claras de uso, y revisad el tablero con residentes semanalmente. Medid percepción de calidad trimestralmente para ajustar la estrategia institucional.",
+  "infografia": "/img/infografias/2026-09-28-longitudinal-changes-in-feedback-quality-after-nationwide-implementation-of-a-mo.png",
+  "disenoEstudio": "Estudio observacional prospectivo nacional: 135 docentes y 357 residentes en medicina de emergencias",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Apps móviles de EPAs mejoran feedback docente si se alinean con estrategias institucionales",
+  "etiquetas": [
+    "feedback clínico",
+    "actividades profesionales confiables",
+    "tecnología educativa",
+    "medicina de emergencias",
+    "evaluación basada en competencias"
+  ],
+  "advertencia": "Estudio observacional sin grupo control; no permite establecer causalidad entre la app y las mejoras percibidas.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2026-09-28-academic-educators-leadership-styles-and-their-associations-with-student-engagem",
+  "estado": "publicado",
+  "pmid": "42778912",
+  "doi": "10.1186/s12909-026-10239-1",
+  "titulo": "Academic educators' leadership styles and their associations with student engagement and critical thinking disposition among Saudi health sciences students: a mixed-methods study",
+  "tituloEs": "Liderazgo democratico docente se asocia a mayor compromiso estudiantil y pensamiento critico",
+  "revista": "BMC medical education",
+  "autores": [
+    "Abou Hashish EA",
+    "Felemban RA",
+    "Allehaiby WH"
+  ],
+  "fechaPublicacion": "2026 Sep 22",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42778912/",
+  "resumenOriginal": "Background: Educator leadership behaviors are widely recognized as an important component of the classroom environment and may be associated with student engagement and critical thinking disposition. In health sciences education, these competencies are fundamental to clinical reasoning and evidence-based decision-making. However, empirical evidence examining the associations among educator leadership styles, student engagement, and critical thinking disposition remains limited.\n\nMethods: This explanatory sequential mixed-methods study was conducted at a Saudi health sciences university. Quantitative data were collected from a stratified random sample of 351 undergraduate students across four health sciences colleges using the Leadership Style Questionnaire, the Critical Thinking Disposition Scale, and the University Student Engagement Inventory. Data were analyzed using descriptive statistics, Pearson's correlations, multiple linear regression, and bootstrapped cross-sectional indirect-effect analysis. Qualitative data were subsequently collected from 58 unique participants through 40 semi-structured interviews and four focus group discussions (28 participants, including 10 who also participated in interviews) and analyzed using inductive reflexive thematic analysis.\n\nResults: Students reported mean student engagement and critical thinking disposition scores above the scale midpoint. Democratic leadership demonstrated the strongest positive bivariate associations with student engagement (r = .363, p < .001) and critical thinking disposition (r = .402, p < .001), whereas laissez-faire leadership demonstrated comparatively weaker associations. In adjusted regression analyses, democratic leadership remained independently associated with student engagement (&#x3b2;&#x2009;=&#x2009;0.39, p < .001) and critical thinking disposition (&#x3b2;&#x2009;=&#x2009;0.15, p = .007), whereas laissez-faire leadership showed no statistically significant independent association with either outcome after adjustment for the remaining leadership styles. Bootstrapped indirect-effect analysis indicated that student engagement statistically accounted for part of the association between democratic leadership and critical thinking disposition. Qualitative findings converged with and expanded the quantitative results, with students describing participatory teaching behaviors, open dialogue, constructive questioning, collaborative learning, and clear instructional guidance as supporting engagement and reflective thinking.\n\nConclusions: Democratic educator leadership demonstrated the strongest positive associations with student engagement and critical thinking disposition. These findings suggest that participatory teaching approaches may represent valuable components of faculty development and educational practice. Longitudinal and multi-institutional studies are warranted to further examine the temporal relationships among educator leadership, student engagement, and critical thinking disposition.",
+  "mesh": [
+    "Leadership",
+    "Humans",
+    "Saudi Arabia",
+    "Thinking",
+    "Male",
+    "Female",
+    "Cross-Sectional Studies",
+    "Academia",
+    "Focus Groups",
+    "Young Adult",
+    "Surveys and Questionnaires",
+    "Adult"
+  ],
+  "palabrasClave": [
+    "Critical thinking disposition",
+    "Educator leadership",
+    "Health professions education",
+    "Mixed methods",
+    "Student engagement"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-28",
+  "publicadoEl": "2026-09-28",
+  "tips": [
+    {
+      "titulo": "Promover dialogo horizontal",
+      "texto": "Incentiven preguntas abiertas durante rondas clinicas. El cuestionamiento constructivo y el dialogo bidireccional fomentan pensamiento critico mas que la transmision unidireccional de conocimiento."
+    },
+    {
+      "titulo": "Incorporar decisiones colaborativas",
+      "texto": "Inviten a estudiantes a participar en decisiones didacticas sencillas: orden de temas, casos a revisar. Pequenas decisiones compartidas incrementan compromiso con el aprendizaje."
+    },
+    {
+      "titulo": "Evitar ausencia de estructura",
+      "texto": "El liderazgo laissez-faire (minima guia) no se asocio a mejores resultados. Mantengan orientacion clara: objetivos explicitos, retroalimentacion oportuna, expectativas definidas."
+    },
+    {
+      "titulo": "Facilitar aprendizaje entre pares",
+      "texto": "Disenen actividades donde estudiantes discutan casos en pequenos grupos antes de presentar. La colaboracion estructurada refuerza engagement y razonamiento compartido."
+    },
+    {
+      "titulo": "Modelar apertura intelectual",
+      "texto": "Reconozcan incertidumbre clinica en voz alta, inviten critica respetuosa a sus propias decisiones. Modelar pensamiento critico es tan formativo como ensenarlo."
+    }
+  ],
+  "sintesis": "Estudio transversal con 351 estudiantes de ciencias de la salud sauditas encontro que el liderazgo democratico docente se asocio positivamente con compromiso estudiantil (r=.363) y disposicion al pensamiento critico (r=.402). El liderazgo laissez-faire mostro asociaciones mas debiles. Datos cualitativos confirmaron que dialogo abierto y ensenanza participativa favorecen reflexion.",
+  "aplicacionDocente": "Adopten un estilo participativo: formulen preguntas que requieran justificacion, inviten a estudiantes a proponer diagnosticos diferenciales antes de revelar el suyo, y establezcan espacios de dialogo donde la jerarquia no inhiba la reflexion. Estructura clara mas participacion activa parecen maximizar compromiso y pensamiento critico.",
+  "infografia": "/img/infografias/2026-09-28-academic-educators-leadership-styles-and-their-associations-with-student-engagem.png",
+  "disenoEstudio": "Estudio de metodos mixtos explicativo secuencial en 351 estudiantes de pregrado en ciencias de la salud",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Docentes democraticos: mas dialogo, mas compromiso, mas pensamiento critico estudiantil",
+  "etiquetas": [
+    "liderazgo docente",
+    "pensamiento critico",
+    "compromiso estudiantil",
+    "ensenanza participativa",
+    "ciencias de la salud"
+  ],
+  "advertencia": "Diseno transversal impide establecer causalidad; la asociacion podria reflejar que estudiantes mas comprometidos perciben el liderazgo de forma mas favorable.",
+  "generadoPor": "claude-sonnet-4-5"
+}

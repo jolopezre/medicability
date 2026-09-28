@@ -1,0 +1,81 @@
+{
+  "id": "2026-09-28-seeing-the-patient-professional-vision-in-clinical-ward-rounds-and-beyond",
+  "estado": "publicado",
+  "pmid": "42800831",
+  "doi": "10.1007/s10459-026-10584-2",
+  "titulo": "Seeing the patient: professional vision in clinical ward rounds (and beyond)",
+  "tituloEs": "Vision profesional en rondas clinicas: como los medicos integran mirada, cuerpo y razonamiento",
+  "revista": "Advances in health sciences education : theory and practice",
+  "autores": [
+    "Gartmeier M",
+    "McIntyre N",
+    "Fritsche J",
+    "Kahraman G",
+    "Kosel C",
+    "Schindler AK",
+    "Schmidmaier R",
+    "Vogt K",
+    "Berberat PO",
+    "Seidel T"
+  ],
+  "fechaPublicacion": "2026 Sep 26",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42800831/",
+  "resumenOriginal": "Clinical ward rounds are complex, high&#x2011;stakes encounters in which physicians must integrate clinical reasoning, team coordination, and patient&#x2011;centred communication. While ward rounds are routinely described as occasions on which physicians \"see\" their patients, ironically, the visual dimension of ward round communication has rarely been examined conceptually. In this paper, we argue that communication during ward rounds and other complex clinical encounters crucially relies on physicians' professional vision: learned, task-specific ways of noticing, interpreting, and using visual information in socially and institutionally structured contexts. Drawing on research from medical education, cognitive psychology, and interaction research, we conceptualize professional vision enacted during ward rounds as encompassing two interrelated aspects: a cognitive aspect (noticing and knowledge&#x2011;based reasoning) and an embodied and interactional aspect (the coordination of gaze, body, and talk). We show how these aspects unfold across different phases of ward rounds and enable physicians to align information retrieval, decision&#x2011;making, teamwork, and patient engagement. By explicating professional vision as a central yet previously under-theorized resource in clinical practice, exemplified here through ward-round communication, this paper offers a conceptual foundation for future empirical research and suggests new directions for simulation&#x2011;based and professional vision&#x2011;focused instructional approaches in medical education.",
+  "mesh": [],
+  "palabrasClave": [
+    "Clinical reasoning",
+    "Clinical ward rounds",
+    "Professional vision",
+    "Visual perception",
+    "Ward round communication"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 30,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-28",
+  "publicadoEl": "2026-09-28",
+  "tips": [
+    {
+      "titulo": "Observe como observan sus residentes",
+      "texto": "En la ronda, preste atencion a donde miran los residentes (monitor, paciente, historia clinica). Pregunte que vieron y por que lo notaron. Esta metacognicion refuerza la vision profesional."
+    },
+    {
+      "titulo": "Haga visible su razonamiento visual",
+      "texto": "Verbalice en voz alta lo que nota al examinar: 'Veo palidez conjuntival, busco anemia'. Demuestre como la mirada guia el razonamiento clinico y viceversa."
+    },
+    {
+      "titulo": "Coordine mirada, gesto y habla deliberadamente",
+      "texto": "Al presentar un caso, senale la radiografia mientras explica. Modele como integrar recursos visuales, corporales y verbales para comunicar informacion clinica compleja al equipo."
+    },
+    {
+      "titulo": "Simule rondas con foco en comunicacion visual",
+      "texto": "Disene simulaciones que requieran coordinar multiples fuentes visuales (paciente, imagenes, datos). Retroalimente como los residentes integran mirada y comunicacion bajo presion."
+    },
+    {
+      "titulo": "Discuta la dimension social de ver",
+      "texto": "Reflexione con el equipo: ¿como decidimos que mirar primero en la ronda? ¿Que queda fuera de nuestra atencion? La vision profesional es socialmente construida y puede refinarse."
+    }
+  ],
+  "sintesis": "Este articulo conceptual propone que la comunicacion en rondas clinicas depende de la 'vision profesional': formas aprendidas de notar, interpretar y usar informacion visual. Integra aspectos cognitivos (razonamiento) y corporales (mirada, gestos, habla) que permiten alinear recuperacion de informacion, toma de decisiones y trabajo en equipo.",
+  "aplicacionDocente": "Incorpore observacion deliberada de la mirada y el cuerpo en sus rondas docentes. Verbalice su propio proceso visual, pida a residentes que describan que notaron y por que, y retroalimente como integran informacion visual con razonamiento. Use simulaciones que desafien la coordinacion de multiples fuentes visuales.",
+  "infografia": "/img/infografias/2026-09-28-seeing-the-patient-professional-vision-in-clinical-ward-rounds-and-beyond.png",
+  "disenoEstudio": "Articulo de revision conceptual basado en educacion medica, psicologia cognitiva e investigacion de interaccion",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "La vision profesional en rondas: aprender a mirar no es solo ver, es razonar con el cuerpo",
+  "etiquetas": [
+    "vision profesional",
+    "rondas clinicas",
+    "razonamiento clinico",
+    "comunicacion medica",
+    "aprendizaje experiencial"
+  ],
+  "advertencia": "Articulo conceptual sin datos empiricos propios; requiere validacion mediante estudios observacionales o intervencionales futuros.",
+  "generadoPor": "claude-sonnet-4-5"
+}

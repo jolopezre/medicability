@@ -1,0 +1,76 @@
+{
+  "id": "2026-09-28-matric-or-mirror-exploring-cognitive-and-institutional-drivers-of-student-course",
+  "estado": "publicado",
+  "pmid": "42801127",
+  "doi": "10.2147/AMEP.S630865",
+  "titulo": "Matric or Mirror? Exploring Cognitive and Institutional Drivers of Student Course Evaluations: A Mixed-Methods Study in Medical Education",
+  "tituloEs": "Evaluaciones de cursos: por qué los estudiantes senior participan menos y cómo revertirlo",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Agha S",
+    "Alumer B",
+    "Salem SS",
+    "Shah SWH",
+    "Siddiqui NU"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42801127/",
+  "resumenOriginal": "Background: Student evaluation of Courses (SECs) is widely used for educational quality assurance in medical education, yet their purpose to serve as a formative tool for development or a summative reflection of opinion is a subject of ongoing debate. This study examined how medical students and faculty perceive, navigate, and use teaching evaluation data, systematically identifying the procedural constraints and cognitive barriers that drive student evaluation decline across training years.\n\nMaterials and methods: This mixed-methods triangulation study integrated quantitative student survey data (N = 263; 70% response rate; 22% female, 77% male) across all four medical training years (years 1-4) with qualitative semi-structured faculty interviews (N=6) to cross-validate and enrich understanding of the cognitive and institutional drivers shaping the evaluation ecosystem. The validated 26-item questionnaire evaluated four primary domains: Teaching Quality, Administration, Process Awareness, and Tool Validity. Quantitative data were analyzed using Chi-square tests and ANOVA. Qualitative faculty interviews were analyzed thematically. Triangulation occurred through joint display matrices comparing student perceptions and faculty perspectives on evaluation purpose, process, and outcomes.\n\nResults: While 71.0% (n=187) of students viewed course evaluation as a tool for instructional improvement, a significant majority (82.5-87.4%) identified procedural transparency, confidentiality, and closed feedback loops as essential prerequisites for meaningful engagement. Results revealed a statistically significant cross-cohort decline in evaluation awareness and engagement across cohort years (p = 0.002), with first-year students reporting the highest process engagement scores (Mean = 67.3, SD = 8.0) compared to year 4 students (Mean = 62.9, SD = 7.4). Triangulated thematic analysis revealed that the decline in process domain in senior student participation stems from unaddressed feedback expectations and faculty ambiguity regarding administrative data use.\n\nConclusion: Unaddressed student feedback and unclear administrative outcomes drive a significant cross-cohort decline in evaluation engagement. To address this potential erosion in perceived utility, medical institutions must establish an explicit, closed-loop reporting system that visibly demonstrates constructive, longitudinal curriculum changes derived from student feedback. Making post-evaluation actions visible, institutions may rebuild students' trust in the process.",
+  "mesh": [],
+  "palabrasClave": [
+    "educational measurement",
+    "formative feedback",
+    "medical school faculty",
+    "quality assurance",
+    "student engagement",
+    "undergraduate medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-28",
+  "publicadoEl": "2026-09-28",
+  "tips": [
+    {
+      "titulo": "Cerrar el ciclo de retroalimentación",
+      "texto": "Implementar un sistema público de reporte que muestre qué cambios curriculares se hicieron a partir de evaluaciones estudiantiles. Sin esta visibilidad, la participación cae año tras año."
+    },
+    {
+      "titulo": "Preservar confianza institucional",
+      "texto": "Garantizar confidencialidad y transparencia en el proceso evaluativo: el 82-87% de estudiantes las considera requisito indispensable para participar de manera significativa."
+    },
+    {
+      "titulo": "Monitorear participación longitudinal",
+      "texto": "Evaluar la tasa de respuesta por cohorte anualmente. La caída entre primer y cuarto año es indicador de erosión en la confianza del sistema evaluativo."
+    },
+    {
+      "titulo": "Definir propósito con docentes",
+      "texto": "Clarificar con el cuerpo docente si las evaluaciones son formativas (para mejorar) o sumativas (para opinar). La ambigüedad institucional debilita el compromiso estudiantil."
+    },
+    {
+      "titulo": "Comunicar acciones concretas",
+      "texto": "Al inicio de cada curso, compartir explícitamente qué cambios se implementaron por evaluaciones previas. Hacer visible el impacto estudiantil sostiene la participación futura."
+    }
+  ],
+  "sintesis": "Estudio mixto con 263 estudiantes de medicina y 6 docentes mostró que 71% ve las evaluaciones como herramienta de mejora, pero la participación declina significativamente entre primer y cuarto año (p=0.002). El 82-87% exige transparencia, confidencialidad y evidencia de cambios para participar genuinamente.",
+  "aplicacionDocente": "Si coordinan un curso, establezcan reuniones semestrales donde presenten a los estudiantes dos o tres cambios curriculares derivados de evaluaciones anteriores. Documenten estas acciones en cartelera o correo institucional. Esta visibilidad reconstruye confianza y sostiene participación, especialmente en años avanzados donde el escepticismo aumenta.",
+  "infografia": "/img/infografias/2026-09-28-matric-or-mirror-exploring-cognitive-and-institutional-drivers-of-student-course.png",
+  "disenoEstudio": "Estudio de métodos mixtos con encuesta transversal (263 estudiantes) y entrevistas semiestructuradas (6 docentes)",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Sin evidencia de cambios, la participación en evaluaciones cae 4.4 puntos entre 1º y 4º año",
+  "etiquetas": [
+    "evaluación curricular",
+    "retroalimentación estudiantil",
+    "calidad educativa",
+    "educación médica",
+    "compromiso estudiantil"
+  ],
+  "advertencia": "Muestra de una sola institución con baja representación femenina (22%), lo que limita generalización a contextos diversos",
+  "generadoPor": "claude-sonnet-4-5"
+}

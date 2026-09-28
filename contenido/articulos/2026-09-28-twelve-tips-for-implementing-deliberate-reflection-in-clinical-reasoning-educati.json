@@ -1,0 +1,72 @@
+{
+  "id": "2026-09-28-twelve-tips-for-implementing-deliberate-reflection-in-clinical-reasoning-educati",
+  "estado": "publicado",
+  "pmid": "42770978",
+  "doi": "10.1080/0142159X.2026.2733150",
+  "titulo": "Twelve tips for implementing deliberate reflection in clinical reasoning education",
+  "tituloEs": "Doce recomendaciones para implementar la reflexión deliberada en razonamiento clínico",
+  "revista": "Medical teacher",
+  "autores": [
+    "Specian Junior FC",
+    "Schmidt HG",
+    "Cecilio-Fernandes D"
+  ],
+  "fechaPublicacion": "2026 Sep 22",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42770978/",
+  "resumenOriginal": "Diagnostic reasoning is fundamental to safe clinical practice, yet it is often taught through unstructured case discussions that provide limited support for the development of diagnostic expertise. Deliberate reflection is a structured educational strategy supported by more than 15&#x2009;years of experimental research demonstrating its effectiveness in improving diagnostic reasoning by promoting the refinement of illness scripts, reducing cognitive biases, and supporting learning. However, despite this growing body of evidence, educators still lack concise, evidence informed guidance on how to implement deliberate reflection across different educational contexts. Drawing on the accumulated experimental evidence and recent advances in clinical reasoning education, this article provides twelve practical tips to support the implementation of deliberate reflection. Organised around key implementation decisions, including selecting appropriate learners, choosing reflection formats, matching case complexity to learner expertise, calibrating instructional guidance, promoting transfer, integrating deliberate reflection throughout the curriculum, and preserving its core cognitive principles, these recommendations translate current evidence into a practical guidance.",
+  "mesh": [],
+  "palabrasClave": [
+    "Deliberate reflection",
+    "clinical reasoning",
+    "medical education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Error diagnóstico y metacognición",
+    "Docencia médica"
+  ],
+  "puntaje": 33.5,
+  "semana": "2026-S40",
+  "descubiertoEl": "2026-09-28",
+  "publicadoEl": "2026-09-28",
+  "tips": [
+    {
+      "titulo": "Seleccionen estudiantes apropiados",
+      "texto": "La reflexión deliberada requiere cierta base de conocimiento. Aplíquenla con estudiantes avanzados o residentes que ya posean guiones de enfermedad iniciales sobre los cuales reflexionar y refinar."
+    },
+    {
+      "titulo": "Ajusten complejidad al nivel",
+      "texto": "Calibren la dificultad de los casos clínicos según la experiencia del aprendiz. Casos muy simples o muy complejos limitan la reflexión productiva sobre el razonamiento."
+    },
+    {
+      "titulo": "Estructuren el formato de reflexión",
+      "texto": "Eviten discusiones libres de casos. Usen formatos estructurados que guíen explícitamente la reflexión sobre hipótesis, sesgos cognitivos y refinamiento de guiones de enfermedad."
+    },
+    {
+      "titulo": "Dosifiquen la guía instruccional",
+      "texto": "Balanceen andamiaje y autonomía: proporcionen suficiente estructura para guiar la reflexión sin eliminar el esfuerzo cognitivo necesario para el aprendizaje profundo."
+    },
+    {
+      "titulo": "Integren longitudinalmente",
+      "texto": "Incorporen la reflexión deliberada a lo largo del currículo, no como actividad aislada. Promuevan la transferencia sistemática de principios reflexivos a la práctica clínica cotidiana."
+    }
+  ],
+  "sintesis": "Este artículo sintetiza más de 15 años de investigación experimental sobre reflexión deliberada (deliberate reflection), una estrategia educativa estructurada que mejora el razonamiento diagnóstico al refinar guiones de enfermedad (illness scripts) y reducir sesgos cognitivos. Ofrece doce recomendaciones prácticas para implementar esta técnica en diferentes contextos educativos clínicos.",
+  "aplicacionDocente": "Reemplacen al menos una discusión tradicional de casos por semana con una sesión estructurada donde los residentes analicen explícitamente sus hipótesis diagnósticas iniciales, identifiquen sesgos potenciales y reformulen sus guiones de enfermedad con base en el desenlace del caso.",
+  "infografia": "/img/infografias/2026-09-28-twelve-tips-for-implementing-deliberate-reflection-in-clinical-reasoning-educati.png",
+  "disenoEstudio": "Guía práctica basada en síntesis de evidencia experimental acumulada en 15 años",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "La reflexión estructurada sobre casos reduce errores diagnósticos más que discutirlos",
+  "etiquetas": [
+    "razonamiento clínico",
+    "reflexión deliberada",
+    "guiones de enfermedad",
+    "sesgos cognitivos",
+    "educación médica"
+  ],
+  "advertencia": "El artículo es una guía de implementación basada en síntesis narrativa, no un estudio empírico original que evalúe la efectividad de estas doce recomendaciones específicas.",
+  "generadoPor": "claude-sonnet-4-5"
+}
