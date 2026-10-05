@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-05-artificial-intelligence-in-medical-education-a-cross-sectional-study-of-usage-pa",
+  "estado": "pendiente",
+  "pmid": "42819437",
+  "doi": "10.2147/AMEP.S649442",
+  "titulo": "Artificial Intelligence in Medical Education: A Cross-Sectional Study of Usage Patterns and Perceptions Among Medical Students at a Brazilian Public University",
+  "tituloEs": null,
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Ferreira de Lacerda AV",
+    "De Azevedo Ferreira S",
+    "Garcia Rosa AC"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42819437/",
+  "resumenOriginal": "Purpose: To describe self-reported artificial intelligence (AI) use and perceptions of benefits, risks, and curricular integration among medical students with previous AI contact at a Brazilian public university.\n\nMethods: This descriptive cross-sectional survey included a convenience sample of 189 students aged 18 years or older in Years 1-4 of medical school who reported previous contact with AI tools applied to medical education. Data were collected from March to July 2026 using a researcher-developed electronic questionnaire without formal validation and summarized descriptively using available responses.\n\nResults: Daily or weekly academic AI use was reported by 76.2% (144/189). Exposure to AI as a learning resource in a course was reported by 38.3% (72/188). Perceived improvement in differential diagnosis was reported by 57.8% (108/187), whereas 60.3% (114/189) perceived a risk of harmful dependence affecting human clinical judgment. Optional and controlled curricular integration was preferred by 72.0% (136/189).\n\nConclusion: Among respondents with previous AI contact, frequent use coexisted with perceived benefits and concerns about dependence. These findings can support local discussion and further educational evaluation but do not establish objective learning effects or determine appropriate curricular approaches.",
+  "mesh": [],
+  "palabrasClave": [
+    "clinical reasoning",
+    "curriculum development",
+    "digital literacy",
+    "learner attitudes",
+    "technology-enhanced learning"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

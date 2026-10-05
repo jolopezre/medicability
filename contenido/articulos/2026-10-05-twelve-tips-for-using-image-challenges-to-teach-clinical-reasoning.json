@@ -1,0 +1,39 @@
+{
+  "id": "2026-10-05-twelve-tips-for-using-image-challenges-to-teach-clinical-reasoning",
+  "estado": "pendiente",
+  "pmid": "42811732",
+  "doi": "10.1080/0142159X.2026.2738757",
+  "titulo": "Twelve tips for using image challenges to teach clinical reasoning",
+  "tituloEs": null,
+  "revista": "Medical teacher",
+  "autores": [
+    "Flugelman MY",
+    "Fischer MR"
+  ],
+  "fechaPublicacion": "2026 Sep 29",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42811732/",
+  "resumenOriginal": "Clinical reasoning is fundamental to safe practice, yet teaching it effectively remains one of the persistent challenges of health-professions education. Image-based challenges-visual material paired with a short clinical vignette-offer an efficient, authentic, and low-cost way to make reasoning visible and to give learners repeated, guided practice. This article offers twelve practical tips for educators who wish to teach clinical reasoning through image challenges. The first tips start from learning objectives, ground the method in reasoning theory and the evidence on observation-based learning, and address the curation of authentic images and the organisation of small-group sessions. Four complementary formats follow, each described as a reproducible step-by-step activity: a multiple-choice challenge; assessment of general condition with dual-process thinking; comparative reasoning with progressive disclosure that exposes cognitive bias; and images that link diagnosis to management and social determinants of health. The final tips address active facilitation, structured point-of-care evidence searching, explicit naming of reasoning strategies, peer and vicarious learning, and structured reflection and evaluation. Each tip is evidence-informed and includes implementation steps and strategies for common barriers. In our own program, interns reported that image challenges were engaging and beneficial for reasoning, particularly when solved in groups. Incorporating these methods can strengthen clinical reasoning across diverse settings and better prepare learners for the complexity of clinical practice.",
+  "mesh": [],
+  "palabrasClave": [
+    "Image challenge",
+    "active learning",
+    "clinical reasoning",
+    "medical education",
+    "small-group discussion"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Error diagnóstico y metacognición"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

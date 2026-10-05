@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-05-learning-across-specialty-lines-a-systematic-review-informing-curriculum-design-",
+  "estado": "pendiente",
+  "pmid": "42816129",
+  "doi": "10.1080/0142159X.2026.2735287",
+  "titulo": "Learning across specialty lines: A systematic review informing curriculum design for intraprofessional education",
+  "tituloEs": null,
+  "revista": "Medical teacher",
+  "autores": [
+    "Moy L",
+    "Servante J",
+    "Ali A",
+    "Griffin M"
+  ],
+  "fechaPublicacion": "2026 Sep 30",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42816129/",
+  "resumenOriginal": "Introduction: Effective patient care relies on collaboration across medical and surgical specialties, yet medical education trains doctors within specialty specific silos. Intraprofessional education (IntraPE), defined as structured learning bringing together doctors from different specialties or enabling medical students to learn across two or more specialty perspectives, may support coordinated care. Understanding how educational interventions support collaboration within medicine is essential for patient centred care in complex healthcare systems. This review synthesised structured IntraPE interventions and proposed evidence informed intended learning outcomes (ILOs).\n\nMethods: This systematic review was registered with PROSPERO (CRD420251143089) and followed PRISMA 2020. Five databases were searched for studies from 2014 to 2025. Eligible studies involved undergraduate medical students, postgraduate trainees or fully qualified specialists and reported quantitative, qualitative or mixed methods outcomes. Methodological quality was assessed using Critical Appraisal Skills Programme checklists. Findings were synthesised narratively.\n\nResults: Twenty-one studies across 33 specialties and 12 countries were included, comprising 9,628 participants among studies reporting sample sizes. Five approaches were identified: case-based learning, simulation based learning, clinical placement or work based models, consultation and advice models, and longitudinal integrated clerkships. Eight outcome domains emerged: clinical knowledge, collaboration, communication, attitudes towards other specialties, professional development, teamwork, patient care delivery and engagement with collaborative practice. Positive outcomes were reported across all approaches. However, heterogeneity in study design, intervention format and outcome assessment prevented comparison of relative effectiveness or analysis by learner stage. Few studies included long term follow up or examined how learning occurred.\n\nDiscussion: Structured IntraPE may support learning across specialty boundaries, although heterogeneity limits conclusions about comparative effectiveness. The proposed ILOs provide a starting point for curriculum design and evaluation. Stakeholder refinement and longitudinal evaluation are needed to assess their relevance across learner stages and whether educational outcomes translate into collaborative practice and improved patient care.",
+  "mesh": [],
+  "palabrasClave": [
+    "Intraprofessional education",
+    "collaboration",
+    "interdisciplinary education",
+    "medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

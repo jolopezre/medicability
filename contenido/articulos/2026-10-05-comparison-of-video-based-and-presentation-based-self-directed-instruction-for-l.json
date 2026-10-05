@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-05-comparison-of-video-based-and-presentation-based-self-directed-instruction-for-l",
+  "estado": "pendiente",
+  "pmid": "42829433",
+  "doi": "10.1186/s12909-026-10418-0",
+  "titulo": "Comparison of video-based and presentation-based self-directed instruction for learning basic neuroangiography",
+  "tituloEs": null,
+  "revista": "BMC medical education",
+  "autores": [
+    "Stolze F",
+    "Lehm M",
+    "Behme D",
+    "Fuchs E",
+    "Schwab R"
+  ],
+  "fechaPublicacion": "2026 Oct 3",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Comparative Study",
+    "Randomized Controlled Trial"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42829433/",
+  "resumenOriginal": "Background: Digital tools and simulation-based learning are playing an increasingly important role in medical education. Earlier studies have shown that video and virtual reality can be just as effective for teaching clinical skills as presentation-based teaching methods. This exploratory study compared two standardized self-directed instructional formats, video-based and presentation-based instruction, for teaching basic neuroangiographic skills. In addition to comparing objective and subjective learning outcomes between instructional formats, the study explored whether prior angiography experience influenced performance and moderated the effect of the teaching method.\n\nMethods: Twenty participants with different levels of prior angiography experience were randomly assigned to either a video-based group (VG; n&#x2009;=&#x2009;9) or a presentation-based group (PG; n&#x2009;=&#x2009;11). The VG watched expert-narrated recordings of a physician performing neuroangiography on a silicone flow model. The PG independently worked through static simplified slides derived from the same instructional material, including schematic illustrations and brief written annotations. Afterwards, all participants performed neuroangiography on the silicone flow model using three different catheter types (Vertebralis, Simmons 2, Headhunter). Overall performance was assessed using objective criteria (e.g., total and fluoroscopy time) and self-reported data based on learning and confidence.\n\nResults: For the Vertebralis catheter, those in the presentation group used significantly less fluoroscopy time, with the PG using 237.00&#xa0;s on average, while the VG needed 369.00&#xa0;s (p&#x2009;=&#x2009;0.031). Nevertheless, participants rated the video method as significantly more helpful overall (p&#x2009;=&#x2009;0.022). Moreover, for inexperienced participants video-based training led to more successful catheterization of the left vertebral artery (p&#x2009;=&#x2009;0.048) and fewer path deviations (p&#x2009;=&#x2009;0.048) when compared to the presentation-based approach.\n\nConclusions: Video-based instruction may be a valuable adjunct to early neuroangiography training, especially for beginners. While it was associated with longer fluoroscopy times, participants perceived it as more helpful and showed improvements in certain procedural aspects. These findings highlight the potential benefits of integrating video-based elements into a blended learning curriculum for neuroangiography, and suggest that further optimization of instructional design is needed in medical education.",
+  "mesh": [
+    "Humans",
+    "Clinical Competence",
+    "Video Recording",
+    "Angiography",
+    "Female",
+    "Male",
+    "Self-Directed Learning as Topic",
+    "Computer-Assisted Instruction",
+    "Adult"
+  ],
+  "palabrasClave": [
+    "Angiography",
+    "Education",
+    "Medical education",
+    "Navigation",
+    "Neurointervention"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 31,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}

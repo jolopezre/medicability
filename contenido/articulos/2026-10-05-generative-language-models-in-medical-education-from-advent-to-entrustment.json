@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-05-generative-language-models-in-medical-education-from-advent-to-entrustment",
+  "estado": "pendiente",
+  "pmid": "42814479",
+  "doi": "10.2196/105347",
+  "titulo": "Generative Language Models in Medical Education: From Advent to Entrustment",
+  "tituloEs": null,
+  "revista": "JMIR medical education",
+  "autores": [
+    "Patil S",
+    "Karabacak M",
+    "Bisdas S",
+    "Margetis K"
+  ],
+  "fechaPublicacion": "2026 Sep 30",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+  "resumenOriginal": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity, misinformation, legal ambiguity, and unequal access. Since that first wave, generative AI has moved from novelty to routine exposure for learners, educators, researchers, and institutions. Medical education therefore needs a more mature framework than a catalog of opportunities and risks. This viewpoint argues that the next phase should be organized around educational entrustment: determining which functions can be delegated to AI systems, under what conditions, with what human supervision, and with what evidence of benefit. Building on recent proposals to apply entrustment to AI in health professions education, we operationalize the concept into a graduated, function-level model that specifies which educational functions may be delegated; at what stakes; and with what oversight, assessment, and governance. We classify use cases by educational stakes and AI autonomy and outline implications for assessment redesign, curriculum development, faculty capability, cognitive autonomy, equity, and institutional governance. The central challenge is whether medical schools can integrate these tools in ways that preserve clinical reasoning, professional identity, accountability, and fairness. The next generation of research should move beyond model performance on examinations and evaluate how AI changes learning, judgment, behavior, and patient care.",
+  "mesh": [
+    "Humans",
+    "Generative Artificial Intelligence",
+    "Education, Medical",
+    "Large Language Models",
+    "Curriculum"
+  ],
+  "palabrasClave": [
+    "AI literacy",
+    "assessment",
+    "curriculum",
+    "generative artificial intelligence",
+    "governance",
+    "large language models",
+    "medical education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S41",
+  "descubiertoEl": "2026-10-05",
+  "publicadoEl": "2026-10-05",
+  "tips": null,
+  "sintesis": null,
+  "aplicacionDocente": null,
+  "infografia": null
+}
