@@ -67,6 +67,7 @@ ${NAV.map(([h, t]) => `<a href="${h}">${t}</a>`).join('\n')}
 <div>
 <h3>Sigue el proyecto</h3>
 <a href="/suscribirse/">Suscribirse</a>
+${sitio.apoyo ? `<a href="${sitio.apoyo}" rel="noopener">Invítame un café</a>` : ''}
 <a href="mailto:${escapar(sitio.correo)}">Escríbenos</a>
 <a href="/acerca/#metodo">Cómo seleccionamos</a>
 </div>
