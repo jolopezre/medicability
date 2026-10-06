@@ -1,10 +1,10 @@
 {
   "id": "2026-10-05-twelve-tips-for-using-image-challenges-to-teach-clinical-reasoning",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42811732",
   "doi": "10.1080/0142159X.2026.2738757",
   "titulo": "Twelve tips for using image challenges to teach clinical reasoning",
-  "tituloEs": null,
+  "tituloEs": "Cómo enseñar razonamiento clínico mediante desafíos con imágenes: guía práctica",
   "revista": "Medical teacher",
   "autores": [
     "Flugelman MY",
@@ -32,8 +32,41 @@
   "semana": "2026-S41",
   "descubiertoEl": "2026-10-05",
   "publicadoEl": "2026-10-05",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Anclen en objetivos explícitos",
+      "texto": "Definan qué habilidad de razonamiento enseñarán antes de elegir la imagen. Conecten cada desafío con competencias curriculares específicas, no solo con contenido temático."
+    },
+    {
+      "titulo": "Usen imágenes auténticas reales",
+      "texto": "Seleccionen fotografías de casos reales de su institución, no ilustraciones comerciales. Incluyan hallazgos sutiles y variabilidad clínica que los estudiantes encontrarán en práctica."
+    },
+    {
+      "titulo": "Incorporen pensamiento dual explícito",
+      "texto": "Enseñen a evaluar estado general pidiendo primero impresiones intuitivas (Sistema 1) y luego análisis sistemático (Sistema 2). Esto hace visible el razonamiento automático."
+    },
+    {
+      "titulo": "Revelen imágenes progresivamente",
+      "texto": "Presenten información visual en etapas para exponer cómo el anclaje y otros sesgos afectan la interpretación. Discutan cómo cambian las hipótesis con nueva evidencia."
+    },
+    {
+      "titulo": "Vinculen diagnóstico con acción",
+      "texto": "No terminen en el diagnóstico. Extiendan cada caso para decidir manejo inmediato y considerar determinantes sociales que afecten tratamiento o seguimiento."
+    }
+  ],
+  "sintesis": "Este artículo propone doce recomendaciones prácticas para enseñar razonamiento clínico mediante desafíos visuales: imágenes clínicas auténticas combinadas con viñetas breves. El método se fundamenta en teoría del razonamiento y evidencia sobre aprendizaje observacional, ofreciendo formatos reproducibles que incluyen evaluación de estado general, revelación progresiva para exponer sesgos cognitivos y vinculación de diagnóstico con determinantes sociales.",
+  "aplicacionDocente": "Usen estas estrategias en ronda clínica mostrando radiografías o fotografías de lesiones en grupos pequeños. Pidan primero impresión rápida, luego análisis estructurado, y nombren explícitamente qué estrategia de razonamiento están usando. Cierren con reflexión sobre sesgos identificados y búsqueda guiada de evidencia.",
+  "infografia": "/img/infografias/2026-10-05-twelve-tips-for-using-image-challenges-to-teach-clinical-reasoning.png",
+  "disenoEstudio": "Guía de implementación educativa basada en experiencia programática con internos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Imágenes clínicas reales + grupos pequeños = razonamiento visible y práctica auténtica",
+  "etiquetas": [
+    "razonamiento clínico",
+    "aprendizaje visual",
+    "pensamiento dual",
+    "sesgos cognitivos",
+    "educación médica"
+  ],
+  "advertencia": "Basado en experiencia de implementación local con internos; sin evaluación comparativa controlada de efectividad educativa",
+  "generadoPor": "claude-sonnet-4-5"
 }

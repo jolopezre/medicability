@@ -1,10 +1,10 @@
 {
   "id": "2026-10-05-learning-across-specialty-lines-a-systematic-review-informing-curriculum-design-",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42816129",
   "doi": "10.1080/0142159X.2026.2735287",
   "titulo": "Learning across specialty lines: A systematic review informing curriculum design for intraprofessional education",
-  "tituloEs": null,
+  "tituloEs": "Educación intraprofesional en medicina: síntesis de enfoques para aprender más allá de las especialidades",
   "revista": "Medical teacher",
   "autores": [
     "Moy L",
@@ -34,8 +34,41 @@
   "semana": "2026-S41",
   "descubiertoEl": "2026-10-05",
   "publicadoEl": "2026-10-05",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Casos que cruzan especialidades",
+      "texto": "Incorporen discusión de casos clínicos que requieran perspectivas de al menos dos especialidades diferentes. La revisión identifica esta estrategia como uno de cinco enfoques efectivos."
+    },
+    {
+      "titulo": "Simulación interpuesta",
+      "texto": "Diseñen sesiones de simulación donde participantes de distintas especialidades interactúen ante escenarios complejos, favoreciendo comunicación y trabajo en equipo."
+    },
+    {
+      "titulo": "Consultas cruzadas formativas",
+      "texto": "Estructuren actividades donde estudiantes o residentes de una especialidad soliciten formalmente asesoría a pares de otra, modelando colaboración profesional real."
+    },
+    {
+      "titulo": "Evalúen actitudes, no solo conocimiento",
+      "texto": "Los ocho dominios identificados incluyen actitudes hacia otras especialidades y colaboración. Consideren evaluarlos sistemáticamente, no solo contenidos clínicos."
+    },
+    {
+      "titulo": "Seguimiento longitudinal pendiente",
+      "texto": "Pocos estudios midieron efectos a largo plazo. Al implementar educación intraprofesional, planeen evaluación sostenida más allá del curso inmediato."
+    }
+  ],
+  "sintesis": "Revisión sistemática de 21 estudios con 9,628 participantes identifica cinco enfoques educativos que permiten a estudiantes, residentes y especialistas aprender a través de perspectivas de múltiples especialidades médicas. Se reportaron resultados positivos en ocho dominios, aunque la heterogeneidad metodológica impide comparar efectividad entre enfoques.",
+  "aplicacionDocente": "Introduzcan en sus rotaciones un componente estructurado donde estudiantes analicen un mismo paciente desde dos ópticas de especialidad (por ejemplo, medicina interna y cirugía). Evalúen no solo si identifican diagnósticos, sino si comprenden la perspectiva del otro. Esta revisión respalda que formatos variados funcionan; lo clave es la estructura intencional.",
+  "infografia": "/img/infografias/2026-10-05-learning-across-specialty-lines-a-systematic-review-informing-curriculum-design-.png",
+  "disenoEstudio": "Revisión sistemática de 21 estudios en 12 países, estudiantes y médicos de 33 especialidades",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Aprender más allá de la propia especialidad mejora colaboración, comunicación y atención",
+  "etiquetas": [
+    "educación intraprofesional",
+    "colaboración médica",
+    "diseño curricular",
+    "competencias transversales",
+    "revisión sistemática"
+  ],
+  "advertencia": "Heterogeneidad en diseños e intervenciones impide determinar cuál enfoque es más efectivo o en qué etapa formativa aplicarlo mejor.",
+  "generadoPor": "claude-sonnet-4-5"
 }

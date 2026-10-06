@@ -1,10 +1,10 @@
 {
   "id": "2026-10-05-generative-language-models-in-medical-education-from-advent-to-entrustment",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42814479",
   "doi": "10.2196/105347",
   "titulo": "Generative Language Models in Medical Education: From Advent to Entrustment",
-  "tituloEs": null,
+  "tituloEs": "De la promesa al uso responsable: marco de supervisión para IA generativa en educación médica",
   "revista": "JMIR medical education",
   "autores": [
     "Patil S",
@@ -43,8 +43,41 @@
   "semana": "2026-S41",
   "descubiertoEl": "2026-10-05",
   "publicadoEl": "2026-10-05",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Clasificar antes de delegar",
+      "texto": "Antes de usar IA en una tarea docente, definan el nivel de riesgo educativo y la autonomía que darán al sistema. No todas las funciones requieren igual supervisión."
+    },
+    {
+      "titulo": "Supervisión graduada explícita",
+      "texto": "Adopten un modelo de supervisión progresiva similar al que usan con residentes: nivel de autonomía, puntos de verificación obligatorios y criterios para avanzar o retroceder."
+    },
+    {
+      "titulo": "Evaluar impacto en razonamiento",
+      "texto": "No se conformen con medir si la IA aprueba exámenes. Evalúen si su uso preserva o deteriora el razonamiento clínico, la autonomía cognitiva y la identidad profesional."
+    },
+    {
+      "titulo": "Rediseñar evaluación del aprendiz",
+      "texto": "Si los estudiantes tienen acceso rutinario a IA, ajusten los métodos de evaluación para medir capacidad de juicio y supervisión crítica del output generado, no solo reproducción de conocimiento."
+    },
+    {
+      "titulo": "Desarrollar competencia docente en IA",
+      "texto": "Capaciten al cuerpo docente en uso y supervisión de IA generativa. La integración responsable requiere que los educadores comprendan posibilidades, riesgos y límites de estos sistemas."
+    }
+  ],
+  "sintesis": "Los modelos de lenguaje generativo pasaron de novedad a herramienta cotidiana en educación médica. Este artículo propone un marco de supervisión graduada (entrustment) para determinar qué funciones educativas delegar a IA, bajo qué condiciones y con qué evidencia de beneficio.",
+  "aplicacionDocente": "Implementen un sistema de supervisión graduada para cada uso de IA en su programa: definan función, nivel de riesgo, autonomía permitida y puntos de verificación. Prioricen evaluar cómo la IA afecta el razonamiento clínico de sus estudiantes, no solo su rendimiento en exámenes.",
+  "infografia": "/img/infografias/2026-10-05-generative-language-models-in-medical-education-from-advent-to-entrustment.png",
+  "disenoEstudio": "Artículo de opinión basado en propuestas recientes sobre supervisión de IA en educación sanitaria",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA en educación médica: pasar de listar riesgos a definir niveles de supervisión",
+  "etiquetas": [
+    "inteligencia artificial generativa",
+    "supervisión progresiva",
+    "razonamiento clínico",
+    "competencia docente",
+    "evaluación del aprendizaje"
+  ],
+  "advertencia": "Artículo de opinión sin datos empíricos propios; la evidencia sobre impacto real de IA en aprendizaje y desempeño clínico aún es limitada.",
+  "generadoPor": "claude-sonnet-4-5"
 }

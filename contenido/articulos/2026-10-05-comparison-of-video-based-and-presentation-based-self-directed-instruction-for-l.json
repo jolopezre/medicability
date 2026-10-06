@@ -1,10 +1,10 @@
 {
   "id": "2026-10-05-comparison-of-video-based-and-presentation-based-self-directed-instruction-for-l",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42829433",
   "doi": "10.1186/s12909-026-10418-0",
   "titulo": "Comparison of video-based and presentation-based self-directed instruction for learning basic neuroangiography",
-  "tituloEs": null,
+  "tituloEs": "Video vs. diapositivas en autoaprendizaje de neuroangiografia: resultados mixtos en ensayo exploratorio",
   "revista": "BMC medical education",
   "autores": [
     "Stolze F",
@@ -47,8 +47,41 @@
   "semana": "2026-S41",
   "descubiertoEl": "2026-10-05",
   "publicadoEl": "2026-10-05",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Video para principiantes absolutos",
+      "texto": "Si enseñan procedimientos invasivos a novatos sin experiencia previa, consideren video narrado por experto como primer contacto antes de la práctica supervisada."
+    },
+    {
+      "titulo": "Diapositivas para eficiencia técnica",
+      "texto": "Para reducir tiempo de fluoroscopia en simulación, el material estático esquemático puede ser más efectivo que el video continuo, especialmente en usuarios con alguna experiencia."
+    },
+    {
+      "titulo": "Percepción no predice desempeño",
+      "texto": "Los estudiantes percibieron el video como más útil, pero en algunos indicadores objetivos rindieron menos. Evalúen competencia con métricas objetivas, no solo autorreporte."
+    },
+    {
+      "titulo": "Segmentar según experiencia previa",
+      "texto": "El efecto del formato instruccional varió según experiencia previa. Adapten el método de enseñanza al nivel del aprendiz, no apliquen un formato único."
+    },
+    {
+      "titulo": "Aprendizaje combinado sobre formato único",
+      "texto": "Ningún formato fue superior en todos los aspectos. Diseñen curricula que integren video para contexto y diapositivas para decisiones técnicas específicas."
+    }
+  ],
+  "sintesis": "Estudio aleatorizado con 20 participantes comparó instrucción autodirigida por video versus diapositivas para neuroangiografía básica. El grupo de diapositivas usó menos tiempo de fluoroscopia, pero los principiantes con video lograron mejor cateterización y menos desviaciones de trayectoria.",
+  "aplicacionDocente": "Antes de enviar residentes a simulación de procedimientos invasivos, definan el formato instruccional según su experiencia: video narrado para principiantes, material esquemático para quienes ya conocen el procedimiento. Evalúen con indicadores objetivos (tiempo, precisión), no solo satisfacción percibida.",
+  "infografia": "/img/infografias/2026-10-05-comparison-of-video-based-and-presentation-based-self-directed-instruction-for-l.png",
+  "disenoEstudio": "Ensayo controlado aleatorizado exploratorio en 20 participantes con experiencia variable",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Video ayuda a principiantes, diapositivas reducen fluoroscopia: formatos complementarios",
+  "etiquetas": [
+    "neuroangiografia",
+    "aprendizaje autodirigido",
+    "simulacion",
+    "video instruccional",
+    "habilidades procedimentales"
+  ],
+  "advertencia": "Muestra muy pequeña (20 participantes) y carácter exploratorio limitan la generalización de resultados",
+  "generadoPor": "claude-sonnet-4-5"
 }

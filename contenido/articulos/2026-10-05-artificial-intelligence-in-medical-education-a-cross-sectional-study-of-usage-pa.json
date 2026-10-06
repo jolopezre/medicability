@@ -1,10 +1,10 @@
 {
   "id": "2026-10-05-artificial-intelligence-in-medical-education-a-cross-sectional-study-of-usage-pa",
-  "estado": "pendiente",
+  "estado": "publicado",
   "pmid": "42819437",
   "doi": "10.2147/AMEP.S649442",
   "titulo": "Artificial Intelligence in Medical Education: A Cross-Sectional Study of Usage Patterns and Perceptions Among Medical Students at a Brazilian Public University",
-  "tituloEs": null,
+  "tituloEs": "Uso de IA en estudiantes de medicina: alta frecuencia y preocupacion por dependencia cognitiva",
   "revista": "Advances in medical education and practice",
   "autores": [
     "Ferreira de Lacerda AV",
@@ -33,8 +33,41 @@
   "semana": "2026-S41",
   "descubiertoEl": "2026-10-05",
   "publicadoEl": "2026-10-05",
-  "tips": null,
-  "sintesis": null,
-  "aplicacionDocente": null,
-  "infografia": null
+  "tips": [
+    {
+      "titulo": "Reconocer la realidad del aula",
+      "texto": "Tres de cada cuatro estudiantes ya usan IA semanalmente. Ignoren esta realidad erosiona la credibilidad docente. Pregunten abiertamente qué herramientas usan y para qué."
+    },
+    {
+      "titulo": "Modelar uso crítico, no prohibir",
+      "texto": "En ronda, usen IA para generar diagnósticos diferenciales y después diséctenlos en grupo: ¿qué falta, qué sobra, qué requiere contexto del paciente? Enseñen a cuestionar el output."
+    },
+    {
+      "titulo": "Explicitar el riesgo de dependencia",
+      "texto": "Seis de cada diez estudiantes ya intuyen el peligro. Nombren explícitamente la atrofia del razonamiento clínico si se delega la generación de hipótesis sin supervisión experta."
+    },
+    {
+      "titulo": "Diseñar evaluaciones a prueba de IA",
+      "texto": "Si un chatbot puede responder su examen escrito, el formato ya no evalúa razonamiento. Privilegien justificación oral, casos con datos ambiguos o decisiones bajo incertidumbre clínica real."
+    },
+    {
+      "titulo": "Explorar integración controlada",
+      "texto": "La preferencia estudiantil por uso opcional y supervisado abre una ventana. Prueben módulos cortos donde IA sea herramienta auxiliar explícita, no sustituto del pensamiento diagnóstico."
+    }
+  ],
+  "sintesis": "Encuesta a 189 estudiantes brasileños con experiencia previa en IA reveló que 76% la usa semanal o diariamente. Aunque 58% percibe mejora en diagnóstico diferencial, 60% teme dependencia que afecte juicio clínico. La mayoría prefiere integración curricular opcional y controlada.",
+  "aplicacionDocente": "Inicien conversación abierta sobre IA en la próxima sesión tutorial. Pídanles mostrar cómo la usan y discutan casos donde confiar en el output sin contexto clínico lleva a error. Diseñen una actividad donde comparen hipótesis generadas por IA con las construidas colaborativamente, explicitando qué aporta el razonamiento humano.",
+  "infografia": "/img/infografias/2026-10-05-artificial-intelligence-in-medical-education-a-cross-sectional-study-of-usage-pa.png",
+  "disenoEstudio": "Encuesta transversal descriptiva en 189 estudiantes de medicina con contacto previo con IA",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "76% de estudiantes usa IA semanalmente; 60% teme que erosione su juicio clinico propio",
+  "etiquetas": [
+    "inteligencia artificial",
+    "educacion medica",
+    "razonamiento clinico",
+    "dependencia cognitiva",
+    "estudiantes de medicina"
+  ],
+  "advertencia": "Muestra de conveniencia sin validación del cuestionario y autorreporte de percepciones; no mide efectos objetivos en aprendizaje ni desempeño clínico real.",
+  "generadoPor": "claude-sonnet-4-5"
 }
