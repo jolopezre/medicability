@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-12-dependability-of-entrustable-professional-activity-portfolios-in-otorhinolaryngo",
+  "estado": "publicado",
+  "pmid": "42832685",
+  "doi": "10.2196/104628",
+  "titulo": "Dependability of Entrustable Professional Activity Portfolios in Otorhinolaryngology Residency: Nationwide Generalizability and Decision Study",
+  "tituloEs": "Cuántas evaluaciones EPA necesita un portafolio confiable: evidencia nacional en otorrinolaringología",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Chen JW",
+    "Hsieh CL",
+    "Chang CH",
+    "Wang YH",
+    "Hsu WC",
+    "Wang PC",
+    "Liao LJ",
+    "Liao CH",
+    "Chen M",
+    "Laksmita OD"
+  ],
+  "fechaPublicacion": "2026 Oct 5",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42832685/",
+  "resumenOriginal": "Background: Competency-based medical education increasingly uses digital workplace assessment platforms to collect longitudinal evidence of trainees' readiness for progressive responsibility. Entrustable professional activities (EPAs) translate competencies into observable clinical work, but individual workplace observations are context-dependent and may not support dependable progression decisions. Empirical guidance remains limited on how many observations, faculty raters, EPA titles, and workplace settings are needed for a dependable EPA portfolio.\n\nObjective: This study aimed to estimate EPA portfolio dependability for competency-based progression review using nationwide data from a digital workplace assessment platform in otorhinolaryngology-head and neck surgery residency training.\n\nMethods: We conducted a retrospective, nationwide cross-sectional generalizability and decision study using routinely collected EPA-based workplace assessment data from Taiwan's E-MyWay platform. The study included completed EPA observations from accredited otorhinolaryngology-head and neck surgery residency programs between August 2022 and May 2026. Faculty-assigned entrustment-supervision ratings were scored on a 5-level national EPA scale. The resident was the object of measurement, whereas faculty rater, EPA title, and workplace setting were measurement facets. The generalizability study partitioned rating variance into resident, facet, interaction, and residual components, which were subsequently used in decision-study projections of the generalizability coefficient, Phi coefficient, and absolute standard error of measurement under alternative portfolio configurations.\n\nResults: The analytic sample included 45,526 EPA observations involving 466 residents and 448 faculty raters across 35 training programs, 11 EPA titles, and 5 workplace settings. Residents had a median of 87 (IQR 47-124) observations and were assessed by a median of 9 (IQR 6-12) faculty raters across 11 (IQR 10-11) EPA titles and 5 (IQR 4-5) workplace settings. Single EPA observations were insufficient for resident-level summative interpretation. In the primary generalizability study, residual/encounter-level variance was the largest component, accounting for 40.1% of total variance; resident variance accounted for 26.9%, faculty rater variance accounted for 10.8%, and resident &#xd7; faculty rater interaction for 10.4%. A study-defined well-distributed 10-observation portfolio achieved a generalizability coefficient of 0.77 but an absolute dependability coefficient (Phi) of 0.65. A 20-observation portfolio across 5 faculty raters, 5 EPA titles, and 3 workplace settings yielded a Phi of 0.76, and a 30-observation portfolio across 6 faculty raters, 6 EPA titles, and 4 workplace settings yielded a Phi of 0.80.\n\nConclusions: Nationwide digital workplace assessment data showed that EPA portfolio dependability reflected both observation counts and sampling breadth across faculty raters, EPA titles, and workplace settings. These study-defined portfolio configurations may help clinical competency committees, residency programs, and specialty societies monitor portfolio completeness before progression deliberation. They should complement, rather than replace, narrative feedback, case complexity, performance trajectory, and committee judgment.",
+  "mesh": [
+    "Internship and Residency",
+    "Otolaryngology",
+    "Humans",
+    "Retrospective Studies",
+    "Competency-Based Education",
+    "Clinical Competence",
+    "Cross-Sectional Studies",
+    "Taiwan",
+    "Educational Measurement"
+  ],
+  "palabrasClave": [
+    "clinical competency committee",
+    "competency-based medical education",
+    "entrustable professional activities",
+    "generalizability theory",
+    "postgraduate medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-12",
+  "publicadoEl": "2026-10-12",
+  "tips": [
+    {
+      "titulo": "Mínimo 20 evaluaciones distribuidas",
+      "texto": "Un portafolio EPA confiable requiere al menos 20 observaciones realizadas por 5 evaluadores diferentes, en 5 actividades distintas y 3 contextos clínicos. Una sola evaluación no permite decisiones de progresión."
+    },
+    {
+      "titulo": "Diversifiquen evaluadores y contextos",
+      "texto": "La variabilidad entre encuentros clínicos representa 40% de la varianza total. Aseguren que los residentes sean evaluados por múltiples docentes en diferentes actividades y escenarios clínicos, no solo por su supervisor habitual."
+    },
+    {
+      "titulo": "30 observaciones para alta confiabilidad",
+      "texto": "Para decisiones de alta responsabilidad como promoción de año, busquen portafolios con 30 observaciones de 6 evaluadores en 6 actividades y 4 contextos. Esto alcanza coeficiente Phi de 0.80."
+    },
+    {
+      "titulo": "Monitoreen completitud antes de comités",
+      "texto": "Los comités de competencias deben revisar la cantidad y distribución de evaluaciones EPA antes de deliberar progresión. Un portafolio incompleto no permite juicios confiables sobre preparación del residente."
+    },
+    {
+      "titulo": "Complementen con evidencia narrativa",
+      "texto": "Las configuraciones numéricas de portafolio no reemplazan la retroalimentación cualitativa, complejidad de casos, trayectoria de desempeño ni juicio clínico del comité. Son umbrales necesarios pero no suficientes."
+    }
+  ],
+  "sintesis": "Estudio nacional en Taiwán analizó 45.526 observaciones EPA de 466 residentes. Una sola evaluación EPA es insuficiente para decisiones de progresión. Se requieren al menos 20 a 30 observaciones distribuidas entre evaluadores, actividades y contextos para alcanzar confiabilidad adecuada.",
+  "aplicacionDocente": "Establezcan umbrales cuantitativos explícitos para portafolios EPA en su programa: mínimo 20 observaciones distribuidas antes de comités de progresión. Orienten a residentes a buscar evaluadores diversos en múltiples contextos clínicos. Diseñen tableros de seguimiento que visibilicen distribución de evaluaciones, no solo conteo total.",
+  "infografia": "/img/infografias/2026-10-12-dependability-of-entrustable-professional-activity-portfolios-in-otorhinolaryngo.png",
+  "disenoEstudio": "Estudio de generalizabilidad retrospectivo, 45.526 observaciones EPA en 35 programas de otorrinolaringología",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Una EPA no basta: se necesitan 20 a 30 evaluaciones distribuidas para decisiones confiables",
+  "etiquetas": [
+    "evaluacion basada en competencias",
+    "epa",
+    "confiabilidad",
+    "portafolio",
+    "residencia"
+  ],
+  "advertencia": "Datos de un solo país y especialidad quirúrgica; los umbrales numéricos pueden variar según contexto local y escala de supervisión utilizada.",
+  "generadoPor": "claude-sonnet-4-5"
+}

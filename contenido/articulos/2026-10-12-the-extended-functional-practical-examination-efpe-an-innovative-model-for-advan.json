@@ -1,0 +1,82 @@
+{
+  "id": "2026-10-12-the-extended-functional-practical-examination-efpe-an-innovative-model-for-advan",
+  "estado": "publicado",
+  "pmid": "42829429",
+  "doi": "10.1186/s12909-026-10345-0",
+  "titulo": "The extended functional practical examination (EFPE): an innovative model for advancing assessment for learning in postgraduate medical education",
+  "tituloEs": "Examen práctico funcional extendido: evaluación longitudinal para residentes médicos",
+  "revista": "BMC medical education",
+  "autores": [
+    "Talaat W",
+    "Wasfy NF",
+    "Abouzeid E"
+  ],
+  "fechaPublicacion": "2026 Oct 2",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42829429/",
+  "resumenOriginal": "Background: The Extended Functional Practical Exam (EFPE) is an innovative postgraduate assessment model designed to overcome the limitations of traditional single-point practical examinations by adopting a longitudinal, experiential, and institution-based approach. This study aimed to critically explore the implementation of EFPE across different medical schools and examine its perceived educational value, impact on learners and institutions, and areas for improvement.\n\nMethodology: A reflective qualitative study involving different medical schools was conducted. Three samples were included in the study: a convenience sample of the postgraduate students and a purposive, convenience sample of faculty members and medical school stakeholders. Insights from the three samples were collected through semi-structured interviews. All the interviews were audio recorded and transcribed verbatim and thematically analyzed.\n\nResults: The thematic analysis of data from the three samples (S1, S2, and S3) under the classified themes revealed several themes and subthemes. The main themes included the format and differences from traditional exams, the exam's impact, and challenges and areas for improvement. Participants appreciate the alignment of EFPE tasks with institutional needs and the positive role of feedback and mentorship. However, challenges such as stress, workload, resource demands, and issues with topic selection and clarity were noted.\n\nConclusion: EFPE is highly valued for its practical, structured, and process-focused approach, which leads to significant skill development and confidence building among postgraduate students. Suggestions from participants include extending the duration of the EFPE, involving students in topic selection, maintaining continuous feedback and mentorship, and ensuring tasks are relevant and sustainable.",
+  "mesh": [
+    "Humans",
+    "Educational Measurement",
+    "Education, Medical, Graduate",
+    "Qualitative Research",
+    "Clinical Competence",
+    "Models, Educational",
+    "Schools, Medical",
+    "Students, Medical"
+  ],
+  "palabrasClave": [
+    "Extended functional practical exam (EFPE)",
+    "Learning by doing",
+    "Longitudinal assessment",
+    "Postgraduate assessment",
+    "Practical exam"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-12",
+  "publicadoEl": "2026-10-12",
+  "tips": [
+    {
+      "titulo": "Evaluación integrada al servicio",
+      "texto": "Diseñen tareas evaluativas que respondan a necesidades reales del servicio clínico. Esto aumenta la percepción de relevancia y facilita el aprendizaje situado."
+    },
+    {
+      "titulo": "Retroalimentación como andamiaje",
+      "texto": "Establezcan puntos de retroalimentación formal durante el proceso evaluativo, no solo al final. Los participantes destacan que la mentoría continua fortalece el aprendizaje."
+    },
+    {
+      "titulo": "Incluyan al residente en la planificación",
+      "texto": "Consideren negociar los temas de evaluación con los residentes. Esto puede mejorar la relevancia percibida y el compromiso con el proceso."
+    },
+    {
+      "titulo": "Transparencia en expectativas",
+      "texto": "Comuniquen claramente las rúbricas y criterios desde el inicio. Los participantes reportan que la ambigüedad genera estrés innecesario durante evaluaciones prolongadas."
+    },
+    {
+      "titulo": "Monitoreen la carga de trabajo",
+      "texto": "Evalúen periódicamente si las demandas del proceso son sostenibles. El estudio señala que la carga de trabajo fue una preocupación recurrente para estudiantes y docentes."
+    }
+  ],
+  "sintesis": "El EFPE es un modelo de evaluación longitudinal para residentes que integra tareas prácticas institucionales con retroalimentación continua. Un estudio cualitativo mostró que los participantes valoran su enfoque formativo y desarrollo de competencias, aunque identifican desafíos de carga laboral y selección de temas.",
+  "aplicacionDocente": "Si coordinan un programa de residencia, pueden pilotar evaluaciones longitudinales vinculadas a proyectos de mejora del servicio. Establezcan encuentros de retroalimentación quincenal y cocreen con los residentes un cronograma realista. Documenten percepciones de carga laboral para ajustar el modelo iterativamente.",
+  "infografia": "/img/infografias/2026-10-12-the-extended-functional-practical-examination-efpe-an-innovative-model-for-advan.png",
+  "disenoEstudio": "Estudio cualitativo reflexivo en múltiples escuelas de medicina con residentes, docentes y directivos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Evaluación longitudinal con retroalimentación continua mejora competencias de residentes",
+  "etiquetas": [
+    "evaluación formativa",
+    "educación de posgrado",
+    "retroalimentación",
+    "residencia médica",
+    "aprendizaje experiencial"
+  ],
+  "advertencia": "Estudio cualitativo sin grupo control; hallazgos representan percepciones subjetivas y no permiten inferencias causales sobre efectividad del modelo.",
+  "generadoPor": "claude-sonnet-4-5"
+}

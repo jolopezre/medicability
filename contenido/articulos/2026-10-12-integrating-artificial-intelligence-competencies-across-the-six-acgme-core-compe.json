@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-12-integrating-artificial-intelligence-competencies-across-the-six-acgme-core-compe",
+  "estado": "publicado",
+  "pmid": "42861229",
+  "doi": "10.2147/AMEP.S640400",
+  "titulo": "Integrating Artificial Intelligence Competencies Across the Six ACGME Core Competencies: A Proposed Framework for Graduate Medical Education",
+  "tituloEs": "Marco propuesto para integrar competencias en IA en la educacion medica de posgrado ACGME",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Kabbash MS",
+    "Loftus TJ",
+    "Morrow J",
+    "Dent D",
+    "Rodriguez R"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42861229/",
+  "resumenOriginal": "Although Artificial Intelligence (AI) is increasingly embedded in clinical practice and Graduate Medical Education (GME), AI-specific competencies are not yet explicitly represented as a distinct domain within the Accreditation Council for Graduate Medical Education's (ACGME) six core competency framework. The ACGME's ongoing consideration of AI in its Common Program Requirements revision process signals an emerging recognition of the need to address this gap. Over 1200 FDA-authorized AI medical devices, unregulated generative AI tools in clinical workflows, and a proliferating state legislative landscape create urgent educational needs. We conducted a purposive narrative review of literature addressing AI adoption, documented failures and litigation, regulatory developments, and bioethical frameworks to develop AI-specific learning objectives, milestone language, and assessment strategies mapped to each ACGME competency. We propose the SHARED ethical framework - Stewardship, Humanity, Accountability, Responsiveness, Equity, and Disclosure - as the moral foundation for AI education. We map AI-related capabilities and representative developmental descriptors across the six existing ACGME competency domains and propose corresponding curricular content and assessment approaches. The alternative to systematic, integrated AI training - informal adoption without standards or assessment - poses unacceptable risks to patients, trainees, and the profession. The proposed framework provides a structured foundation for further development and evaluation of AI education within competency-based GME.",
+  "mesh": [],
+  "palabrasClave": [
+    "ACGME competencies",
+    "artificial intelligence",
+    "graduate medical education"
+  ],
+  "temas": [
+    "Evaluación y competencias",
+    "IA en educación médica"
+  ],
+  "puntaje": 25,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-12",
+  "publicadoEl": "2026-10-12",
+  "tips": [
+    {
+      "titulo": "Cuidado del paciente con IA",
+      "texto": "Ensenad a supervisar recomendaciones de dispositivos autorizados por la FDA. Documentad decisiones donde se acepto o rechazo una sugerencia de IA y la justificacion clinica."
+    },
+    {
+      "titulo": "Conocimiento medico actualizado",
+      "texto": "Incorporad discusion sobre limitaciones de herramientas de IA generativa no reguladas en flujos clinicos. Preguntad: ¿que sesgo podria tener este algoritmo con esta poblacion?"
+    },
+    {
+      "titulo": "Aprendizaje basado en sistemas",
+      "texto": "Analizad casos de fallas documentadas de IA en contexto clinico. Revisad con residentes el panorama regulatorio cambiante y su impacto en la practica diaria."
+    },
+    {
+      "titulo": "Marco etico SHARED",
+      "texto": "Aplicad este marco (Stewardship, Humanity, Accountability, Responsiveness, Equity, Disclosure) al evaluar decisiones clinicas asistidas por IA. Convertidlo en checklist de reflexion etica."
+    },
+    {
+      "titulo": "Evaluacion de competencias en IA",
+      "texto": "Incorporad criterios de uso responsable de IA en las evaluaciones de desempeno. Preguntad en rounds: ¿divulgasteis al paciente que usasteis esta herramienta?"
+    }
+  ],
+  "sintesis": "Se propone un marco educativo que integra competencias especificas de inteligencia artificial en los seis dominios ACGME. Incluye objetivos de aprendizaje, indicadores de desarrollo y estrategias de evaluacion, fundamentados en el marco etico SHARED para guiar la adopcion responsable de IA en la formacion medica.",
+  "aplicacionDocente": "Comenzad con un caso de decision clinica donde se uso IA: haced visible el proceso de supervision, los sesgos potenciales y la justificacion. Incorporad gradualmente criterios del marco SHARED en evaluaciones formativas. No espereis a que ACGME formalice requisitos; la adopcion informal sin supervision ya esta ocurriendo.",
+  "infografia": "/img/infografias/2026-10-12-integrating-artificial-intelligence-competencies-across-the-six-acgme-core-compe.png",
+  "disenoEstudio": "Revision narrativa de literatura sobre adopcion de IA en medicina y marco conceptual propuesto",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Mas de 1200 dispositivos de IA autorizados: entrenar sin estandares es un riesgo inaceptable",
+  "etiquetas": [
+    "inteligencia artificial",
+    "competencias acgme",
+    "educacion medica posgrado",
+    "etica en ia",
+    "evaluacion por competencias"
+  ],
+  "advertencia": "Revision narrativa no sistematica; el marco propuesto aun no ha sido validado en contextos reales de formacion de residentes.",
+  "generadoPor": "claude-sonnet-4-5"
+}

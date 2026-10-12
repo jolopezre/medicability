@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-12-teaching-medical-students-to-identify-social-determinants-of-health-through-obse",
+  "estado": "publicado",
+  "pmid": "42861304",
+  "doi": "10.2147/AMEP.S631490",
+  "titulo": "Teaching Medical Students to Identify Social Determinants of Health Through Observation and Reflection",
+  "tituloEs": "Observación comunitaria ayuda a estudiantes de medicina a identificar determinantes sociales de salud",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Croniger Ockunzzi B",
+    "Young KL",
+    "Mendez J",
+    "Charara R"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42861304/",
+  "resumenOriginal": "Purpose: Social determinants of health (SDOH) impact 80-90% of health outcomes in the United States. To address SDOH, innovative teaching of future healthcare professionals is needed. At one large urban medical school in an area with a high population of underserved individuals, first-year medical students participated in a Service Learning curriculum, assessing community needs in local ZIP Code areas. This single-institution descriptive program evaluation describes the implementation and feasibility of this educational activity and reports students' identified community priorities and self-reported engagement.\n\nParticipants and methods: During the 2022-2023 academic year, forty-one groups of 6-8 first-year medical students conducted neighborhood observations, then created an 8-10-minute presentation. They selected a key area to address-food, clinics, education, transportation, parks, or other. Faculty, alumni, and students provided feedback on presentations. Students completed two single-item surveys: Survey 1 (administered post-observation) assessed intended area of community engagement focus, and Survey 2 (administered at end of academic year) assessed self-reported community engagement activities.\n\nResults: All 316 students completed the educational activity and Survey 1. Food was most commonly chosen as the intended engagement focus (40.51%), followed by clinic (17.41%), transportation (15.51%), education (13.61%), parks (9.18%), and other (3.80%). Within-group agreement on key issues varied (25-100%), with a mean concordance of 58.52%. Survey 2 was completed by 81 students (25.6% response rate); among respondents, 38.27% reported partnering with community organizations and 35.80% reported expanding access to healthcare services.\n\nConclusion: This service-learning curriculum demonstrated the feasibility of a large-cohort, neighborhood-based experiential learning activity to introduce first-year medical students to SDOH. Students identified diverse community priorities, with food insecurity most frequently selected. Future studies using validated outcome measures and controlled designs are needed to evaluate the educational effectiveness of this approach.",
+  "mesh": [],
+  "palabrasClave": [
+    "community health",
+    "service learning",
+    "undergraduate medical education",
+    "urban health"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-12",
+  "publicadoEl": "2026-10-12",
+  "tips": [
+    {
+      "titulo": "Observación de barrio temprana",
+      "texto": "Incorporen salidas al terreno en los primeros años de formación. La exposición temprana a contextos reales ayuda a los estudiantes a reconocer determinantes sociales antes de enfocarse únicamente en lo biomédico."
+    },
+    {
+      "titulo": "Presentaciones grupales con retroalimentación",
+      "texto": "Pidan a los estudiantes crear presentaciones breves sobre necesidades comunitarias observadas. La retroalimentación de docentes y pares consolida el aprendizaje y calibra las percepciones individuales."
+    },
+    {
+      "titulo": "Enfoque en inseguridad alimentaria",
+      "texto": "Destaquen la inseguridad alimentaria como determinante frecuente en comunidades vulnerables. Es un punto de entrada concreto para discutir cómo factores no clínicos afectan los resultados en salud."
+    },
+    {
+      "titulo": "Variabilidad dentro del grupo",
+      "texto": "Anticipen desacuerdo entre estudiantes sobre prioridades (concordancia promedio 58%). Usen esta variabilidad para reflexionar sobre cómo las perspectivas personales influyen en la identificación de necesidades."
+    },
+    {
+      "titulo": "Conexión con organizaciones locales",
+      "texto": "Faciliten que los estudiantes colaboren con organizaciones comunitarias después de la observación. El 38% de los encuestados reportó establecer alianzas, lo que extiende el aprendizaje más allá del aula."
+    }
+  ],
+  "sintesis": "En una escuela de medicina urbana de Estados Unidos, 316 estudiantes de primer año participaron en observaciones de barrio y crearon presentaciones sobre necesidades comunitarias. La inseguridad alimentaria fue la prioridad identificada con mayor frecuencia (40.5%), seguida de acceso a clínicas y transporte.",
+  "aplicacionDocente": "Organicen salidas de observación a barrios cercanos al hospital universitario, asignen grupos pequeños y soliciten presentaciones sobre un determinante social prioritario. Usen las discrepancias entre grupos para analizar sesgos perceptivos. Faciliten contactos con organizaciones locales para que los estudiantes conviertan la observación en acción comunitaria sostenida.",
+  "infografia": "/img/infografias/2026-10-12-teaching-medical-students-to-identify-social-determinants-of-health-through-obse.png",
+  "disenoEstudio": "Evaluación descriptiva de programa educativo en 316 estudiantes de primer año de medicina",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "40% de estudiantes identificó inseguridad alimentaria como prioridad tras observar su comunidad",
+  "etiquetas": [
+    "determinantes sociales de salud",
+    "aprendizaje-servicio",
+    "educación médica pregrado",
+    "observación comunitaria",
+    "inseguridad alimentaria"
+  ],
+  "advertencia": "Diseño descriptivo en una sola institución, sin grupo control ni medidas de resultado validadas que evalúen el impacto educativo real.",
+  "generadoPor": "claude-sonnet-4-5"
+}

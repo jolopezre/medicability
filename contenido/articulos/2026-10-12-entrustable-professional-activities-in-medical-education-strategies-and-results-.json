@@ -1,0 +1,82 @@
+{
+  "id": "2026-10-12-entrustable-professional-activities-in-medical-education-strategies-and-results-",
+  "estado": "publicado",
+  "pmid": "42857963",
+  "doi": "10.1080/10872981.2026.2740871",
+  "titulo": "Entrustable professional activities in medical education: strategies and results - a systematic review",
+  "tituloEs": "Actividades profesionales confiables (EPAs) en educación médica: estrategias y resultados",
+  "revista": "Medical education online",
+  "autores": [
+    "Fernandes N",
+    "Neves C",
+    "Donato H",
+    "Pêgo JM",
+    "Ribeiro JC"
+  ],
+  "fechaPublicacion": "2026 Dec 31",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42857963/",
+  "resumenOriginal": "Background: Medical education has been marked in the last decades by the introduction of Competence-Based Medical Education (CBME). Despite its clear objectives, CBME has faced significant challenges and Entrustable Professional Activities (EPAs) have been conceptualised as an answer to some of those challenges.\n\nAims/purposes: This systematic review aimed primarily to summarise the evidence published on the strategies used for the development, implementation, and assessment of EPAs and their results. Secondarily this review also aimed to characterise the body of evidence produced on EPAs, assess its quality, and explore its limitations and future research paths.\n\nMethods: Systematic searches were conducted in six electronic databases in July 2021 and updated in March 2025. The data extracted included the quality assessment of the studies considered using the Quality Assessment Tool for Studies with Diverse Designs (QATSDD).\n\nResults: Four hundred and seventy-eight studies were included for data extraction and posterior analysis, most of which referred to Postgraduate programmes (59.6%, n&#x2009;=&#x2009;285) and took place in the USA (51.5%, n&#x2009;=&#x2009;246). A relevant diversity of methodologies and stakeholders involved was detected in the development, implementation, and assessment of EPAs. References to factors influencing the implementation of EPAs (50.8%, n&#x2009;=&#x2009;243) and the potential of implementing EPAs for the improvement of learning and assessment practices (46.4%, n&#x2009;=&#x2009;222) were found in a significant number of studies, but only a small number focused on the cost-effectiveness of the use of EPAs. The quality analysis of the included studies revealed modest results.\n\nConclusions: This broad systematic review highlights the increasing adoption of EPAs, showcasing the diversity of contexts and strategies for the development, implementation, and assessment of EPAs. Nevertheless, significant challenges persist, namely concerning study quality, warranting further research.",
+  "mesh": [
+    "Humans",
+    "Competency-Based Education",
+    "Clinical Competence",
+    "Education, Medical"
+  ],
+  "palabrasClave": [
+    "Entrustable professional activities",
+    "access and evaluation",
+    "competence-based medical education",
+    "health care quality",
+    "medical education",
+    "systematic review"
+  ],
+  "temas": [
+    "Evaluación y competencias"
+  ],
+  "puntaje": 27,
+  "semana": "2026-S42",
+  "descubiertoEl": "2026-10-12",
+  "publicadoEl": "2026-10-12",
+  "tips": [
+    {
+      "titulo": "Involucrar múltiples actores",
+      "texto": "Al diseñar EPAs, incorporen perspectivas de residentes, docentes y personal. La revisión documenta que la diversidad de participantes en el desarrollo mejora la relevancia clínica."
+    },
+    {
+      "titulo": "Identificar barreras locales",
+      "texto": "Más de la mitad de los estudios reportan factores que dificultan la implementación. Evalúen cultura institucional, recursos y resistencia al cambio antes de introducir EPAs."
+    },
+    {
+      "titulo": "Usar EPAs para diagnóstico educativo",
+      "texto": "Aprovechen las EPAs no solo para certificar competencia, sino para detectar necesidades de aprendizaje específicas en la residencia o rotación clínica."
+    },
+    {
+      "titulo": "Priorizar calidad sobre cantidad",
+      "texto": "La revisión muestra calidad metodológica modesta. Al investigar EPAs localmente, enfóquense en diseños rigurosos aunque produzcan menos publicaciones."
+    },
+    {
+      "titulo": "Explorar costo-efectividad",
+      "texto": "Pocos estudios analizan recursos necesarios. Documenten tiempo docente, ajustes curriculares y costos administrativos para justificar la inversión institucional."
+    }
+  ],
+  "sintesis": "Revisión sistemática de 478 estudios sobre EPAs. La mayoría en programas de posgrado estadounidenses. Diversos métodos de desarrollo e implementación, con evidencia sobre factores que influyen en su adopción y potencial para mejorar la evaluación. Calidad metodológica de los estudios fue modesta.",
+  "aplicacionDocente": "Al implementar EPAs en su programa, comiencen identificando resistencias y recursos disponibles. Involucren residentes y docentes desde el diseño. Úsenlas tanto para evaluar confianza como para diagnosticar necesidades formativas. Documenten costos y beneficios para construir evidencia local rigurosa que actualmente escasea.",
+  "infografia": "/img/infografias/2026-10-12-entrustable-professional-activities-in-medical-education-strategies-and-results-.png",
+  "disenoEstudio": "Revisión sistemática de 478 estudios, principalmente en posgrado",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "EPAs: evidencia diversa, calidad modesta. Factores de implementación más estudiados que efectividad",
+  "etiquetas": [
+    "actividades profesionales confiables",
+    "educación basada en competencias",
+    "posgrado médico",
+    "evaluación clínica",
+    "implementación curricular"
+  ],
+  "advertencia": "La calidad metodológica de los estudios incluidos fue modesta, limitando la solidez de las conclusiones sobre efectividad.",
+  "generadoPor": "claude-sonnet-4-5"
+}
