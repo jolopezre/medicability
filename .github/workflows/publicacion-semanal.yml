@@ -29,9 +29,9 @@ jobs:
     timeout-minutes: 25
     steps:
       - name: Descargar el repositorio
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Preparar Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
       - name: Instalar dependencias
@@ -67,6 +67,16 @@ jobs:
           else
             git commit -m "Edicion semanal $(date -u +'%Y-%m-%d')"
             git push
+          fi
+      - name: Pedir despliegue a Netlify
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "Sin NETLIFY_BUILD_HOOK configurado; se omite el aviso."
+          else
+            curl -fsS -X POST -d '{}' "$HOOK" > /dev/null
+            echo "Despliegue solicitado a Netlify."
           fi
       - name: Resumen y aviso de fallos
         run: |
