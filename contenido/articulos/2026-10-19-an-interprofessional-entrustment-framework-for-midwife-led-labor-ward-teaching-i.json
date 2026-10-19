@@ -1,0 +1,75 @@
+{
+  "id": "2026-10-19-an-interprofessional-entrustment-framework-for-midwife-led-labor-ward-teaching-i",
+  "estado": "publicado",
+  "pmid": "42885093",
+  "doi": "10.1080/10401334.2026.2743130",
+  "titulo": "An Interprofessional Entrustment Framework for Midwife-Led Labor Ward Teaching in Oman: A Modified Delphi Study",
+  "tituloEs": "Marco de confiabilidad para docencia liderada por parteras en sala de partos",
+  "revista": "Teaching and learning in medicine",
+  "autores": [
+    "Burhan A",
+    "Satti S",
+    "Nabag W",
+    "Husain NE",
+    "Al Masoudi M"
+  ],
+  "fechaPublicacion": "2026 Oct 15",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42885093/",
+  "resumenOriginal": "Introduction:&#xa0;The labor ward is an important interprofessional setting for undergraduate obstetric education, where medical students work closely with midwives who contribute substantially to their clinical learning. However, this teaching role is often informal. In addition, what students should learn through midwife-led teaching and the level of supervision expected for these activities are often not clearly defined. This study, conducted in the Sultanate of Oman, aimed to establish consensus on intended learning outcomes (ILOs) for midwife-led labor ward teaching and the level of supervision expected of medical students at graduation, with the broader goal of strengthening the educational role of midwives and making more effective use of the labor ward as a workplace learning environment. Method:&#xa0;In June-August 2025, we conducted a three-round modified Delphi study with a multi-professional panel of 22 participants, including consultant obstetricians, obstetrics and gynecology faculty, midwifery educators, practicing midwives, and final-year medical students. We generated an initial ILO pool through a structured literature search and expert interviews. Panelists rated ILO suitability using predefined consensus criteria (&#x2265;80% agreement, median &#x2265;4, interquartile range &#x2264;1); in Round 3, they assigned expected supervision levels using a four-level scale ranging from observation only to independent performance. Results:&#xa0;Twenty of 23 proposed ILOs achieved consensus for inclusion. Consensus on supervision level (&#x2265;70% agreement on a single level) was reached for 14 of 20 ILOs. Most competencies were assigned to Level 2 (performance under direct supervision), consistent with the supervised participation model characteristic of undergraduate entrustment in safety-sensitive clinical environments. Higher autonomy levels (Levels 3-4) were assigned mainly to communication, patient-centered care, and professionalism outcomes. Greater variability was observed for higher-risk procedural activities, including episiotomy repair, neonatal resuscitation, and perineal assessment, for which no single supervision level reached consensus. These outcomes were therefore considered areas where expectations of student autonomy remained uncertain. Inter-rater agreement strengthened progressively across the three rounds, confirming iterative convergence. Conclusions:&#xa0;This study offers a consensus-based interprofessional framework that defines learning outcomes and supervision expectations for midwife-led labor ward teaching. The predominance of direct supervision highlights the safety-sensitive nature of labor ward learning. The model is intended to support structured and collaborative clinical education in the labor ward and should be interpreted in relation to this setting. Nevertheless, it may offer analytically transferable insights to comparable interprofessional clinical learning environments.",
+  "mesh": [],
+  "palabrasClave": [
+    "Delphi consensus",
+    "competency-based medical education",
+    "entrustable professional activities",
+    "learning outcomes",
+    "midwife-led teaching"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S43",
+  "descubiertoEl": "2026-10-19",
+  "publicadoEl": "2026-10-19",
+  "tips": [
+    {
+      "titulo": "Formalicen roles docentes de parteras",
+      "texto": "Definan explícitamente qué competencias pueden enseñar las parteras en sala de partos. Esto legitima su rol educativo y optimiza el uso del entorno clínico como espacio de aprendizaje interprofesional."
+    },
+    {
+      "titulo": "Asignen niveles de supervisión esperados",
+      "texto": "Especifiquen para cada actividad si el estudiante observa, ejecuta con supervisión directa o puede actuar con supervisión indirecta. Esto reduce ambigüedad y mejora la seguridad del paciente."
+    },
+    {
+      "titulo": "Prioricen supervisión directa en procedimientos",
+      "texto": "En actividades de alto riesgo como reparación de episiotomía o reanimación neonatal, mantengan supervisión directa constante hasta alcanzar consenso institucional sobre autonomía estudiantil."
+    },
+    {
+      "titulo": "Promuevan autonomía en competencias comunicacionales",
+      "texto": "Permitan mayor independencia estudiantil en comunicación, atención centrada en el paciente y profesionalismo. Estas áreas alcanzaron consenso para niveles superiores de confiabilidad."
+    },
+    {
+      "titulo": "Adapten marco a su contexto local",
+      "texto": "Repliquen proceso Delphi multiprofesional en su institución para establecer qué puede delegarse a estudiantes en entornos sensibles a seguridad, considerando regulaciones y cultura local."
+    }
+  ],
+  "sintesis": "Estudio Delphi multiprofesional en Omán estableció consenso sobre 20 resultados de aprendizaje para estudiantes de medicina en sala de partos con docencia de parteras. La mayoría de competencias requiere supervisión directa, reflejando la naturaleza sensible a la seguridad del entorno.",
+  "aplicacionDocente": "Implementen marco de confiabilidad progresiva (entrustment) en sala de partos, especificando qué enseñan las parteras y bajo qué supervisión. Comiencen con comunicación y profesionalismo para autonomía gradual, manteniendo supervisión directa en procedimientos de riesgo. Convoquen a parteras, obstetras y estudiantes para consensuar expectativas locales mediante metodología similar.",
+  "infografia": "/img/infografias/2026-10-19-an-interprofessional-entrustment-framework-for-midwife-led-labor-ward-teaching-i.png",
+  "disenoEstudio": "Delphi modificado de 3 rondas con 22 panelistas multiprofesionales en Omán",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "20 competencias consensuadas para aprendizaje de medicina en sala de partos con parteras",
+  "etiquetas": [
+    "educación interprofesional",
+    "confiabilidad progresiva",
+    "obstetricia",
+    "supervisión clínica",
+    "partería"
+  ],
+  "advertencia": "Estudio realizado en un solo país (Omán), lo que limita la transferibilidad directa de los resultados específicos a contextos con diferente organización de servicios obstétricos o roles profesionales.",
+  "generadoPor": "claude-sonnet-4-5"
+}

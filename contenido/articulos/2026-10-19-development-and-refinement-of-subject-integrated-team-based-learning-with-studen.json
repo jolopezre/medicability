@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-19-development-and-refinement-of-subject-integrated-team-based-learning-with-studen",
+  "estado": "publicado",
+  "pmid": "42893033",
+  "doi": "10.2147/AMEP.S652868",
+  "titulo": "Development and Refinement of Subject-Integrated Team-Based Learning with Student-Generated Questions: A Two-Year Implementation Study",
+  "tituloEs": "Aprendizaje basado en equipos integrado con preguntas generadas por estudiantes: estudio de implementación",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Wakatsuki K",
+    "Kido K"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42893033/",
+  "resumenOriginal": "Background: Team-Based Learning (TBL) has been widely adopted in undergraduate medical education; however, it is commonly implemented within individual disciplines using faculty-generated application exercises. To promote curriculum integration and active student engagement, we developed a subject-integrated TBL program incorporating student-generated questions across six basic medical science disciplines.\n\nMethods: This article describes the development, implementation, and refinement of a subject-integrated TBL program conducted with different cohorts of second-year medical students at Nara Medical University over two consecutive academic years (2022 and 2023; 217 students in total). Following the first year, the program was refined based on faculty reflection and student feedback, with modifications to scheduling, group composition, faculty support during question generation, and program structure. Program evaluation included questionnaire responses regarding perceived mastery, understanding, difficulty, and session length. Free-text responses were analyzed using KH Coder, and relevant extracted words were classified into three categories defined a priori based on the educational design of the program.\n\nResults: In the second year, student evaluations shifted toward higher perceived mastery and understanding and more appropriate ratings of difficulty and session length. The proportion of students rating session difficulty as appropriate was 45.1% in 2022 and 83.3% in 2023, while the corresponding proportions for session length were 24.8% and 83.3%, respectively. Frequently occurring words were classified into three predefined categories: cooperative learning, knowledge integration, and question generation. Practical challenges identified during implementation included time allocation, uneven group participation, limited opportunities for faculty support, and variation in the difficulty of assigned themes.\n\nConclusion: This two-year implementation study identified practical considerations related to time allocation, faculty facilitation, group participation, and task design. The findings provide practical evidence from program implementation and iterative refinement and may assist educators seeking to design, implement, and refine similar horizontally integrated TBL programs in undergraduate medical education.",
+  "mesh": [],
+  "palabrasClave": [
+    "basic medical sciences",
+    "curriculum development",
+    "integrated curriculum",
+    "medical education",
+    "student-generated questions",
+    "team-based learning"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S43",
+  "descubiertoEl": "2026-10-19",
+  "publicadoEl": "2026-10-19",
+  "tips": [
+    {
+      "titulo": "Integren horizontalmente las materias básicas",
+      "texto": "En lugar de TBL disciplinar aislado, diseñen ejercicios que obliguen a conectar fisiología, anatomía, bioquímica y otras ciencias básicas en un mismo caso clínico integrador."
+    },
+    {
+      "titulo": "Hagan que estudiantes generen las preguntas",
+      "texto": "Asignen a grupos que elaboren preguntas de aplicación para otros equipos. Esta inversión de roles profundiza la comprensión y revela qué conceptos consideran centrales."
+    },
+    {
+      "titulo": "Ajusten composición de grupos tras primera experiencia",
+      "texto": "Si observan participación desigual, redistribuyan deliberadamente en función de desempeño o habilidades para equilibrar el trabajo colaborativo en la siguiente iteración."
+    },
+    {
+      "titulo": "Acompañen la generación de preguntas activamente",
+      "texto": "No asuman que estudiantes saben elaborar buenas preguntas de aplicación sin guía. Ofrezcan retroalimentación temprana sobre complejidad y relevancia clínica de las que proponen."
+    },
+    {
+      "titulo": "Evalúen dificultad y tiempo con encuesta breve",
+      "texto": "Al final de cada sesión, pregunten si dificultad y duración fueron apropiadas. Estos datos simples permiten calibrar rápidamente el diseño para el siguiente ciclo."
+    }
+  ],
+  "sintesis": "Se implementó y refinó durante dos años un programa de aprendizaje basado en equipos (TBL, team-based learning) que integra seis disciplinas de ciencias médicas básicas usando preguntas generadas por los propios estudiantes. En el segundo año, tras ajustar horarios, composición de grupos y apoyo docente, aumentó significativamente la percepción de dificultad apropiada (45.1% a 83.3%) y duración adecuada (24.8% a 83.3%).",
+  "aplicacionDocente": "Este lunes, identifiquen un tema que suelen enseñar de forma aislada y piensen cómo conectarlo con otra disciplina básica en un ejercicio de TBL. Inviten a estudiantes a proponer preguntas de aplicación y ofrezcan retroalimentación estructurada sobre su calidad antes de usarlas en sesión plenaria.",
+  "infografia": "/img/infografias/2026-10-19-development-and-refinement-of-subject-integrated-team-based-learning-with-studen.png",
+  "disenoEstudio": "Estudio de implementación en dos cohortes de 217 estudiantes de segundo año, con evaluación mediante cuestionarios y análisis cualitativo",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Estudiantes que generan preguntas integradas aprenden más: ajustar grupos y dar soporte mejora",
+  "etiquetas": [
+    "aprendizaje basado en equipos",
+    "integración curricular",
+    "ciencias básicas",
+    "preguntas generadas por estudiantes",
+    "mejora iterativa"
+  ],
+  "advertencia": "Estudio en una sola institución sin grupo control; los resultados reflejan refinamiento iterativo pero no permiten aislar qué componente específico del rediseño generó la mejoría observada.",
+  "generadoPor": "claude-sonnet-4-5"
+}
