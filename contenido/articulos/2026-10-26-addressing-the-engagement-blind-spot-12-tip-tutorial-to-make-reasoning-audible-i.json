@@ -1,0 +1,78 @@
+{
+  "id": "2026-10-26-addressing-the-engagement-blind-spot-12-tip-tutorial-to-make-reasoning-audible-i",
+  "estado": "publicado",
+  "pmid": "42904377",
+  "doi": "10.2196/104702",
+  "titulo": "Addressing the Engagement Blind Spot: 12-Tip Tutorial to Make Reasoning Audible in Health Professions Education",
+  "tituloEs": "Razonamiento audible: cómo hacer visible el pensamiento clínico de los estudiantes",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Indran IR",
+    "Samarasekera DD"
+  ],
+  "fechaPublicacion": "2026 Oct 20",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42904377/",
+  "resumenOriginal": "Student engagement reforms have increased active learning in higher education. However, visible participation does not always require students to rehearse the spoken, interactive forms of reasoning central to professional practice, such as explaining one's thinking, responding to challenges, building on others' ideas, and working through uncertainty in real time. We describe this gap as an engagement blind spot. We define audible reasoning as the deliberate externalization of disciplinary or professional reasoning through spoken interaction so that its assumptions, evidence, uncertainty, and justification can be examined, challenged, revised, and developed collaboratively. It is particularly relevant in health professions education and also applies to laboratory-based and scientific disciplines where students must communicate their reasoning under conditions of uncertainty, scrutiny, and collaboration. Digital, hybrid, asynchronous, and AI-enabled learning environments sharpen this blind spot. Shared documents, online quizzes, discussion boards, and generative AI tools can support participation and access; however, they can also allow students to engage without speaking or to produce polished answers without making the underlying reasoning visible. In this context, educators need to ask not only whether students are engaged but also what behaviors they are rehearsing and whether their reasoning is available for examination and development. This tutorial offers 12 practical, evidence-informed tips developed iteratively from recurring challenges encountered in teaching, curriculum design, and faculty development and refined against selected literature. The tips are organized around 4 clusters covering the design of activities that require audible reasoning, the elicitation of reasoning in practice, the development of reasoning through listening and response, and the preservation of audible reasoning in digital and AI-enhanced environments. Across these 4 clusters, we suggest small but intentional shifts that help educators move from silent, constructive tasks toward audible, dialogic, and professionally relevant participation. These include designing tasks around uncertainty, creating low-stakes opportunities for spoken reasoning, using digital tools to surface and organize contributions for further discussion, structuring active listening and peer feedback, reviewing group dialogue formatively, and using conversational AI as a rehearsal partner rather than an authority. These strategies require attention to psychological safety, cultural responsiveness, accessibility, equity, privacy, data governance, and ongoing monitoring. Audible reasoning is not synonymous with speaking more, volunteering more frequently, or sounding fluent. Designing for audible reasoning is not simply an engagement strategy. It is a way of helping students practice the communicative and collaborative behaviors needed to explain, defend, question, and revise human judgment in clinical, scientific, and other professional contexts.",
+  "mesh": [
+    "Humans",
+    "Problem-Based Learning",
+    "Health Occupations",
+    "Thinking",
+    "Curriculum"
+  ],
+  "palabrasClave": [
+    "artificial intelligence",
+    "clinical reasoning",
+    "collaborative learning",
+    "educational technology",
+    "student engagement"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Diseñen tareas con incertidumbre",
+      "texto": "Planteen casos clínicos sin respuesta única, donde los estudiantes deban explicar su razonamiento diagnóstico y las limitaciones de la información disponible en voz alta."
+    },
+    {
+      "titulo": "Creen espacios de bajo riesgo",
+      "texto": "Organicen rondas de razonamiento en pequeños grupos antes de la presentación formal, donde equivocarse sea parte explícita del aprendizaje, no motivo de evaluación."
+    },
+    {
+      "titulo": "Usen IA como interlocutor de ensayo",
+      "texto": "Pidan a los estudiantes que expliquen su plan diagnóstico a un chatbot conversacional antes de discutirlo con ustedes, revisando después la calidad de su explicación."
+    },
+    {
+      "titulo": "Estructuren escucha activa entre pares",
+      "texto": "Asignen roles: un estudiante presenta su razonamiento, otro identifica supuestos implícitos y un tercero propone desafíos clínicos. Roten los roles en cada caso."
+    },
+    {
+      "titulo": "Revisen diálogos de grupo formativamente",
+      "texto": "Graben o documenten discusiones clínicas breves y revísenlas juntos, identificando momentos donde el razonamiento se hizo explícito o permaneció oculto."
+    }
+  ],
+  "sintesis": "Este tutorial propone 12 estrategias prácticas para que los estudiantes externalicen su razonamiento profesional mediante interacción hablada, permitiendo examinar supuestos, evidencia e incertidumbre. Aborda una brecha común: la participación visible no garantiza que los estudiantes practiquen formas de razonamiento esenciales para la práctica clínica.",
+  "aplicacionDocente": "Enfoquen la próxima ronda clínica en externalizar razonamiento: antes de dar la respuesta, pidan al residente que articule en voz alta sus hipótesis, grado de certeza y qué información necesitaría para decidir. No evalúen la respuesta final, sino la claridad con que comunican su proceso de pensamiento.",
+  "infografia": "/img/infografias/2026-10-26-addressing-the-engagement-blind-spot-12-tip-tutorial-to-make-reasoning-audible-i.png",
+  "disenoEstudio": "Tutorial basado en experiencia docente y literatura seleccionada",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Participar no es hablar más: es hacer audible el razonamiento bajo incertidumbre",
+  "etiquetas": [
+    "razonamiento clínico",
+    "docencia médica",
+    "aprendizaje activo",
+    "inteligencia artificial",
+    "comunicación profesional"
+  ],
+  "advertencia": "Tutorial basado en experiencia iterativa y literatura seleccionada; no presenta datos empíricos de efectividad de las estrategias propuestas.",
+  "generadoPor": "claude-sonnet-4-5"
+}

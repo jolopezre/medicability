@@ -1,0 +1,85 @@
+{
+  "id": "2026-10-26-advancing-clinical-integration-in-undergraduate-dental-education-through-ai-enab",
+  "estado": "publicado",
+  "pmid": "42895785",
+  "doi": "10.1080/10872981.2026.2750709",
+  "titulo": "Advancing clinical integration in undergraduate dental education through AI-enabled instructional design: a qualitative thematic analysis",
+  "tituloEs": "Inteligencia artificial como herramienta de diseño pedagógico en educación odontológica",
+  "revista": "Medical education online",
+  "autores": [
+    "Akturan S",
+    "Güdük ÖF",
+    "Berberoğlu İN",
+    "Ardıç Kemerkaya EÖ",
+    "Guraya SY"
+  ],
+  "fechaPublicacion": "2026 Dec 31",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42895785/",
+  "resumenOriginal": "Background: Despite growing interest in artificial intelligence (AI) in health professions education, qualitative evidence for integarting AI-supported instructional redesign on teaching practices and students' experiences in undergraduate dental education remains limited. The aim of this study was to explore the educational impact of AI-supported instructional redesign of lessons in undergraduate dental education.\n\nMethods: We conducted this inductive qualitative thematic analysis in an undergraduate dental education setting. Existing lessons were redesigned using AI-supported recommendations to strengthen alignment between learning objectives, authentic clinical contexts, and expected clinical outcomes. Data were collected through classroom observations and students' focus group discussions. An inductive thematic analysis was performed, and findings from multiple data sources were curated, collecetd, and triangulated to enhance credibility.\n\nResults: AI-supported instructional redesign transformed teaching by promoting authentic clinical scenarios, clinically oriented discussions, and explicit reasoning activities. Thematic analysis identified four interconnected themes: (1) a shift from teacher-centred knowledge delivery to facilitation of clinical reasoning; (2) transformation from passive attendance to active cognitive engagement; (3) building clinical meaning through authentic clinical contexts and collaborative dialogue; and (4) creating conditions for professional learning through psychological safety. AI functioned as a pedagogical design-support tool rather than replacing the educators' instructional role. Overall, the observed educational changes appeared to arise primarily from the pedagogical redesign enabled by AI-supported planning rather than from students' direct interaction with AI.\n\nConclusion: This study endorses the role of AI-supported instructional redesign in enriching the existing undergraduate dental curriculum. This approach can potentially help educators align learning objectives, instructional strategies, and authentic clinical contexts. The reported educational modifications reflect primarily the implementation of learner-centred and clinically oriented pedagogical strategies, with AI functioning as a design-support mechanism rather than as a direct instructional agent.\n\nAI supported educators in redesigning clinically oriented teaching.AI improved alignment between learning objectives and clinical outcomes.AI-supported teaching promoted active clinical reasoning.Authentic clinical contexts enhanced meaningful learning and knowledge transfer.AI-supported instructional redesign was feasible and educationally valuable.",
+  "mesh": [
+    "Education, Dental",
+    "Artificial Intelligence",
+    "Humans",
+    "Qualitative Research",
+    "Teaching",
+    "Focus Groups",
+    "Clinical Competence",
+    "Students, Dental",
+    "Learning"
+  ],
+  "palabrasClave": [
+    "Artificial intelligence",
+    "clinical integration",
+    "curriculum development",
+    "dental education",
+    "outcome-based education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "IA como asistente pedagógico",
+      "texto": "Utilicen IA generativa para revisar la alineación entre objetivos de aprendizaje, actividades instruccionales y competencias clínicas esperadas en vuestras sesiones actuales."
+    },
+    {
+      "titulo": "Contextos clínicos auténticos",
+      "texto": "Incorporen escenarios clínicos reales en cada sesión, usando IA para identificar casos representativos que conecten conocimiento básico con práctica clínica."
+    },
+    {
+      "titulo": "Facilitar versus transmitir",
+      "texto": "Rediseñen sesiones para facilitar razonamiento clínico explícito en lugar de transmitir conocimiento de forma unidireccional, promoviendo discusión clínica estructurada."
+    },
+    {
+      "titulo": "Seguridad psicológica deliberada",
+      "texto": "Creen condiciones explícitas de seguridad psicológica para que estudiantes expongan su razonamiento sin temor, permitiendo identificar y corregir errores formativamente."
+    },
+    {
+      "titulo": "IA no sustituye educadores",
+      "texto": "Entiendan que IA apoya el diseño instruccional, pero la interacción educativa, facilitación y modelaje clínico siguen siendo responsabilidad irreemplazable del docente."
+    }
+  ],
+  "sintesis": "Estudio cualitativo que exploró cómo el rediseño instruccional apoyado por IA transformó la enseñanza en odontología de pregrado. Se observó un cambio hacia facilitación del razonamiento clínico, mayor compromiso cognitivo activo y aprendizaje contextualizado mediante escenarios clínicos auténticos.",
+  "aplicacionDocente": "Comiencen revisando una sesión problema: usen una herramienta de IA para analizar si vuestros objetivos, actividades y evaluación están alineados con competencias clínicas reales. Después, rediseñen una actividad incorporando un caso clínico auténtico que requiera razonamiento explícito, y transformen vuestra clase expositiva en facilitación de discusión clínica.",
+  "infografia": "/img/infografias/2026-10-26-advancing-clinical-integration-in-undergraduate-dental-education-through-ai-enab.png",
+  "disenoEstudio": "Análisis temático cualitativo en educación odontológica de pregrado",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA como copiloto pedagógico: del aula centrada en contenidos al razonamiento clínico",
+  "etiquetas": [
+    "inteligencia artificial",
+    "diseño instruccional",
+    "razonamiento clínico",
+    "educación odontológica",
+    "aprendizaje contextualizado"
+  ],
+  "advertencia": "Estudio cualitativo en un solo contexto odontológico sin grupo comparador, lo que limita la generalización de hallazgos a otras disciplinas o instituciones.",
+  "generadoPor": "claude-sonnet-4-5"
+}

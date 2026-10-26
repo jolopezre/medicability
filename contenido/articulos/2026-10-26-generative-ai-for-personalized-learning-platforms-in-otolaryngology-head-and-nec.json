@@ -1,0 +1,86 @@
+{
+  "id": "2026-10-26-generative-ai-for-personalized-learning-platforms-in-otolaryngology-head-and-nec",
+  "estado": "publicado",
+  "pmid": "42896157",
+  "doi": "10.2196/91785",
+  "titulo": "Generative AI for Personalized Learning Platforms in Otolaryngology-Head and Neck Surgery Education: Scoping Review",
+  "tituloEs": "IA generativa en educacion medica: mapeo de aplicaciones en otorrinolaringologia",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Zhong JT",
+    "Cao ZZ",
+    "Zhou SH"
+  ],
+  "fechaPublicacion": "2026 Oct 19",
+  "tiposPublicacion": [
+    "Scoping Review",
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42896157/",
+  "resumenOriginal": "Background: Generative AI, including large language models (LLMs), may enable personalized learning in medical education. In otolaryngology-head and neck surgery (ear, nose, and throat [ENT]) education, AI may support knowledge retrieval, adaptive assessment, feedback, and scalable learning, but evidence remains fragmented.\n\nObjective: This scoping review aimed to map generative AI research in otolaryngology education; summarize applications, performance, benefits, and risks; and identify directions for AI-enabled personalized learning.\n\nMethods: We included English-language empirical studies, preprints, and technical or developmental evaluations published from 2017 through 2026 with direct relevance to professional ENT education; nonempirical publications and studies without a professional educational focus were excluded. PubMed, Embase, Web of Science, Scopus, ERIC, IEEE Xplore, and CINAHL were searched, supplemented by citation searching. The final search was conducted on July 6, 2026. Data were charted using a standardized form by 2 reviewers and synthesized through a 3-stage inductive thematic analysis, with third reviewer adjudication. No formal critical appraisal or meta-analysis was performed because of study heterogeneity.\n\nResults: A total of 42 studies published between 2023 and 2026 were included. Most were performance studies (n=33, 78.6%), followed by system development (n=3, 7.1%), educational intervention studies (n=3, 7.1%), surveys (n=2, 4.8%), and guideline development (n=1, 2.4%). Most studies evaluated question sets or model outputs rather than participants. Applications included knowledge retrieval, revision, board-style question practice, adaptive assessment, AI avatar-delivered instruction, and operative-planning support. Seven major thematic domains were identified: (1) educational support and learning enhancement; (2) learning outcomes, educational effectiveness, and pedagogical value; (3) model performance, accuracy, and variability; (4) assessment, examination readiness, and question-type sensitivity; (5) reliability, safety, and risks; (6) adoption, usability, and implementation barriers; and (7) advanced AI architectures and future educational design. Newer models performed strongly on selected structured knowledge tasks, but performance varied by task, difficulty, modality, and reasoning demands. Evidence remained heterogeneous and benchmarking focused, with only 3 educational interventions and limited evidence for sustained learning, clinical reasoning, or real-world outcomes. Hallucinations, unreliable sourcing, confidently incorrect outputs, and contextual and multimodal reasoning limitations supported supervised rather than autonomous use.\n\nConclusions: By moving beyond reviews centered on AI applications or model performance, this review provides an education-focused synthesis linking generative AI capabilities, learning outcomes, assessment, safety, implementation, and emerging architectures to the design of personalized learning in otolaryngology. Its contribution is a conceptual shift from evaluating standalone chatbots toward developing supervised, pedagogically governed, knowledge-grounded, and adaptive learning systems that preserve learner reasoning and expert oversight. These findings inform educators, curriculum designers, and developers when integrating generative AI into formative assessment, feedback, remediation, and personalized learning activities, while avoiding unsupported autonomous or high-stakes use. Future research should prioritize longitudinal educational outcomes, curriculum integration, higher-order reasoning, equitable implementation, and governance.",
+  "mesh": [
+    "Humans",
+    "Generative Artificial Intelligence",
+    "Otolaryngology",
+    "Large Language Models",
+    "Education, Medical"
+  ],
+  "palabrasClave": [
+    "ChatGPT",
+    "ENT education",
+    "generative AI",
+    "large language models",
+    "medical education",
+    "otolaryngology education",
+    "otolaryngology&#x2013;head and neck surgery",
+    "personalized learning",
+    "scoping review"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 34,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Uso supervisado obligatorio",
+      "texto": "No asignen actividades autonomas con IA generativa. Los modelos producen respuestas incorrectas con alta confianza y tienen limitaciones en razonamiento contextual y multimodal que exigen supervision docente."
+    },
+    {
+      "titulo": "Practica formativa con retroalimentacion",
+      "texto": "Usen IA para practicar preguntas tipo examen de certificacion con feedback inmediato. Reserven estas herramientas para actividades formativas de bajo riesgo, nunca para evaluaciones sumativas."
+    },
+    {
+      "titulo": "Preservar razonamiento del estudiante",
+      "texto": "Disenen actividades donde la IA apoye la recuperacion de conocimiento pero el estudiante mantenga el razonamiento clinico. Eviten que la herramienta sustituya el pensamiento critico."
+    },
+    {
+      "titulo": "Evaluar fuentes y exactitud",
+      "texto": "Entrenen a los estudiantes para verificar las salidas de IA contra fuentes confiables. Las alucinaciones (hallucinations) y referencias fabricadas son frecuentes incluso en modelos avanzados."
+    },
+    {
+      "titulo": "Comenzar con casos estructurados",
+      "texto": "Inicien con tareas de conocimiento factual estructurado antes de abordar razonamiento clinico complejo. El desempeno de los modelos varia segun tipo de pregunta y demanda cognitiva."
+    }
+  ],
+  "sintesis": "Revision de alcance de 42 estudios publicados entre 2023 y 2026 que evalua el uso de inteligencia artificial generativa en la ensenanza de otorrinolaringologia. Los modelos mostraron buen desempeno en tareas estructuradas de conocimiento, pero evidencia heterogenea y centrada en benchmarking, con solo tres intervenciones educativas y limitada evidencia de resultados sostenidos en razonamiento clinico.",
+  "aplicacionDocente": "Integren IA generativa como asistente supervisado en actividades formativas de bajo riesgo: practica de preguntas, revision de contenidos, planificacion operatoria. Mantengan gobierno pedagogico estricto, ensenando a los estudiantes a verificar salidas y preservando su razonamiento clinico. Eviten uso autonomo o evaluaciones sumativas hasta contar con mas evidencia sobre resultados educativos longitudinales.",
+  "infografia": "/img/infografias/2026-10-26-generative-ai-for-personalized-learning-platforms-in-otolaryngology-head-and-nec.png",
+  "disenoEstudio": "Revision de alcance de 42 estudios en educacion profesional de otorrinolaringologia",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA generativa: herramienta prometedora, supervision docente indispensable en educacion medica",
+  "etiquetas": [
+    "inteligencia artificial",
+    "educacion medica",
+    "otorrinolaringologia",
+    "aprendizaje personalizado",
+    "modelos de lenguaje"
+  ],
+  "advertencia": "Evidencia heterogenea centrada en desempeno de modelos, con solo tres estudios de intervencion educativa y sin datos sobre resultados longitudinales ni impacto en razonamiento clinico sostenido",
+  "generadoPor": "claude-sonnet-4-5"
+}

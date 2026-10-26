@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-26-comparative-analysis-of-large-language-model-and-faculty-rater-scoring-of-medica",
+  "estado": "publicado",
+  "pmid": "42921748",
+  "doi": "10.1093/acamed/wvag336",
+  "titulo": "Comparative analysis of large language model and faculty rater scoring of medical student documentation in objective structured clinical examinations",
+  "tituloEs": "Modelo de lenguaje (LLM) califica notas OSCE con consistencia moderada frente a docentes",
+  "revista": "Academic medicine : journal of the Association of American Medical Colleges",
+  "autores": [
+    "Nash CJ",
+    "Pau CY",
+    "Chahin N",
+    "Gruppen LD",
+    "Kogan JR",
+    "Thé TS"
+  ],
+  "fechaPublicacion": "2026 Oct 24",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42921748/",
+  "resumenOriginal": "Purpose: To evaluate whether a commercially available large language model (LLM) can score medical student post-encounter notes from Objective Structured Clinical Examinations (OSCEs) using an existing institutional rubric without task-specific model training and to characterize internal consistency and alignment with faculty scores using absolute agreement and rank-order association metrics.\n\nMethod: The dataset included 433 medical student notes from 7 standardized OSCE cases at the University of Kentucky. In November 2024, an LLM (OpenAI GPT-4o mini, via API) scored each note using a prompt-based workflow (no model fine-tuning) under two approaches: numerical score only (\"GPT-NE\", 30 iterations per note) and numerical score with rationale (\"GPT-E\", 4 iterations per note). The authors compared the LLM's performance against historical faculty grades using the same rubric, evaluating the reliability of grading methodologies and inter-modal agreement.\n\nResults: The LLM demonstrated high internal consistency for GPT-NE (intraclass correlation (ICC) = 0.94) and moderate-to-high consistency for GPT-E (ICC = 0.76). LLM scores were significantly lower than faculty scores (mean differences on a 1-4 scale: -1.12 GPT-NE, 95% CI -1.17 to -1.08; -0.65 GPT-E, 95% CI -0.69 to -0.61, both P < .001). Spearman rank-order correlations (r&#x2009;=&#x2009;0.43-0.53) indicate moderate preservation of relative student ranking despite differences in absolute scores.\n\nConclusions: The LLM demonstrated significant potential for automating OSCE note grading given its internal consistency and similar ranking of learners compared with faculty raters. Automation of grading could yield substantial time savings; however, discrepancies with absolute faculty scores underscore the need for further refinement of rubric alignment and grading methodologies.",
+  "mesh": [],
+  "palabrasClave": [
+    "Electronic Data Processing",
+    "Large Language Models",
+    "Medical Students",
+    "Reproducibility of Results",
+    "Undergraduate Medical Education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "IA en educación médica"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Calibrar antes de automatizar",
+      "texto": "Si consideran usar modelos de lenguaje para calificar notas clínicas, realicen primero una prueba piloto con una muestra de notas ya calificadas. Comparen no solo el puntaje promedio sino el orden relativo de estudiantes."
+    },
+    {
+      "titulo": "Ajustar expectativas de la rúbrica",
+      "texto": "Los modelos de lenguaje tienden a calificar más estrictamente que docentes. Revisen si su rúbrica permite interpretaciones ambiguas que humanos y máquinas resuelven diferente, y expliciten esos criterios."
+    },
+    {
+      "titulo": "Usar para preclasificación, no decisión final",
+      "texto": "El modelo preserva el ranking de estudiantes pero no el puntaje absoluto. Consideren usarlo para identificar notas que requieren revisión detallada, no como calificador único."
+    },
+    {
+      "titulo": "Aprovechar el ahorro de tiempo estratégicamente",
+      "texto": "La automatización libera tiempo docente. Redirijan ese tiempo a retroalimentación personalizada en casos límite o a discusión de razonamiento clínico, no solo a verificar puntajes."
+    },
+    {
+      "titulo": "Transparentar el proceso con estudiantes",
+      "texto": "Si implementan calificación asistida por modelos de lenguaje, comuniquen claramente cómo funciona, qué revisan docentes y cómo pueden apelar. La confianza depende de la transparencia del sistema."
+    }
+  ],
+  "sintesis": "Estudio comparó calificaciones de un modelo de lenguaje (GPT-4o mini) contra docentes en 433 notas post-encuentro de OSCE. El modelo mostró alta consistencia interna pero calificó sistemáticamente más bajo que los docentes, aunque preservó el orden relativo de estudiantes.",
+  "aplicacionDocente": "Pueden explorar herramientas de inteligencia artificial para preclasificar notas OSCE, liberando tiempo para retroalimentación cualitativa. Calibren el sistema contra calificaciones docentes previas y mantengan supervisión humana en casos ambiguos. Usen el ranking relativo que genera el modelo como filtro, no como veredicto final.",
+  "infografia": "/img/infografias/2026-10-26-comparative-analysis-of-large-language-model-and-faculty-rater-scoring-of-medica.png",
+  "disenoEstudio": "Estudio comparativo con 433 notas de 7 casos OSCE estandarizados",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Modelo de IA califica notas OSCE: consistente en ranking, estricto en puntaje absoluto",
+  "etiquetas": [
+    "osce",
+    "inteligencia artificial",
+    "evaluacion clinica",
+    "modelos de lenguaje",
+    "automatizacion"
+  ],
+  "advertencia": "Estudio en una sola institución con un modelo específico; la generalizabilidad a otros contextos y rúbricas requiere validación local.",
+  "generadoPor": "claude-sonnet-4-5"
+}

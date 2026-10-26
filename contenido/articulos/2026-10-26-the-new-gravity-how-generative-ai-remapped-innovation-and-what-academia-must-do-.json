@@ -1,0 +1,83 @@
+{
+  "id": "2026-10-26-the-new-gravity-how-generative-ai-remapped-innovation-and-what-academia-must-do-",
+  "estado": "publicado",
+  "pmid": "42896100",
+  "doi": "10.2196/89741",
+  "titulo": "The New Gravity: How Generative AI Remapped Innovation and What Academia Must Do Next",
+  "tituloEs": "Inteligencia artificial generativa en medicina: el rol docente de los centros académicos",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Akbarialiabad H",
+    "Grada A",
+    "Leachman SA",
+    "Rhew D",
+    "Haghighi A"
+  ],
+  "fechaPublicacion": "2026 Oct 19",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42896100/",
+  "resumenOriginal": "Artificial intelligence is rapidly reshaping clinical research, diagnostics, health system operations, and medical education. Frontier generative AI development is increasingly concentrated in private industry, whose computational infrastructure, proprietary datasets, and capital exceed those of most academic institutions. Although not designed exclusively for medicine, these systems increasingly influence clinical applications. This shift raises a question for academic medical centers (AMCs): What role remains when leading AI systems emerge outside universities? This viewpoint examines industry's growing role in generative AI, clarifies AMCs' responsibilities, and proposes a framework for AI governance and literacy across undergraduate, graduate, and continuing medical education (CME). Rather than compete with industry on computational scale, AMCs should reinforce functions for which AMCs have distinctive strengths. These include (1) mechanistic inquiry linking algorithmic outputs to biological and pathophysiologic understanding; (2) interdisciplinary synthesis integrating clinical, ethical, legal, and sociotechnical perspectives; (3) independent and methodologically rigorous validation of clinical AI tools; and (4) institutional stewardship of ethical governance for patient populations that are often underrepresented in commercial datasets. As nonprofit institutions training clinicians, AMCs have a distinct role in safeguarding transparency, fairness, and accountability in AI-enabled health care. We position this 4-role framework to refine AI governance and translational medicine approaches, clarifying which responsibilities AMCs should retain while collaborating with industry. The approach includes longitudinal AI literacy training across undergraduate medical education, graduate medical education, and CME, standardized pathways for evaluating clinical AI, stronger conflict-of-interest safeguards, and complementary partnerships with industry and regulators. We also outline educational assessment methods and safety-monitoring processes, including competency-based assessment across undergraduate medical education, graduate medical education, and CME, postdeployment monitoring, and clear escalation triggers. Embedding verification habits and governance into training and practice can help ensure that generative AI supports clinical reasoning while preserving trust, equity, and scientific rigor. This viewpoint addresses academic leaders, curriculum committees, residency directors, faculty developers, and accreditors. Safe clinical AI requires sustained academic leadership.",
+  "mesh": [
+    "Humans",
+    "Academia",
+    "Generative Artificial Intelligence",
+    "Academic Medical Centers",
+    "Artificial Intelligence"
+  ],
+  "palabrasClave": [
+    "AI",
+    "academic medical centers",
+    "education",
+    "generative AI",
+    "industry",
+    "innovation"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 32.5,
+  "semana": "2026-S44",
+  "descubiertoEl": "2026-10-26",
+  "publicadoEl": "2026-10-26",
+  "tips": [
+    {
+      "titulo": "Enseñen validación crítica",
+      "texto": "Incorporen en las rondas clínicas ejercicios donde los residentes cuestionen las salidas de herramientas de IA: '¿Qué evidencia respalda esta recomendación? ¿Qué sesgos puede tener el algoritmo?'"
+    },
+    {
+      "titulo": "Integren alfabetización en IA",
+      "texto": "Diseñen un currículo longitudinal desde pregrado hasta educación continua que enseñe cómo funcionan estos sistemas, sus limitaciones y su impacto en equidad y transparencia."
+    },
+    {
+      "titulo": "Establezcan gobernanza institucional",
+      "texto": "Creen comités que evalúen herramientas de IA antes de adoptarlas, con criterios claros de transparencia, equidad y conflictos de interés, especialmente para poblaciones subrepresentadas."
+    },
+    {
+      "titulo": "Vinculen IA con fisiopatología",
+      "texto": "Cuando usen herramientas diagnósticas basadas en IA, pidan a los estudiantes que expliquen el mecanismo biológico subyacente, no solo que acepten la salida del algoritmo."
+    },
+    {
+      "titulo": "Monitoreen después del despliegue",
+      "texto": "Implementen sistemas de seguimiento de herramientas de IA en uso clínico, con indicadores de seguridad y criterios claros para escalar problemas detectados."
+    }
+  ],
+  "sintesis": "Este artículo de opinión examina cómo la inteligencia artificial generativa, desarrollada principalmente por la industria privada, está transformando la práctica clínica. Propone que los centros médicos académicos asuman cuatro funciones distintivas: investigación mecanicista, síntesis interdisciplinaria, validación independiente y supervisión ética.",
+  "aplicacionDocente": "Los centros académicos no pueden competir en escala computacional con la industria, pero sí tienen ventaja en formar criterio clínico independiente. Incorporen en su currículo ejercicios de validación crítica de herramientas de IA, enseñen a los residentes a identificar sesgos algorítmicos y vinculen siempre las salidas de IA con razonamiento fisiopatológico.",
+  "infografia": "/img/infografias/2026-10-26-the-new-gravity-how-generative-ai-remapped-innovation-and-what-academia-must-do-.png",
+  "disenoEstudio": "Artículo de opinión dirigido a líderes académicos en educación médica",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "La IA generativa llegó para quedarse: formemos clínicos que la usen con criterio",
+  "etiquetas": [
+    "inteligencia artificial",
+    "educación médica",
+    "razonamiento clínico",
+    "gobernanza académica",
+    "alfabetización digital"
+  ],
+  "advertencia": "Artículo de opinión sin datos empíricos que respalden la efectividad de las estrategias propuestas",
+  "generadoPor": "claude-sonnet-4-5"
+}
