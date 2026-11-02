@@ -1,0 +1,81 @@
+{
+  "id": "2026-11-02-approaches-to-teaching-and-assessing-the-communication-of-uncertainty-in-the-hea",
+  "estado": "publicado",
+  "pmid": "42949089",
+  "doi": "10.1093/acamed/wvag342",
+  "titulo": "Approaches to teaching and assessing the communication of uncertainty in the health professions: a scoping review",
+  "tituloEs": "Comunicar incertidumbre: enseñanza dispersa, evaluación limitada, necesidad urgente de rigor",
+  "revista": "Academic medicine : journal of the Association of American Medical Colleges",
+  "autores": [
+    "Papanagnou D",
+    "Dahm MR",
+    "Adamczyk A",
+    "Saunders J",
+    "Wale J",
+    "Tominez P",
+    "Bierowski A",
+    "Ghei R",
+    "Morrone C",
+    "Pasirstein M",
+    "Santhosh L"
+  ],
+  "fechaPublicacion": "2026 Oct 28",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42949089/",
+  "resumenOriginal": "Purpose: Uncertainty is inherent to clinical practice and impacts diagnostic reasoning, patient safety, and trust. Despite its ubiquity, health professions education has not adequately prepared learners to communicate uncertainty to patients, families, and care teams. Training remains variable and unevenly assessed. The authors examined how uncertainty communication is taught and assessed across the health professions and identified gaps to inform curricular development and scholarship.\n\nMethod: The authors conducted a scoping review guided by Arksey and O'Malley's framework and reported according to PRISMA-ScR guidelines. Eligible studies included learners from any health profession and addressed communication of uncertainty with patients and/or clinicians. Commentaries and reviews were excluded. Searches were conducted in PubMed, Ovid MEDLINE, Scopus, ERIC, CINAHL, and MedEdPORTAL beginning in March 2024 through August 2026. Data were analyzed using inductive and deductive analysis informed by Han's uncertainty taxonomy. Study quality was assessed using the Medical Education Research Study Quality Instrument (MERSQI).\n\nResults: Searches identified 18,810 records. After screening, 213 full-text articles were reviewed and 21 were included in the final analysis. Most were conducted in the U.S. and published after 2019. Learners were predominantly physicians-in-training, with most studies focused on undergraduate and graduate medical education; fewer addressed continuing education or interprofessional learners. Diagnostic uncertainty was the most frequently addressed uncertainty type. Educational approaches were primarily experiential, including simulation, standardized patients, OSCEs, and role-playing. Fewer than half of studies involved patients in design, development, or assessment. Twenty studies assessed learners using self-reported surveys, faculty observations, or standardized patient evaluations. MERSQI scores ranged from 6.5 to 15.5 (mean 10.4). No study evaluated clinical practice or patient outcomes.\n\nConclusions: Educational approaches to uncertainty communication are emerging but remain limited in scope, learner populations, and outcome evaluation. Future work should prioritize interprofessional, longitudinal curricula and rigorous assessment strategies linking education to clinical and patient-level outcomes.",
+  "mesh": [],
+  "palabrasClave": [
+    "communication training",
+    "diagnostic uncertainty",
+    "health professions education",
+    "scoping review",
+    "uncertainty"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-02",
+  "publicadoEl": "2026-11-02",
+  "tips": [
+    {
+      "titulo": "Definan el tipo de incertidumbre",
+      "texto": "Antes de enseñar, aclaren si hablarán de incertidumbre diagnóstica, terapéutica o pronóstica. La taxonomía de Han ayuda a organizar casos clínicos según el origen de la duda."
+    },
+    {
+      "titulo": "Usen simulación como laboratorio",
+      "texto": "La mayoría de intervenciones efectivas empleó pacientes estandarizados o role-playing. Permiten repetir escenarios difíciles sin riesgo y dar retroalimentación inmediata."
+    },
+    {
+      "titulo": "Involucren pacientes en el diseño",
+      "texto": "Menos de la mitad de estudios incluyó pacientes en desarrollo curricular. Sus perspectivas sobre qué información necesitan pueden cambiar radicalmente los objetivos de aprendizaje."
+    },
+    {
+      "titulo": "No confíen solo en autoevaluación",
+      "texto": "Casi todos los estudios usaron encuestas de autopercepción. Complementen con observación directa o análisis de transcripciones de consultas reales."
+    },
+    {
+      "titulo": "Evalúen más allá del aula",
+      "texto": "Ningún estudio midió cambios en práctica clínica ni resultados en pacientes. Planteen seguimiento longitudinal: ¿cómo comunican incertidumbre tres meses después en ronda real?"
+    }
+  ],
+  "sintesis": "Revisión de alcance de 21 estudios sobre enseñanza de comunicación de incertidumbre en salud. Predominan métodos experienciales (simulación, pacientes estandarizados) en medicina de pregrado y posgrado. Ningún estudio evaluó impacto en práctica clínica o resultados en pacientes.",
+  "aplicacionDocente": "Incorporen comunicación de incertidumbre en casos de ronda identificando explícitamente el tipo de duda (diagnóstica, terapéutica). Diseñen simulaciones breves con retroalimentación sobre frases específicas. Inviten pacientes o familiares a validar qué información les resulta útil al enfrentar ambigüedad clínica.",
+  "infografia": "/img/infografias/2026-11-02-approaches-to-teaching-and-assessing-the-communication-of-uncertainty-in-the-hea.png",
+  "disenoEstudio": "Revisión de alcance con 21 estudios, principalmente en EE.UU., en educación médica de grado y posgrado",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Enseñamos a diagnosticar, pero no a decir 'no estoy seguro' con profesionalismo",
+  "etiquetas": [
+    "comunicacion clinica",
+    "incertidumbre",
+    "simulacion",
+    "evaluacion educativa",
+    "razonamiento diagnostico"
+  ],
+  "advertencia": "Estudios con calidad metodológica variable (MERSQI promedio 10.4/18) y sin medición de impacto en práctica clínica real.",
+  "generadoPor": "claude-sonnet-4-5"
+}

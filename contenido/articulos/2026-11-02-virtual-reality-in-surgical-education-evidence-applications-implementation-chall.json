@@ -1,0 +1,76 @@
+{
+  "id": "2026-11-02-virtual-reality-in-surgical-education-evidence-applications-implementation-chall",
+  "estado": "publicado",
+  "pmid": "42953415",
+  "doi": "10.2147/AMEP.S642019",
+  "titulo": "Virtual Reality in Surgical Education: Evidence, Applications, Implementation Challenges, and Future Directions",
+  "tituloEs": "Realidad virtual en educacion quirurgica: evidencia actual, aplicaciones y desafios de implementacion",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Huang P",
+    "Zeng JX",
+    "Zhan ZJ",
+    "Tang N",
+    "Chang S"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42953415/",
+  "resumenOriginal": "This narrative review examines the role of virtual reality (VR) in surgical education, including practice, assessment, rehearsal, and collaboration. It considers applications across neurosurgery, ophthalmology, orthopedics, spine surgery, laparoscopy, robotic surgery, and oral and maxillofacial surgery. Targeted searches of PubMed and Crossref covered January 1990 through July 20, 2026. Titles and abstracts were screened for relevance, and study selection was cross-checked by two authors; systematic reviews, meta-analyses, randomized trials, multicenter studies, and specialty-specific validation studies were prioritized. No independent formal assessment of evidence quality was performed. Evidence most consistently supports short-term knowledge and technical-skill acquisition, particularly in laparoscopy, ophthalmology, and selected orthopedic procedures. Transfer to supervised operative performance is supported for specific tasks, but patient-level evidence remains limited and should not be generalized across platforms or specialties. Effective use depends on curricular design, deliberate practice, feedback, proficiency standards, and validity evidence appropriate to the intended educational use. Persistent barriers include incomplete haptic fidelity, cybersickness, unequal access, total cost of ownership, faculty readiness, heterogeneous outcome measures, and limited external validation. Artificial intelligence may support automated assessment and adaptive instruction, while hybrid simulation, patient-specific modeling, remote learning, and multiplayer environments may broaden educational reach. These innovations require transparent validation, human oversight, and equity-focused implementation. VR should be adopted as a targeted component of blended surgical education rather than as a replacement for other simulation methods or supervised clinical experience.\n\nVirtual reality allows surgical learners to practice in an interactive computer-generated environment before performing procedures on patients. It can help learners understand three-dimensional anatomy, rehearse procedural steps, and receive feedback on their movements and errors. The most consistent evidence supports improvements in knowledge and technical skills. Some studies also show transfer to supervised surgery, especially in laparoscopy and cataract training, but these findings do not apply to every device or procedure. Programs should choose VR only when it solves a defined educational problem. They should combine it with expert feedback, other simulation methods, and supervised clinical training. Cost, motion sickness, limited touch sensation, accessibility, and the quality of performance measures must also be considered. Artificial intelligence and remote team training may make VR more personalized and widely available, but these uses still need transparent testing and educator oversight.",
+  "mesh": [],
+  "palabrasClave": [
+    "clinical transfer",
+    "competency assessment",
+    "haptic feedback",
+    "immersive learning",
+    "simulation-based medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-02",
+  "publicadoEl": "2026-11-02",
+  "tips": [
+    {
+      "titulo": "Integracion curricular dirigida",
+      "texto": "Adoptad realidad virtual solo cuando resuelva un problema educativo especifico. Combinadla con retroalimentacion docente, otras modalidades de simulacion y practica clinica supervisada, no como reemplazo."
+    },
+    {
+      "titulo": "Practica deliberada estructurada",
+      "texto": "Disenad sesiones con objetivos claros, estandares de competencia definidos y retroalimentacion sistematica. La evidencia mas solida respalda ganancias en habilidades cuando se usa practica deliberada y evaluacion formativa."
+    },
+    {
+      "titulo": "Validez de la evaluacion",
+      "texto": "Verificad que el simulador tenga evidencia de validez para el uso educativo previsto. No asumais que resultados de una plataforma o especialidad se transfieren automaticamente a otras."
+    },
+    {
+      "titulo": "Barreras de implementacion",
+      "texto": "Considerad costo total, fidelidad haptica incompleta, cinetosis, acceso desigual y preparacion docente antes de adoptar. Estas limitaciones afectan directamente la efectividad y equidad del programa."
+    },
+    {
+      "titulo": "Innovaciones emergentes supervisadas",
+      "texto": "Si incorporais inteligencia artificial o entrenamiento remoto, exigid validacion transparente y supervision docente. La personalizacion y el alcance ampliado requieren rigurosidad metodologica antes de implementacion generalizada."
+    }
+  ],
+  "sintesis": "Revision narrativa sobre realidad virtual en cirugia examina evidencia en multiples especialidades. Apoya mejoras en conocimiento y habilidades tecnicas a corto plazo, con transferencia documentada al quirofano en tareas especificas de laparoscopia y oftalmologia, pero la evidencia en resultados de pacientes es limitada.",
+  "aplicacionDocente": "Usad realidad virtual como componente focalizado en programas mezclados, no como solucion unica. Prioriza especialidades con mayor evidencia (laparoscopia, oftalmologia). Establece estandares de competencia, combina con retroalimentacion presencial y otras simulaciones. Evalua acceso, costo y preparacion docente antes de adoptar nuevas plataformas.",
+  "infografia": "/img/infografias/2026-11-02-virtual-reality-in-surgical-education-evidence-applications-implementation-chall.png",
+  "disenoEstudio": "Revision narrativa de estudios desde 1990 hasta julio 2026, priorizando revisiones sistematicas, ensayos aleatorizados y estudios de validacion",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Realidad virtual mejora habilidades quirurgicas pero requiere integracion curricular rigurosa",
+  "etiquetas": [
+    "simulacion quirurgica",
+    "realidad virtual",
+    "educacion medica",
+    "evaluacion de competencias",
+    "tecnologia educativa"
+  ],
+  "advertencia": "Revision narrativa sin evaluacion formal de calidad metodologica; evidencia de transferencia al quirofano y resultados en pacientes permanece limitada y no debe generalizarse entre plataformas o especialidades.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "2026-11-02-a-prospective-cohort-study-on-ultrasound-simulation-training-in-gynecology-and-o",
+  "estado": "publicado",
+  "pmid": "42947150",
+  "doi": "10.1186/s12909-026-10682-0",
+  "titulo": "A prospective cohort study on ultrasound simulation training in gynecology and obstetrics using pelvic, fetometry, and breast models",
+  "tituloEs": "Tres sesiones de simulacion mejoran conocimiento ecografico en estudiantes de pregrado",
+  "revista": "BMC medical education",
+  "autores": [
+    "Tüscher L",
+    "Weyers S",
+    "Arslan M",
+    "Fehm T",
+    "Borgmeier F",
+    "Jäger B",
+    "Helbig M",
+    "Banys-Paluchowski M",
+    "Cieslik J",
+    "Wadenpohl J",
+    "Neubacher M",
+    "Krawczyk N"
+  ],
+  "fechaPublicacion": "2026 Oct 27",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42947150/",
+  "resumenOriginal": "Background: Ultrasound is an essential diagnostic modality in modern medicine due to its wide availability, safety, and versatility. However, its diagnostic accuracy is highly dependent on operator proficiency. Despite growing recommendations from professional societies for early and structured ultrasound education, training often begins late and predominantly in clinical practice. Simulation-based ultrasound training offers a safe and standardized learning environment, particularly for intimate examinations in gynecology and obstetrics. This study aimed to evaluate the educational effectiveness of a mandatory ultrasound simulation training integrated into an undergraduate medical curriculum.\n\nMethods: In this prospective cohort study, n&#x2009;=&#x2009;143 fifth-year medical students enrolled in a mandatory obstetrics and gynecology module were allocated via a quasi-randomized approach to an intervention group or a waitlist-control group. The intervention consisted of three 20-min ultrasound simulation sessions using high-fidelity models for transvaginal sonography, fetometry, and breast ultrasound. Knowledge acquisition and self-efficacy were assessed using study-specific, pilot-tested pre- and post-intervention questionnaires. Group-level statistical analyses were performed to evaluate learning outcomes.\n\nResults: A total of 126 students completed the post-test (waitlist-control group n&#x2009;=&#x2009;55; intervention group n&#x2009;=&#x2009;71). Baseline characteristics and pre-test knowledge scores did not differ significantly between groups. After the intervention, the intervention group demonstrated a significantly greater increase in ultrasound knowledge compared to the waitlist-control group (p&#x2009;=&#x2009;.005). Participants reported high satisfaction with the training and increased self-confidence in ultrasound application. The majority (87%) expressed a desire for extended training duration.\n\nConclusions: Mandatory ultrasound simulation training significantly improves undergraduate medical students' ultrasound knowledge and self-confidence, even after short training interventions. These real-life evaluation data support simulation-based ultrasound education as an effective and feasible component of competency-based medical curricula.",
+  "mesh": [
+    "Humans",
+    "Obstetrics",
+    "Prospective Studies",
+    "Female",
+    "Gynecology",
+    "Education, Medical, Undergraduate",
+    "Clinical Competence",
+    "Simulation Training",
+    "Curriculum",
+    "Educational Measurement",
+    "Students, Medical",
+    "Ultrasonography"
+  ],
+  "palabrasClave": [
+    "Gynecology and obstetrics",
+    "Simulation-based learning",
+    "Ultrasound simulation",
+    "Undergraduate medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-02",
+  "publicadoEl": "2026-11-02",
+  "tips": [
+    {
+      "titulo": "Sesiones breves, resultados medibles",
+      "texto": "Tres sesiones de 20 minutos con simuladores de alta fidelidad pueden mejorar significativamente el conocimiento ecografico. Incorporen bloques cortos en rotaciones clinicas existentes."
+    },
+    {
+      "titulo": "Simulacion antes del paciente real",
+      "texto": "Usen simuladores para examenes intimos (ecografia transvaginal, mamaria) antes de la practica clinica. Reduce ansiedad del estudiante y protege dignidad del paciente."
+    },
+    {
+      "titulo": "Evaluen conocimiento y confianza",
+      "texto": "Midan tanto conocimiento tecnico como autoeficacia antes y despues del entrenamiento. Ambos parametros mejoran con simulacion estructurada."
+    },
+    {
+      "titulo": "Los estudiantes piden mas",
+      "texto": "El 87% solicito extension del entrenamiento. Consideren esto al disenar curriculos: la simulacion genera demanda de aprendizaje adicional."
+    },
+    {
+      "titulo": "Entrenamiento obligatorio funciona",
+      "texto": "La incorporacion obligatoria en el curriculo garantiza equidad en competencias basicas. No dependan solo de actividades optativas para habilidades esenciales."
+    }
+  ],
+  "sintesis": "Estudio prospectivo con 126 estudiantes de quinto ano evaluó un entrenamiento obligatorio de ecografia gineco-obstetrica mediante simuladores de alta fidelidad. Tras tres sesiones de 20 minutos, el grupo intervencion mostró mejoria significativa en conocimiento ecografico (p=0.005) y autoconfianza comparado con controles.",
+  "aplicacionDocente": "Integren bloques cortos de simulacion ecografica (20 minutos) en rotaciones de ginecologia y obstetricia. Prioricen simuladores para procedimientos intimos antes de exponer estudiantes a pacientes reales. Evaluen conocimiento y autoconfianza pre-post para documentar efectividad. Consideren extension progresiva segun demanda estudiantil.",
+  "infografia": "/img/infografias/2026-11-02-a-prospective-cohort-study-on-ultrasound-simulation-training-in-gynecology-and-o.png",
+  "disenoEstudio": "Estudio de cohorte prospectivo cuasi-aleatorizado en 126 estudiantes de medicina de quinto ano",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Una hora de simulacion ecografica mejora conocimiento y confianza en estudiantes",
+  "etiquetas": [
+    "simulacion clinica",
+    "ecografia",
+    "ginecologia y obstetricia",
+    "educacion de pregrado",
+    "autoeficacia"
+  ],
+  "advertencia": "Diseno cuasi-aleatorizado (no completamente aleatorizado) y cuestionarios especificos del estudio limitan generalizabilidad.",
+  "generadoPor": "claude-sonnet-4-5"
+}

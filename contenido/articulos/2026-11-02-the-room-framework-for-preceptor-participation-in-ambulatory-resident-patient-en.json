@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-02-the-room-framework-for-preceptor-participation-in-ambulatory-resident-patient-en",
+  "estado": "publicado",
+  "pmid": "42969771",
+  "doi": "10.1080/0142159X.2026.2752862",
+  "titulo": "The ROOM framework for preceptor participation in ambulatory resident-patient encounters",
+  "tituloEs": "Marco ROOM: como participar en consultas sin desplazar al residente",
+  "revista": "Medical teacher",
+  "autores": [
+    "Bayo-Awoyemi F",
+    "Chakyayil S"
+  ],
+  "fechaPublicacion": "2026 Nov 2",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42969771/",
+  "resumenOriginal": "What was the educational challenge? Ambulatory clinical preceptors routinely enter encounters that residents have already established with patients. Their participation creates opportunities for direct observation, teaching, and support, but can also unintentionally shift authority away from the resident. While existing ambulatory teaching frameworks guide case presentation, clinical reasoning, and feedback, there is less guidance for how preceptors should participate in the patient encounter itself.What was the solution and how was it implemented? We developed ROOM, a framework for approaching preceptor participation in ambulatory patient encounters as an intentional educational process. ROOM focuses on four moments: the purpose for entering, how roles are established, how the preceptor contributes to patient care and learning, and how ownership is reinforced with the resident.ROOM requires no additional resources and can be adapted to different models of ambulatory supervision. It provides a structure for navigating the competing priorities of supervision, learning, patient care, and resident autonomy.What lessons were learned and what are the next steps? ROOM requires evaluation across clinical and cultural contexts, including resident, preceptor, and patient perspectives.",
+  "mesh": [],
+  "palabrasClave": [
+    "Ambulatory education",
+    "clinical supervision",
+    "direct observation",
+    "graduate medical education",
+    "preceptorship",
+    "resident autonomy"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-02",
+  "publicadoEl": "2026-11-02",
+  "tips": [
+    {
+      "titulo": "Definir propósito de entrada",
+      "texto": "Antes de ingresar a la consulta, aclaren con el residente por qué entran: ¿para observar, resolver duda clínica específica o apoyar decisión terapéutica?"
+    },
+    {
+      "titulo": "Establecer roles al entrar",
+      "texto": "Presenten al residente como responsable principal ante el paciente. Eviten asumir automáticamente el control de la conversación o el examen físico."
+    },
+    {
+      "titulo": "Contribuir sin desplazar",
+      "texto": "Cuando aporten información o hagan pregunta al paciente, dirijan luego la conversación al residente para que integre esa información en su plan."
+    },
+    {
+      "titulo": "Reforzar propiedad del caso",
+      "texto": "Al finalizar, pidan al residente que resuma plan y próximos pasos ante el paciente, fortaleciendo su autonomía y responsabilidad."
+    },
+    {
+      "titulo": "Adaptar según modelo de supervisión",
+      "texto": "ROOM funciona en supervisión directa o indirecta. Ajusten intensidad de participación según complejidad del caso y nivel del residente."
+    }
+  ],
+  "sintesis": "Se propone ROOM, un marco para que preceptores participen intencionalmente en consultas ambulatorias lideradas por residentes, equilibrando supervisión, enseñanza y autonomía del residente sin desplazarlo del rol protagónico.",
+  "aplicacionDocente": "Usen ROOM esta semana en consulta ambulatoria: antes de entrar, definan con el residente el propósito; al entrar, preséntenlo como líder; contribuyan sin apropiarse del caso; al salir, pídanle que cierre el plan ante el paciente. Reflexionen después sobre cómo la intervención afectó su autonomía.",
+  "infografia": "/img/infografias/2026-11-02-the-room-framework-for-preceptor-participation-in-ambulatory-resident-patient-en.png",
+  "disenoEstudio": "Propuesta de marco conceptual para docencia ambulatoria",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Supervisar sin desplazar: cuatro momentos para participar en consultas de residentes",
+  "etiquetas": [
+    "docencia ambulatoria",
+    "autonomía del residente",
+    "supervisión clínica",
+    "marcos de enseñanza",
+    "roles docentes"
+  ],
+  "advertencia": "Marco propuesto sin evaluación empírica de su efectividad en distintos contextos clínicos o culturales",
+  "generadoPor": "claude-sonnet-4-5"
+}

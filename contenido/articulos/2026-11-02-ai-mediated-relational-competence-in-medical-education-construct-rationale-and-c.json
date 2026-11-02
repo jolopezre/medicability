@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-02-ai-mediated-relational-competence-in-medical-education-construct-rationale-and-c",
+  "estado": "publicado",
+  "pmid": "42954149",
+  "doi": "10.2196/105459",
+  "titulo": "AI-Mediated Relational Competence in Medical Education: Construct Rationale and Curriculum Maturity Framework",
+  "tituloEs": "Competencia relacional mediada por IA: nueva propuesta para educación médica",
+  "revista": "JMIR medical education",
+  "autores": [
+    "McGrath RJ"
+  ],
+  "fechaPublicacion": "2026 Oct 27",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42954149/",
+  "resumenOriginal": "AI is quickly becoming a foundational component of many clinical workflows. New tools are continually evolving to enable a host of functionalities, from ambient documentation to enhanced decision support, assistive diagnostic tools, risk prediction, patient triage, and patient communication. As a result, medical education has begun to address issues of AI literacy and the ethics of its use, including some work on competency frameworks, yet comparatively little attention has been given to the relational competencies clinicians require when AI increasingly mediates the patient encounter. Existing AI competency frameworks emphasize technical literacy, evaluation skills, and sometimes ethical awareness, yet the literature suggests that AI tools alter the structure of the patient-clinician relationship itself, raising questions about trust, transparency, empathic presence, and accountable human judgment. The empathy education literature has established that empathic communication is both teachable and assessable, and the AI competency literature has established that clinicians require new knowledge and skills for AI-enabled practice. These 2 bodies of work, however, remain insufficiently integrated. Medical education currently lacks a coherent competency framework for the relational work clinicians must perform when AI tools shape clinical information, communication, documentation, diagnosis, risk prediction, or treatment recommendations. This viewpoint proposes AI-mediated relational competence as a distinct construct for medical education, operationalized through 6 observable subcompetencies: empathic presence, trustworthiness, transparency in AI use, relational judgment, accountable human decision-making, and equity-aware trust-building. A complementary 5-level curriculum maturity model is introduced for evaluating whether medical schools move beyond curricular mention to systematic, competency-based implementation. Together, the construct and maturity framework are intended to provide the conceptual foundation for subsequent empirical work, including online curriculum assessment, national survey research, expert consensus validation, and competency-based assessment instrument development.",
+  "mesh": [
+    "Humans",
+    "Curriculum",
+    "Physician-Patient Relations",
+    "Artificial Intelligence",
+    "Education, Medical",
+    "Clinical Competence",
+    "Empathy"
+  ],
+  "palabrasClave": [
+    "AI",
+    "ambient AI scribe",
+    "competency-based medical education",
+    "curriculum assessment",
+    "empathy",
+    "medical education",
+    "patient-clinician relationship",
+    "shared decision-making",
+    "trust"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S45",
+  "descubiertoEl": "2026-11-02",
+  "publicadoEl": "2026-11-02",
+  "tips": [
+    {
+      "titulo": "Presencia empática con IA",
+      "texto": "Enseñad a mantener contacto visual y escucha activa mientras se usa documentación ambiental por IA. Modelad cómo revisar notas generadas sin perder conexión con el paciente."
+    },
+    {
+      "titulo": "Transparencia en uso de IA",
+      "texto": "Practicad con residentes frases para explicar a pacientes cuándo se usa apoyo diagnóstico por IA. Discutid en ronda cómo comunicar recomendaciones de sistemas predictivos sin delegar la decisión."
+    },
+    {
+      "titulo": "Juicio relacional sobre IA",
+      "texto": "En casos clínicos, preguntad: '¿Qué información contextual del paciente no captura este algoritmo de riesgo?' Entrenád a decidir cuándo la recomendación de IA no aplica a este paciente específico."
+    },
+    {
+      "titulo": "Construcción de confianza equitativa",
+      "texto": "Analizad con estudiantes cómo sesgos en datos de entrenamiento afectan poblaciones vulnerables. Enseñad a explicar limitaciones de herramientas predictivas según origen étnico o socioeconómico del paciente."
+    },
+    {
+      "titulo": "Responsabilidad humana final",
+      "texto": "Reforzad que el clínico firma la decisión, no la IA. En evaluaciones ECOE simulad escenarios donde el residente debe justificar seguir o rechazar una recomendación algorítmica ante el paciente."
+    }
+  ],
+  "sintesis": "Este artículo propone la competencia relacional mediada por IA como constructo educativo, con 6 subcompetencias observables (presencia empática, transparencia, juicio relacional, toma de decisiones responsable, construcción de confianza equitativa) y un modelo de madurez curricular de 5 niveles para evaluar su implementación en escuelas de medicina.",
+  "aplicacionDocente": "Evaluad si vuestro currículum solo menciona IA o entrena competencias relacionales específicas. Incorporad estas 6 subcompetencias en objetivos de rotaciones donde se use IA clínica. Diseñad rúbricas para evaluar presencia empática durante uso de documentación ambiental y transparencia al comunicar predicciones algorítmicas.",
+  "infografia": "/img/infografias/2026-11-02-ai-mediated-relational-competence-in-medical-education-construct-rationale-and-c.png",
+  "disenoEstudio": "Artículo de opinión (viewpoint) con propuesta de marco conceptual",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA clínica exige nuevas competencias relacionales, no solo técnicas",
+  "etiquetas": [
+    "inteligencia artificial",
+    "competencia relacional",
+    "empatía clínica",
+    "educación médica",
+    "currículum"
+  ],
+  "advertencia": "Es una propuesta conceptual sin validación empírica; requiere estudios de consenso experto, implementación curricular y desarrollo de instrumentos de evaluación.",
+  "generadoPor": "claude-sonnet-4-5"
+}
