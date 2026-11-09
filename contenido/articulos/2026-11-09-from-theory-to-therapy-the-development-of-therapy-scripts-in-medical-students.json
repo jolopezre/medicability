@@ -1,0 +1,88 @@
+{
+  "id": "2026-11-09-from-theory-to-therapy-the-development-of-therapy-scripts-in-medical-students",
+  "estado": "publicado",
+  "pmid": "42980832",
+  "doi": "10.1007/s00228-026-04213-5",
+  "titulo": "From theory to therapy: the development of therapy scripts in medical students",
+  "tituloEs": "Así desarrollan los estudiantes de medicina sus guiones terapéuticos durante la carrera",
+  "revista": "European journal of clinical pharmacology",
+  "autores": [
+    "Hartjes MG",
+    "de Rooij T",
+    "Khurshid F",
+    "Richir MC",
+    "van Agtmael MA",
+    "Tichelaar J"
+  ],
+  "fechaPublicacion": "2026 Nov 4",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42980832/",
+  "resumenOriginal": "Purpose: Therapeutic reasoning is a complex process prone to errors, particularly among junior doctors under time pressure. While experienced clinicians often rely on Type 1 (intuitive) thinking via therapy scripts, little is known about how these scripts develop during medical training. Insight into how therapy scripts develop and evolve could inform Clinical Pharmacology and Therapeutics (CPT) education and improve the safety of early-career prescribing.\n\nMethods: We carried out a qualitative think-aloud study with 15 medical students from years 2, 4, and 6. Students completed a diabetes case while verbalizing their reasoning, and then created a concept map and reflective questions. Transcripts were analysed using abductive thematic analysis, guided by Cook's therapy script framework and knowledge encapsulation theory. Concept maps were evaluated for structural complexity and richness of reasoning. Results were compared across the three groups of students, to investigate differences in therapy script development.\n\nResults: Therapy script development progressed from fragmented, mechanism-focused reasoning in second-year students to integrated, patient-centred reasoning in sixth-year students. Fourth-year students combined both forms of reasoning. Concept maps revealed that structural complexity and higher-level explanatory connections increased with training.\n\nConclusion: Therapy scripts develop gradually, with increasing integration and contextual sensitivity, during undergraduate medical training. Concept mapping supports reflection and reveals gaps in knowledge, complementing traditional teaching methods. Educational strategies that promote early, structured, and reflective reasoning may accelerate therapy script formation, improve metacognitive awareness, and reduce the gap between undergraduate training and safe, effective prescribing in clinical practice.",
+  "mesh": [
+    "Humans",
+    "Students, Medical",
+    "Education, Medical, Undergraduate",
+    "Pharmacology, Clinical",
+    "Clinical Reasoning",
+    "Female",
+    "Male",
+    "Thinking"
+  ],
+  "palabrasClave": [
+    "Clinical reasoning",
+    "Illness scripts",
+    "Knowledge encapsulation",
+    "Medical education",
+    "Prescribing",
+    "Therapeutic reasoning",
+    "Therapy scripts"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Error diagnóstico y metacognición",
+    "Docencia médica"
+  ],
+  "puntaje": 25.5,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-09",
+  "publicadoEl": "2026-11-09",
+  "tips": [
+    {
+      "titulo": "Mapeo conceptual en casos",
+      "texto": "Soliciten que los estudiantes dibujen un mapa conceptual después de resolver un caso clínico. Revela cómo conectan conocimiento farmacológico con decisiones terapéuticas y expone vacíos en su razonamiento."
+    },
+    {
+      "titulo": "Verbalización del razonamiento",
+      "texto": "Pidan a los estudiantes que piensen en voz alta mientras resuelven casos terapéuticos. Esto les ayuda a identificar si están usando razonamiento fragmentado o integrado, y mejora su metacognición."
+    },
+    {
+      "titulo": "Contextualizar desde temprano",
+      "texto": "Desde segundo año, vinculen la farmacología básica con pacientes reales. El razonamiento centrado en el paciente no emerge solo; requiere práctica estructurada desde ciclos básicos."
+    },
+    {
+      "titulo": "Reflexión guiada post-caso",
+      "texto": "Después de discutir un plan terapéutico, soliciten preguntas reflexivas escritas. Esto acelera la formación de guiones terapéuticos al promover integración consciente del conocimiento."
+    },
+    {
+      "titulo": "Evalúen complejidad progresiva",
+      "texto": "Comparen mapas conceptuales de estudiantes de diferentes niveles. Observarán evolución desde conexiones simples hacia redes integradas que reflejan madurez en razonamiento terapéutico."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con 15 estudiantes de medicina de segundo, cuarto y sexto año mostró que los guiones terapéuticos (therapy scripts) evolucionan desde razonamiento fragmentado centrado en mecanismos hacia razonamiento integrado centrado en el paciente. Los mapas conceptuales revelaron aumento progresivo de complejidad estructural y conexiones explicativas.",
+  "aplicacionDocente": "Incorporen mapas conceptuales y verbalización del razonamiento en sus sesiones de farmacología clínica. Estas herramientas hacen visible el proceso de construcción de guiones terapéuticos, permiten retroalimentación específica y promueven reflexión metacognitiva. Son especialmente útiles antes de que los estudiantes prescriban de manera autónoma.",
+  "infografia": "/img/infografias/2026-11-09-from-theory-to-therapy-the-development-of-therapy-scripts-in-medical-students.png",
+  "disenoEstudio": "Estudio cualitativo con think-aloud en 15 estudiantes de tres niveles académicos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Los guiones terapéuticos maduran de lo fragmentado a lo integrado durante la carrera",
+  "etiquetas": [
+    "razonamiento terapéutico",
+    "farmacología clínica",
+    "mapas conceptuales",
+    "metacognición",
+    "prescripción segura"
+  ],
+  "advertencia": "Muestra pequeña de un solo centro; hallazgos cualitativos requieren validación en contextos educativos diversos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

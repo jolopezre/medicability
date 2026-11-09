@@ -1,0 +1,75 @@
+{
+  "id": "2026-11-09-can-pre-clinical-examination-performance-identify-student-challenges-in-competen",
+  "estado": "publicado",
+  "pmid": "42976043",
+  "doi": "10.1080/0142159X.2026.2749548",
+  "titulo": "Can pre-clinical examination performance identify student challenges in competency-based medical education?",
+  "tituloEs": "Remediaciones preclinicas predicen dificultades futuras en educacion medica basada en competencias",
+  "revista": "Medical teacher",
+  "autores": [
+    "Anstey JE",
+    "Haedinger LA",
+    "Philipp TC",
+    "Schneider BN",
+    "Albright A",
+    "Carney PA",
+    "Pope BA"
+  ],
+  "fechaPublicacion": "2026 Nov 3",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42976043/",
+  "resumenOriginal": "Introduction: By design, frequent assessments occur in competency-based medical education to identify struggling learners, so early intervention can occur. We conducted a longitudinal evaluation of pre-clinical student remediations to explore whether patterns exist that can identify future testing performance.\n\nMethods: Five cohorts of medical students who matriculated between 2014 and 2018 were included. A trend analysis was conducted to explore test performance patterns that would identify students at risk of future remediation, and the odds of subsequent remediations were calculated. Associations between remediations, delaying USMLE Step 1, USMLE Step 1 scores, and pass rates were also assessed.\n\nResults: Over 600 students (n&#xa0;=&#xa0;612 of 758 or 80.7%) did not require remediation, and 146 of 758 students (19.3%) required one or more block remediations. Of these, 65 (44.5%) had a single remediation, and 81 (54%) remediated two to five blocks. The trend analysis did not identify any specific pattern over the course of the pre-clinical curriculum, although prior remediation did increase the odds of future struggles at the block level. Remediating any block was associated with needing extra study time to prepare for step 1, as well as an increased likelihood of failing step 1 on the first attempt. The number of remediations for a single student was not associated with higher rates of step 1 failure.\n\nDiscussion: In a competency-based curriculum, past remediation was associated with increased risk of future difficulties. However, broader approaches for remediation support beyond academic strategies may be needed, including social support and wellbeing. As most students who experienced remediation went on to successful careers, unexpected struggles can occur and foster students' growth.",
+  "mesh": [],
+  "palabrasClave": [
+    "Undergraduate medical education",
+    "competency-based medical education",
+    "remediating during pre-clinical years"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-09",
+  "publicadoEl": "2026-11-09",
+  "tips": [
+    {
+      "titulo": "Intervencion temprana no predictiva",
+      "texto": "No hay patrones especificos que predigan quien necesitara remediacion. Mantened sistemas de monitoreo continuo en lugar de buscar marcadores puntuales de riesgo."
+    },
+    {
+      "titulo": "Remediacion como indicador acumulativo",
+      "texto": "Estudiantes con una remediacion previa tienen mayor probabilidad de dificultades futuras a nivel de bloque. Activad seguimiento proactivo tras la primera remediacion."
+    },
+    {
+      "titulo": "Mas alla del rendimiento academico",
+      "texto": "La remediacion se asocia con necesitar mas tiempo de estudio para examenes nacionales. Considerad apoyo psicosocial y de bienestar, no solo estrategias academicas."
+    },
+    {
+      "titulo": "Numero de remediaciones no es pronostico",
+      "texto": "La cantidad de remediaciones no predice falla en Step 1. Evitad etiquetar estudiantes por numero de tropiezos; enfocaos en necesidades individuales."
+    },
+    {
+      "titulo": "Normalizad las dificultades academicas",
+      "texto": "La mayoria de estudiantes remediados completo exitosamente su carrera. Presentad la remediacion como oportunidad de crecimiento, no como estigma."
+    }
+  ],
+  "sintesis": "Estudio longitudinal de 758 estudiantes muestra que 19.3% requirio remediacion en bloques preclinicos. Haber remediado aumenta el riesgo de futuras dificultades y de necesitar tiempo extra para USMLE Step 1, pero la mayoria completo exitosamente su formacion.",
+  "aplicacionDocente": "Implementad sistemas de alerta tras la primera remediacion, pero no busqueis patrones predictivos rigidos. Ampliad el apoyo mas alla de lo academico: incluir bienestar emocional y redes de soporte. En retroalimentacion, enfatizad que dificultades puntuales no determinan la trayectoria profesional completa.",
+  "infografia": "/img/infografias/2026-11-09-can-pre-clinical-examination-performance-identify-student-challenges-in-competen.png",
+  "disenoEstudio": "Estudio de cohorte longitudinal de 5 promociones (758 estudiantes) entre 2014-2018",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Una remediacion no define el futuro: la mayoria de estudiantes completa exitosamente",
+  "etiquetas": [
+    "educacion basada en competencias",
+    "remediacion academica",
+    "evaluacion formativa",
+    "prediccion de desempeno",
+    "bienestar estudiantil"
+  ],
+  "advertencia": "Estudio de una sola institucion; patrones pueden variar segun diseno curricular y sistemas de apoyo locales",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-09-large-language-models-in-radiology-education-a-systematic-review-of-applications",
+  "estado": "publicado",
+  "pmid": "42998907",
+  "doi": "10.1067/j.cpradiol.2026.10.016",
+  "titulo": "Large language models in radiology education: a systematic review of applications and learning outcomes",
+  "tituloEs": "Modelos de lenguaje en educacion radiologica: materiales utiles, evidencia de aprendizaje limitada",
+  "revista": "Current problems in diagnostic radiology",
+  "autores": [
+    "Khashoggi KG",
+    "Khizindar HT"
+  ],
+  "fechaPublicacion": "2026 Nov 4",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42998907/",
+  "resumenOriginal": "Rationale and objectives: This systematic review aimed to map how large language models (LLMs) are used in radiology education, grade their reported outcomes, and appraise evidence quality.\n\nMaterials and methods: We searched PubMed, Europe PMC, and ERIC (November 2022-October 2026) for original studies of LLMs in the radiology education of medical students or residents, including educator-rated LLM materials intended for them. Two reviewers screened titles and abstracts independently. Studies were grouped by application, outcomes were graded with a modified Kirkpatrick framework, and quality was assessed with the Medical Education Research Study Quality Instrument (MERSQI).\n\nResults: Twenty-two studies (23 reports) were included. Twelve involved residents, five medical students, two mixed groups, and three had no learners. Applications were question generation (n&#x202f;=&#x202f;7), feedback on learners' work (n&#x202f;=&#x202f;6), content generation and tutoring (n&#x202f;=&#x202f;4), simulation or personalized curricula (n&#x202f;=&#x202f;2), and learners' own use (n&#x202f;=&#x202f;3). LLM-generated questions matched expert questions on recall items but were weaker on clinical-reasoning items, and their apparent quality partly depended on human selection. Report feedback was moderately to highly accurate and generally welcomed. Only three studies measured learning; the rest evaluated LLM output, learner reactions, or case exposure, and none measured behavior. Mean MERSQI was 9.6 of 18 (range 6.0-12.5); 18 studies were single-center, and one was randomized.\n\nConclusion: LLMs produce usable teaching materials, but evidence that they improve learning is limited and of low to moderate quality. They should be supervised until controlled multicenter studies are available.",
+  "mesh": [],
+  "palabrasClave": [
+    "ChatGPT",
+    "Large language models",
+    "Radiology education",
+    "Residency",
+    "Systematic review"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Simulación y retroalimentación",
+    "IA en educación médica"
+  ],
+  "puntaje": 25,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-09",
+  "publicadoEl": "2026-11-09",
+  "tips": [
+    {
+      "titulo": "Generacion de preguntas supervisada",
+      "texto": "Los LLMs producen preguntas de recuerdo comparables a las de expertos, pero fallan en razonamiento clinico. Seleccionen y revisen preguntas generadas antes de usarlas con estudiantes."
+    },
+    {
+      "titulo": "Retroalimentacion como complemento",
+      "texto": "La retroalimentacion automatizada por LLM puede ser moderadamente precisa y bien recibida. Usenla como primer paso, no como reemplazo de supervision docente directa."
+    },
+    {
+      "titulo": "Midan aprendizaje, no solo reaccion",
+      "texto": "La mayoria de estudios evaluo solo calidad de materiales o satisfaccion. Diseñen evaluaciones que midan cambio en conocimiento o desempeño clinico real."
+    },
+    {
+      "titulo": "Contexto monocentrico limita generalizacion",
+      "texto": "Dieciocho de 22 estudios fueron en un solo centro. Prueben intervenciones con LLM en su contexto antes de adoptarlas ampliamente."
+    },
+    {
+      "titulo": "Supervision hasta nueva evidencia",
+      "texto": "No hay estudios controlados multicentricos que demuestren mejoria en aprendizaje. Mantengan supervision humana en todo uso educativo de LLMs."
+    }
+  ],
+  "sintesis": "Revision sistematica de 22 estudios sobre uso de modelos de lenguaje (LLMs) en ensenanza de radiologia. Los LLMs generan materiales educativos utilizables, pero solo tres estudios midieron aprendizaje real. La calidad metodologica fue baja a moderada.",
+  "aplicacionDocente": "Pueden explorar LLMs para generar bancos de preguntas o borradores de retroalimentacion, siempre con revision previa. Eviten usarlos como tutores autonomos. Midan si mejoran aprendizaje en su programa antes de escalar. La ausencia de estudios controlados exige cautela y supervision continua.",
+  "infografia": "/img/infografias/2026-11-09-large-language-models-in-radiology-education-a-systematic-review-of-applications.png",
+  "disenoEstudio": "Revision sistematica de 22 estudios (estudiantes de medicina y residentes de radiologia)",
+  "nivelEvidencia": "bajo",
+  "fraseInfografia": "LLMs generan materiales educativos, pero falta evidencia solida de que mejoren aprendizaje",
+  "etiquetas": [
+    "modelos de lenguaje",
+    "educacion radiologica",
+    "inteligencia artificial",
+    "evaluacion educativa",
+    "tecnologia educativa"
+  ],
+  "advertencia": "Dieciocho estudios fueron monocentricos, solo uno fue aleatorizado, y la calidad metodologica promedio fue 9.6 de 18 puntos en MERSQI.",
+  "generadoPor": "claude-sonnet-4-5"
+}

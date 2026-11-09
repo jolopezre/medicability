@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-09-practical-versus-theoretical-teaching-of-abnormal-physical-examination-findings-",
+  "estado": "publicado",
+  "pmid": "42990811",
+  "doi": "10.2147/AMEP.S587294",
+  "titulo": "Practical versus Theoretical Teaching of Abnormal Physical Examination Findings to Medical Students: A Randomized Controlled Trial",
+  "tituloEs": "La práctica con simuladores mejora el aprendizaje del examen físico patológico en estudiantes",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Al-Suwaidi AM",
+    "Fernyhough LJ"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42990811/",
+  "resumenOriginal": "Introduction: Approximately 10% of diagnostic errors can be attributed to the physical examination portion of a clinical workup. Physical examination skills among medical students are deficient but what is deficient in the students' ability to examine is unclear. Teaching physical examination using task-trainers has been viewed positively but medical programs often lack dedicated task-trainer sessions for teaching abnormal physical examination. We hypothesize that teaching abnormal findings practically is better than teaching them theoretically.\n\nMethods: The study had two sections: survey and task-trainer sections. The survey was distributed to all medical college students. Many students proceeded to the task trainer section where they were randomized 1:1 to either a control (theoretical abnormal) or experimental (practical abnormal) session that covered cardiopulmonary physical examination. Task-trainer students performed pre- and post-intervention quizzes, an OSCE-style final evaluation, and a final survey.\n\nResults: Students overwhelmingly had positive comments regarding the session and suggested integrating them in preclinical years. Experimental arm students passed the OSCE-style evaluation at a significantly higher rate than control students (68.3% vs 33.3%, respectively). There is no statistically significant change in pre-post quiz scores between arms.\n\nConclusions: Compared to theoretically teaching abnormal findings, task trainer-based abnormal physical examination teaching increases the students' technique quality, ability to elicit findings, reasoning, and ability to diagnose correctly.",
+  "mesh": [],
+  "palabrasClave": [
+    "Physical examination",
+    "diagnosis",
+    "task-trainer"
+  ],
+  "temas": [
+    "Error diagnóstico y metacognición",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 27.5,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-09",
+  "publicadoEl": "2026-11-09",
+  "tips": [
+    {
+      "titulo": "Integrar simuladores tempranamente",
+      "texto": "Incorporar sesiones con simuladores de hallazgos anormales desde los años preclínicos, no solo en etapas tardías del currículo."
+    },
+    {
+      "titulo": "Priorizar técnica sobre conocimiento",
+      "texto": "El conocimiento teórico solo no mejora el rendimiento. Enfocarse en práctica deliberada de la técnica de exploración."
+    },
+    {
+      "titulo": "Evaluar con OSCE adaptado",
+      "texto": "Usar estaciones OSCE que evalúen no solo hallazgos sino calidad de técnica y razonamiento diagnóstico integrado."
+    },
+    {
+      "titulo": "Normalidad más patología",
+      "texto": "No asumir que los estudiantes aprenden hallazgos patológicos solo viendo casos normales; enseñarlos explícitamente."
+    },
+    {
+      "titulo": "Cardiopulmonar como punto de partida",
+      "texto": "Iniciar con sistemas cardiopulmonar donde los simuladores permiten reproducir hallazgos críticos de manera confiable."
+    }
+  ],
+  "sintesis": "Este ensayo aleatorizado comparó la enseñanza teórica versus práctica (con simuladores) de hallazgos anormales en examen cardiopulmonar. Los estudiantes que practicaron con simuladores aprobaron la evaluación OSCE a tasas significativamente mayores (68.3% vs 33.3%).",
+  "aplicacionDocente": "Solicitar tiempo con simuladores de hallazgos patológicos antes de las rotaciones clínicas. En la práctica, dedicar la primera exploración supervisada a técnica, no solo a identificar signos. Rediseñar evaluaciones para incluir ejecución de maniobras, no únicamente interpretación de casos escritos.",
+  "infografia": "/img/infografias/2026-11-09-practical-versus-theoretical-teaching-of-abnormal-physical-examination-findings-.png",
+  "disenoEstudio": "Ensayo controlado aleatorizado en estudiantes de medicina de pregrado",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Practicar hallazgos anormales con simuladores duplica la tasa de aprobación en OSCE",
+  "etiquetas": [
+    "examen físico",
+    "simulación clínica",
+    "evaluación osce",
+    "educación preclínica",
+    "habilidades diagnósticas"
+  ],
+  "advertencia": "El estudio no reporta tamaño muestral ni seguimiento a largo plazo de retención de habilidades.",
+  "generadoPor": "claude-sonnet-4-5"
+}

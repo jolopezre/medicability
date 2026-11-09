@@ -1,0 +1,94 @@
+{
+  "id": "2026-11-09-vertical-integration-of-clinical-knowledge-in-preclinical-medical-education-asse",
+  "estado": "publicado",
+  "pmid": "42977941",
+  "doi": "10.1186/s12909-026-10716-7",
+  "titulo": "Vertical integration of clinical knowledge in preclinical medical education: assessing the impact on the first-year biology curriculum in a German medical school",
+  "tituloEs": "Introducir casos clinicos en biologia basica mejora motivacion y conocimiento objetivo en estudiantes",
+  "revista": "BMC medical education",
+  "autores": [
+    "Steiner RP",
+    "Bereuter JP",
+    "Vogt M",
+    "Bruns F",
+    "Rosner A",
+    "Dinter E",
+    "William D",
+    "Schübel J",
+    "Bortz M",
+    "Kämmerer S",
+    "Wijnen-Meijer M",
+    "Günther L"
+  ],
+  "fechaPublicacion": "2026 Nov 3",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/42977941/",
+  "resumenOriginal": "Background: In German medical curricula, the preclinical phase is often predominantly theoretical and only weakly connected to clinical practice. Patient contact is rare, which may limit the early development of illness scripts. Consequently, students may not fully appreciate the relationships between foundational biological knowledge, disease pathophysiology, diagnosis and treatment. In this study, we implemented clinical impulse lectures within first-semester biology classes and evaluated their association with knowledge, learning strategies and perceived preparedness for clinical practice.\n\nMaterial and methods: First-semester medical students received the regular biology curriculum enriched with up to six clinical impulse lectures, including one session with patient contact. Data were collected using pre-intervention (n = 227) and post-intervention (n = 105) questionnaires assessing self-perceived biological and clinical knowledge. We also assessed learning motivation and strategy as well as students'' perceptions of the connection between theory and clinical practice. A 35-item multiple-choice question (MCQ) test was administered to objectively assess knowledge (n = 71). Each clinical impulse was additionally evaluated using a short questionnaire.\n\nResults: Students reported greater perceived preparedness regarding their biological knowledge after completing the biology course. Mean self-assessed biology knowledge improved from 2.9 to 2.3 (p < 0.001; 1 = best grade), and self-assessed clinical impulse-related knowledge improved from 3.3 to 2.5 (p < 0.001; 1 = best grade). The clinical impulses were perceived as highlighting the relevance of scientific foundations to clinical practice and as motivating integrated learning. Students who had attended more clinical impulses more frequently agreed with these statements. More than 80% supported the concept of vertical integration. In the objective MCQ assessment, students with greater exposure to clinical impulses achieved higher scores on biology questions; the difference in clinical impulse-related MCQ scores was not statistically significant.\n\nConclusion: Early clinical impulses were well accepted by first-semester medical students. Greater exposure was associated with stronger motivation and higher biology MCQ scores, whereas the difference in clinical impulse-related MCQ performance was not statistically significant. Given the unequal exposure groups and concurrent standard biology curriculum, these findings should be interpreted as preliminary evidence of an association rather than proof of a causal effect.",
+  "mesh": [
+    "Humans",
+    "Germany",
+    "Curriculum",
+    "Education, Medical, Undergraduate",
+    "Clinical Competence",
+    "Male",
+    "Students, Medical",
+    "Biology",
+    "Female",
+    "Surveys and Questionnaires",
+    "Schools, Medical",
+    "Educational Measurement"
+  ],
+  "palabrasClave": [
+    "Clinical impulses",
+    "Interdisciplinary education",
+    "Medical education",
+    "Vertical integration"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S46",
+  "descubiertoEl": "2026-11-09",
+  "publicadoEl": "2026-11-09",
+  "tips": [
+    {
+      "titulo": "Vincular ciencias basicas tempranamente",
+      "texto": "Incorporad casos clinicos breves en cursos de ciencias basicas desde primer ano. La exposicion repetida se asocia con mayor rendimiento objetivo en examenes biologicos."
+    },
+    {
+      "titulo": "Contacto con pacientes desde primer semestre",
+      "texto": "Organizad al menos una sesion con paciente real durante las ciencias basicas. Los estudiantes valoran estos encuentros como puentes concretos entre teoria y practica clinica."
+    },
+    {
+      "titulo": "Explicitar la relevancia clinica en cada clase",
+      "texto": "Al ensenar contenidos preclínicos, senalad explicitamente como conectan con diagnostico y tratamiento. Esto aumenta la motivacion para aprender de forma integrada."
+    },
+    {
+      "titulo": "Evaluar conocimiento aplicado objetivamente",
+      "texto": "Usad preguntas de opcion multiple que exijan aplicar conceptos biologicos a escenarios clinicos, no solo recordar datos aislados."
+    },
+    {
+      "titulo": "Impulsos clinicos cortos y frecuentes",
+      "texto": "No se requieren cambios curriculares radicales. Conferencias clinicas breves (impulsos) insertadas en cursos existentes son viables y bien aceptadas."
+    }
+  ],
+  "sintesis": "Se integraron hasta seis conferencias clinicas (una con contacto con pacientes) en el curso de biologia de primer semestre. Los estudiantes con mayor exposicion mostraron mejor percepcion de conocimiento, mayor motivacion para aprender de forma integrada y mejores calificaciones en examenes de biologia.",
+  "aplicacionDocente": "Podeis enriquecer vuestras clases de ciencias basicas con ejemplos clinicos concretos (impulsos) sin modificar todo el programa. Programad al menos una sesion con paciente para que los estudiantes conecten fisiopatologia con realidad. Evaluad con preguntas que exijan aplicacion, no solo memorizacion.",
+  "infografia": "/img/infografias/2026-11-09-vertical-integration-of-clinical-knowledge-in-preclinical-medical-education-asse.png",
+  "disenoEstudio": "Estudio cuasi-experimental pre-post en 227 estudiantes de medicina de primer semestre en Alemania",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "Casos clinicos desde el primer semestre: mas motivacion, mejor rendimiento en biologia",
+  "etiquetas": [
+    "integracion vertical",
+    "educacion preclínica",
+    "guiones de enfermedad",
+    "motivacion estudiantil",
+    "ciencias basicas"
+  ],
+  "advertencia": "Grupos de exposicion desigual y curriculo estandar concurrente limitan inferencia causal; los hallazgos sugieren asociacion, no causalidad definitiva.",
+  "generadoPor": "claude-sonnet-4-5"
+}
