@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-16-artificial-intelligence-and-clinical-reasoning-a-qualitative-study-with-general-",
+  "estado": "publicado",
+  "pmid": "43034204",
+  "doi": "10.1186/s12909-026-10736-3",
+  "titulo": "Artificial intelligence and clinical reasoning - a qualitative study with general practice trainees in Germany",
+  "tituloEs": "Inteligencia artificial en razonamiento clinico: perspectivas de residentes de medicina general",
+  "revista": "BMC medical education",
+  "autores": [
+    "Dreher AC",
+    "Sauer H",
+    "Altiner A",
+    "Schwill S"
+  ],
+  "fechaPublicacion": "2026 Nov 14",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43034204/",
+  "resumenOriginal": "Background: General practitioners face high complexity in clinical decision-making. Large language models (LLMs) may support clinical reasoning, but their impact on decision-making processes and postgraduate medical training remains unclear. This qualitative study aims to explore General Practice (GP) trainee's use of LLMs in clinical reasoning and their educational needs.\n\nMaterials and methods: GP trainees were recruited and interviewed with semi-structured interview-guide. Interviews were transcribed verbatim and analysed qualitatively.\n\nResults: Seventeen GP trainees participated (mean interview duration: 38&#xa0;min; range: 21-63&#xa0;min). AI was perceived as a tool to augment and accelerate clinical decision-making, while potential risks of deskilling were identified. Participants reported a lack of structured AI education and expressed a need for its integration into postgraduate training.\n\nDiscussion: Participants perceived AI primarily as a supportive tool that can complement clinical reasoning and improve access to medical knowledge. At the same time, they identified potential risks, including overreliance on AI-generated information and possible effects on the development of clinical expertise. These findings suggest that postgraduate medical training should address AI-related competencies, including critical appraisal, ethical responsibility and appropriate integration of AI into clinical decision-making.\n\nConclusion: AI is already part of clinical practice among GP trainees, offering opportunities to support learning and clinical reasoning while raising concerns about overreliance and critical appraisal. Postgraduate medical training in GP should therefore incorporate structured AI competencies to ensure responsible, reflective and patient-centered use of AI.",
+  "mesh": [
+    "Humans",
+    "Qualitative Research",
+    "General Practice",
+    "Female",
+    "Germany",
+    "Clinical Reasoning",
+    "Artificial Intelligence",
+    "Male",
+    "Clinical Competence",
+    "Adult",
+    "Large Language Models",
+    "Education, Medical, Graduate"
+  ],
+  "palabrasClave": [
+    "Artificial intelligence",
+    "Clinical reasoning",
+    "General practice",
+    "Large language models",
+    "Postgraduate medical education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "IA en educación médica"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Integrar IA en supervision clinica",
+      "texto": "Durante la ronda, discutir explicitamente cuando y por que un residente consulto IA. Contrastar la respuesta del modelo con el razonamiento clinico del equipo para desarrollar pensamiento critico."
+    },
+    {
+      "titulo": "Ensenar evaluacion critica de IA",
+      "texto": "Incluir ejercicios donde los residentes identifiquen errores o sesgos en respuestas generadas por IA. Esto fortalece su capacidad de apreciacion critica y reduce dependencia ciega."
+    },
+    {
+      "titulo": "Prevenir atrofia de habilidades",
+      "texto": "Establecer momentos de razonamiento sin tecnologia: presentar casos donde el residente debe pensar sin consultar IA primero, preservando desarrollo de expertise clinica autonoma."
+    },
+    {
+      "titulo": "Formalizar competencias en IA",
+      "texto": "Proponer curriculos que incluyan uso responsable de IA, limites eticos y aplicacion apropiada. No dejar el aprendizaje al azar o la experiencia individual."
+    },
+    {
+      "titulo": "Modelo de complementariedad",
+      "texto": "Ensenar IA como complemento, no sustituto. El juicio clinico final sigue siendo responsabilidad del medico; la IA acelera acceso a conocimiento pero no reemplaza pericia."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con 17 residentes de medicina general en Alemania explora como usan modelos de lenguaje avanzados (LLMs) en razonamiento clinico. Los residentes perciben la IA como herramienta de apoyo que acelera decisiones, pero identifican riesgos de dependencia excesiva y perdida de habilidades clinicas.",
+  "aplicacionDocente": "Iniciar conversaciones explicitas sobre uso de IA en las rondas: cuando la consultan, que respuestas obtienen, como las validan. Disenar ejercicios de contraste entre respuestas de IA y razonamiento propio. Proponer inclusion formal de competencias en IA dentro del programa de residencia.",
+  "infografia": "/img/infografias/2026-11-16-artificial-intelligence-and-clinical-reasoning-a-qualitative-study-with-general-.png",
+  "disenoEstudio": "Estudio cualitativo con 17 residentes de medicina general en Alemania",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA como aliada del razonamiento clinico: acelera decisiones pero exige pensamiento critico",
+  "etiquetas": [
+    "inteligencia artificial",
+    "razonamiento clinico",
+    "medicina general",
+    "educacion medica de posgrado",
+    "modelos de lenguaje"
+  ],
+  "advertencia": "Estudio cualitativo con muestra pequena en un solo pais; hallazgos no generalizables cuantitativamente",
+  "generadoPor": "claude-sonnet-4-5"
+}

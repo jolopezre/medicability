@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-16-application-of-an-artificial-intelligence-simulated-patient-model-in-teaching-ne",
+  "estado": "publicado",
+  "pmid": "43036210",
+  "doi": "10.62713/aic.4849",
+  "titulo": "Application of an Artificial Intelligence Simulated Patient Model in Teaching Neurosurgical Decision-Making",
+  "tituloEs": "Paciente simulado con IA mejora toma de decisiones en residentes de neurocirugía",
+  "revista": "Annali italiani di chirurgia",
+  "autores": [
+    "Ruan S",
+    "Ruan S",
+    "Wang J",
+    "Hu X",
+    "Guo T",
+    "Zhou J"
+  ],
+  "fechaPublicacion": "2026 Nov 10",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43036210/",
+  "resumenOriginal": "Aim: Training in neurosurgical decision-making remains a challenging component of standardized residency training. Traditional teaching models are limited in their ability to simulate the uncertainty and complexity encountered in real-world clinical scenarios. As a novel educational tool, the potential value of artificial intelligence (AI)-simulated patient models in surgical decision-making training requires further evaluation. This study aimed to explore the application of an AI-simulated patient model in neurosurgical decision-making education and to assess its effectiveness in improving residents' clinical decision-making abilities.\n\nMethods: A retrospective study was conducted involving 157 residents who underwent standardized residency training in the Department of Neurosurgery from January 2023 to April 2026. Based on the implementation of the AI-simulated teaching model beginning in January 2025, participants were divided into two groups according to the teaching model used: an experimental group (n = 72, receiving AI-simulated patient teaching from January 2025 to April 2026) and a control group (n = 85, receiving traditional case discussion teaching from January 2023 to December 2024). The experimental group used a large language model-based virtual patient system powered by DeepSeek to perform dialogue-driven history taking, image interpretation, surgical planning, and risk prediction with real-time feedback, while the control group received conventional methods. After teaching, an objective structured clinical examination (OSCE) was used to assess surgical decision-making across five dimensions, including localization diagnosis, surgical approach, risk identification, emergency management, and surgical timing, and a questionnaire was used to measure teaching satisfaction.\n\nResults: The total score for surgical decision-making ability was significantly higher in the experimental group than in the control group (p < 0.001). Dimensional analysis showed that localization diagnosis, surgical method selection, risk identification, emergency response, and surgical timing judgment were higher in the experimental group than in the control group (all p < 0.05). The excellent rate for each assessment dimension (>85 points) was significantly higher in the experimental group than in the control group (p < 0.05). The satisfaction score was also higher in the experimental group than in the control group (p < 0.001).\n\nConclusions: The AI-simulated patient model based on a general-purpose large language model was associated with better surgical decision-making performance among neurosurgery residents. It has significant advantages in localization diagnosis, surgical approach selection, risk identification, emergency response, and judgment of surgical timing, and is well accepted by residents.",
+  "mesh": [
+    "Artificial Intelligence",
+    "Humans",
+    "Retrospective Studies",
+    "Neurosurgery",
+    "Clinical Decision-Making",
+    "Internship and Residency",
+    "Neurosurgical Procedures",
+    "Patient Simulation"
+  ],
+  "palabrasClave": [
+    "artificial intelligence",
+    "medical education",
+    "neurosurgery",
+    "surgical decision making",
+    "virtual patient simulation"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación",
+    "IA en educación médica"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Diálogo en tiempo real",
+      "texto": "El modelo permitía interrogatorio guiado, interpretación de imágenes y planificación quirúrgica con retroalimentación inmediata, simulando la incertidumbre clínica real."
+    },
+    {
+      "titulo": "Evaluación estructurada multidominio",
+      "texto": "Usad OSCE para medir cinco dimensiones clave: diagnóstico por localización, selección de abordaje, identificación de riesgos, manejo de emergencias y decisión de momento quirúrgico."
+    },
+    {
+      "titulo": "Integración con casos reales",
+      "texto": "El sistema basado en lenguaje natural (DeepSeek) puede complementar la discusión de casos tradicional sin reemplazar la supervisión docente directa."
+    },
+    {
+      "titulo": "Medid satisfacción docente",
+      "texto": "La aceptación por residentes fue significativamente mayor con el modelo simulado, sugiriendo mejor adherencia al entrenamiento."
+    },
+    {
+      "titulo": "Enfoque en decisiones críticas",
+      "texto": "Priorizad escenarios donde el tiempo quirúrgico y la predicción de riesgo son variables clave, áreas donde el grupo experimental mostró ventaja clara."
+    }
+  ],
+  "sintesis": "Estudio retrospectivo con 157 residentes de neurocirugía comparó un modelo de paciente virtual basado en inteligencia artificial con la enseñanza tradicional. Los residentes que usaron el simulador mostraron mejor desempeño en razonamiento clínico quirúrgico y mayor satisfacción.",
+  "aplicacionDocente": "Considerad pilotar plataformas de paciente virtual para entrenar razonamiento quirúrgico fuera de quirófano. Diseñad rúbricas OSCE que evalúen no solo diagnóstico, sino secuencia decisional completa: desde localizar la lesión hasta decidir cuándo operar. Combinad simulación con debriefing presencial para cerrar brechas entre casos virtuales y pacientes reales.",
+  "infografia": "/img/infografias/2026-11-16-application-of-an-artificial-intelligence-simulated-patient-model-in-teaching-ne.png",
+  "disenoEstudio": "Estudio retrospectivo de 157 residentes de neurocirugía durante 3 años",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "IA simulada: residentes deciden mejor en 5 dominios críticos de neurocirugía",
+  "etiquetas": [
+    "inteligencia artificial",
+    "simulación clínica",
+    "razonamiento quirúrgico",
+    "residencia quirúrgica",
+    "evaluación OSCE"
+  ],
+  "advertencia": "Diseño retrospectivo sin aleatorización; grupos de períodos distintos pueden diferir en factores no controlados (efecto temporal).",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-16-exploring-educators-adaptive-expertise-faculty-development-for-healthcare-techno",
+  "estado": "publicado",
+  "pmid": "43013402",
+  "doi": "10.1080/0142159X.2026.2749542",
+  "titulo": "\"Exploring educators' adaptive expertise: Faculty development for Healthcare Technologists\"",
+  "tituloEs": "Cómo los tecnólogos en salud aprenden a enseñar sin formación pedagógica formal",
+  "revista": "Medical teacher",
+  "autores": [
+    "Salvatori I",
+    "Mylopoulos M",
+    "Mortari L",
+    "Silva R"
+  ],
+  "fechaPublicacion": "2026 Nov 11",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43013402/",
+  "resumenOriginal": "Introduction: Healthcare Technologist (HT) educators operate in complex educational environments at the intersection of advanced technology and patient care. Despite the pedagogical demands of their role, many HT educators enter teaching without formal training in education. This creates a mismatch between the pedagogical responsibilities they are expected to assume and the preparation available to support them. To address this gap, this study explores how HT educators develop their teaching capabilities, examining their experiences through the lens of adaptive expertise (AE).\n\nMethods: A qualitative study was conducted using semi-structured interviews with 40 HT educators involved in university-level education and clinical training in the Italian context. Participants were recruited through a criterion-based, network-mediated open invitation with voluntary self-selection. Data were analysed using inductive content analysis, followed by an AE-informed interpretive reading.\n\nResults: Preparedness for teaching was consistently described as an evolving outcome rather than a prerequisite for entering educational roles. Participants reported developing teaching competence through adaptive processes including experiential learning, reflective practice, observation of colleagues, and iterative refinement of strategies in response to learner needs and contextual constraints. Participants' accounts showed how adaptive processes helped educators translate clinical reasoning, ethical commitment, and situational judgement into flexible, learner-centred pedagogical practices. These adaptive practices also functioned as compensatory responses to structural limitations (resource scarcity, fragmented infrastructure, competing clinical responsibilities), supporting pedagogical continuity while also generating personal strain.\n\nDiscussion: The findings suggest that AE can inform faculty development for HT educators by supporting the adaptive capabilities through which teaching competence develops in practice. However, individual adaptability should not be expected to compensate for inadequate resources or institutional support. Faculty development should therefore be accompanied by protected teaching time, adequate infrastructure, and formal recognition of educational responsibilities.",
+  "mesh": [],
+  "palabrasClave": [
+    "Adaptive expertise",
+    "clinical teaching",
+    "faculty development",
+    "health professions education research",
+    "healthcare technologists"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica"
+  ],
+  "puntaje": 29,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Normalicen la pedagogía como proceso",
+      "texto": "Comuniquen explícitamente que la competencia docente se construye en la práctica, no antes de llegar. Esto reduce ansiedad en docentes clínicos nuevos y legitima el aprendizaje continuo."
+    },
+    {
+      "titulo": "Estructuren la reflexión deliberada",
+      "texto": "Integren espacios protegidos para analizar episodios de enseñanza: qué funcionó, qué ajustar. La reflexión informal es valiosa pero insuficiente sin tiempo institucional dedicado."
+    },
+    {
+      "titulo": "Faciliten observación entre pares",
+      "texto": "Organicen observaciones mutuas de rondas o seminarios. Los tecnólogos aprenden viendo cómo colegas adaptan estrategias a distintos estudiantes y contextos clínicos."
+    },
+    {
+      "titulo": "No deleguen todo a resiliencia individual",
+      "texto": "Exijan tiempo protegido para docencia, infraestructura adecuada y reconocimiento formal. La adaptabilidad del docente no debe compensar deficiencias institucionales crónicas."
+    },
+    {
+      "titulo": "Vinculen razonamiento clínico con pedagógico",
+      "texto": "Ayuden a tecnólogos a traducir su juicio clínico y compromiso ético en decisiones de enseñanza flexibles, centradas en el estudiante y sensibles al contexto."
+    }
+  ],
+  "sintesis": "Estudio cualitativo con 40 educadores tecnólogos en salud en Italia mostró que desarrollan competencia docente mediante aprendizaje experiencial, reflexión y adaptación iterativa a las necesidades de estudiantes y contextos clínicos. La preparación pedagógica emerge como proceso continuo, no como requisito previo.",
+  "aplicacionDocente": "Si coordinan docentes clínicos sin formación pedagógica, diseñen instancias para reflexión estructurada y observación entre pares. Negocien con administración tiempo protegido para enseñanza. Expliciten que aprender a enseñar es legítimo, continuo y requiere más que buena voluntad individual.",
+  "infografia": "/img/infografias/2026-11-16-exploring-educators-adaptive-expertise-faculty-development-for-healthcare-techno.png",
+  "disenoEstudio": "Estudio cualitativo con 40 educadores tecnólogos en salud en universidades y contextos clínicos italianos",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "La competencia docente en tecnólogos clínicos se construye adaptando, no llegando lista",
+  "etiquetas": [
+    "desarrollo docente",
+    "tecnólogos en salud",
+    "experticia adaptativa",
+    "aprendizaje experiencial",
+    "reflexión pedagógica"
+  ],
+  "advertencia": "Contexto italiano específico y muestra autoseleccionada pueden limitar transferibilidad a otros sistemas de salud y educación.",
+  "generadoPor": "claude-sonnet-4-5"
+}

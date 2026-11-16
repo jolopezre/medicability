@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-16-from-competence-to-expertise-the-role-of-meaningful-experience-in-physician-trai",
+  "estado": "publicado",
+  "pmid": "43003396",
+  "doi": "10.2196/106585",
+  "titulo": "From Competence to Expertise: The Role of Meaningful Experience in Physician Training",
+  "tituloEs": "La experiencia clínica significativa: factor crítico para la formación del experto",
+  "revista": "JMIR medical education",
+  "autores": [
+    "Dubosh NM",
+    "Iyer AA",
+    "Schwartzstein RM"
+  ],
+  "fechaPublicacion": "2026 Nov 9",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43003396/",
+  "resumenOriginal": "The fundamental goal of medical education is to develop physicians who can independently provide safe and effective patient care. This requires learners to acquire not only knowledge but also meaningful experience to progress along the continuum from novice to expert. In the last several decades, however, medical education has undergone numerous transformations that have resulted in decreased clinical experience for medical students and residents alike. These transformations include the increasing complexity of health care delivery in the inpatient and outpatient settings; duty hour restrictions; and the explosion of digital technologies, including the electronic health record and AI. Additionally, the introduction and broad acceptance of competency-based medical education, which is focused on demonstrable behaviors rather than the time spent in training, risks exacerbating this loss of meaningful clinical experience if implemented without attention to trainees' need for clinical volume, variation, and redundancy. While these changes in the number and intensity of patient encounters in educational programs are multifactorial in origin, when combined, they jeopardize the acquisition of experience, the development of expertise, and the resulting quality of patient care. In this Viewpoint, our aim is to discuss the importance of meaningful experience in the development of expertise; highlight threats to its achievement resulting from the intersection of 3 transformations affecting medical training (the increased complexity of 21st-century health care systems, expansion of the electronic medical record and AI, and flawed understanding of the full implications of competency-based medical education as presently implemented); and present solutions for medical educators, academic institutions, and accrediting bodies. Our views are based on our perspectives and observations, as well as insights from the literature.",
+  "mesh": [
+    "Humans",
+    "Clinical Competence",
+    "Competency-Based Education",
+    "Education, Medical"
+  ],
+  "palabrasClave": [
+    "AI",
+    "artificial intelligence",
+    "clinical reasoning",
+    "competency-based medical education",
+    "deskilling",
+    "digital technologies",
+    "experience",
+    "expertise",
+    "graduate medical education"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 28.5,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Auditen volumen clínico real",
+      "texto": "Registren cuántos pacientes atiende cada residente semanalmente y comparen con hace 10 años. La caída del volumen compromete la transición novato-experto."
+    },
+    {
+      "titulo": "Variedad, no solo cantidad",
+      "texto": "Aseguren exposición a casos diversos y repetidos. La redundancia clínica no es desperdicio: es el mecanismo por el cual se consolidan patrones de razonamiento experto."
+    },
+    {
+      "titulo": "Competencias con tiempo adecuado",
+      "texto": "Si usan educación basada en competencias, definan estándares mínimos de volumen de casos. Las conductas observables requieren horas de contacto clínico para consolidarse."
+    },
+    {
+      "titulo": "Limiten carga administrativa digital",
+      "texto": "Cuantifiquen cuánto tiempo gastan residentes en documentación versus atención directa. Busquen estrategias para restaurar balance hacia el paciente."
+    },
+    {
+      "titulo": "Protejan encuentros formativos",
+      "texto": "Identifiquen cuáles actividades clínicas aportan más experiencia significativa y protéjanlas de interrupciones administrativas o digitales durante la formación."
+    }
+  ],
+  "sintesis": "Este artículo tipo Viewpoint analiza cómo múltiples transformaciones recientes en educación médica han reducido la experiencia clínica de estudiantes y residentes. Identifica tres amenazas principales: complejidad de sistemas de salud modernos, expansión de registros electrónicos e IA, e implementación deficiente de la educación basada en competencias.",
+  "aplicacionDocente": "Evalúen si su programa privilegia demostración de competencias sobre acumulación de experiencia clínica. Revisen si residentes tienen suficiente volumen, variedad y repetición de casos para transitar hacia el pensamiento experto. Consideren que un currículo basado en competencias sin garantía de experiencia clínica significativa puede formar médicos técnicamente aptos pero con razonamiento clínico inmaduro.",
+  "infografia": "/img/infografias/2026-11-16-from-competence-to-expertise-the-role-of-meaningful-experience-in-physician-trai.png",
+  "disenoEstudio": "Artículo de opinión basado en observaciones clínicas y revisión de literatura",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Sin experiencia clínica suficiente, la competencia demostrada no garantiza experticia",
+  "etiquetas": [
+    "educación basada en competencias",
+    "experiencia clínica",
+    "formación médica",
+    "razonamiento clínico",
+    "carga administrativa"
+  ],
+  "advertencia": "Artículo de opinión sin datos empíricos originales; las observaciones requieren validación con estudios comparativos sobre desenlaces clínicos.",
+  "generadoPor": "claude-sonnet-4-5"
+}

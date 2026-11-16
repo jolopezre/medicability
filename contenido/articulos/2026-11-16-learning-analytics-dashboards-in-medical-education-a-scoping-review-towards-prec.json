@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-16-learning-analytics-dashboards-in-medical-education-a-scoping-review-towards-prec",
+  "estado": "publicado",
+  "pmid": "43036271",
+  "doi": "10.1111/medu.70354",
+  "titulo": "Learning analytics dashboards in medical education: A scoping review towards precision education",
+  "tituloEs": "Tableros de analítica de aprendizaje en educación médica: descriptivos, poco evaluados",
+  "revista": "Medical education",
+  "autores": [
+    "Ng O",
+    "Tan EX",
+    "Lim HJM",
+    "Ng BK",
+    "Tan E"
+  ],
+  "fechaPublicacion": "2026 Nov 16",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43036271/",
+  "resumenOriginal": "Introduction: Medical education is increasingly expected to support personalised, adaptive and lifelong learning. In response, learning analytics dashboards (LAD) have been introduced to visualise learner data and support decision making. However, despite growing interest, little is known about how these dashboards are used in practice and their contributions to broader educational approaches. This study uses two complementary frameworks, Daniel's analytics classification (descriptive, predictive and prescriptive) and Cook et al.'s typology of educational research (description, justification and clarification) to examine the landscape of LAD research in the medical education and understand how it supports personalised, data-informed learning.\n\nMethods: We conducted a scoping review of the literature on LAD in medical education by applying the framework described by Arksey and O'Malley and as informed by Levac et al. We performed a search across multiple databases of English-language studies of LAD in undergraduate medical education, published up to July 2025. Data were extracted and organised according to dashboard functionality and research orientation. The studies were analysed according to dashboard functionality and research orientation within their educational contexts. We reported these findings following PRISMA-ScR guidelines.\n\nResults: A total of 20 studies were included. The included studies were predominantly descriptive in both analytics' functionality (n&#x2009;=&#x2009;16) and research orientation (n&#x2009;=&#x2009;16), with most reporting the design, development and/or implementation of LAD in medical education. Dashboards were mainly used for assessment and performance monitoring (n&#x2009;=&#x2009;11), feedback (n&#x2009;=&#x2009;5) and curriculum and engagement monitoring (n&#x2009;=&#x2009;4). Only three studies examined whether LAD improved learner or programme outcomes, and none clearly explained the mechanisms through which LAD influenced learning.\n\nDiscussion: LAD research and functionality in medical education appear to remain at an early stage of educational maturity. Although LAD are often positioned as tools for personalised and data-informed learning, the current literature remains focused mainly on data visibility, monitoring and usability. This suggests a gap between the intended educational potential of LAD and how they are currently designed and evaluated in relation to precision education.",
+  "mesh": [],
+  "palabrasClave": [],
+  "temas": [
+    "Docencia médica",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 28,
+  "semana": "2026-S47",
+  "descubiertoEl": "2026-11-16",
+  "publicadoEl": "2026-11-16",
+  "tips": [
+    {
+      "titulo": "Monitoreo no es feedback",
+      "texto": "Un tablero que muestre datos de desempeño no garantiza aprendizaje. Diseñen intervenciones que conviertan la visualización de datos en conversaciones formativas con el estudiante."
+    },
+    {
+      "titulo": "Evalúen impacto, no solo usabilidad",
+      "texto": "Si usan un tablero de analítica, documenten si mejora el razonamiento clínico o el rendimiento del estudiante, no solo si es fácil de usar."
+    },
+    {
+      "titulo": "Expliquen el mecanismo educativo",
+      "texto": "Cuando presenten un tablero, especifiquen cómo se supone que los datos mostrados cambian el comportamiento del estudiante o del docente."
+    },
+    {
+      "titulo": "Personalización requiere más que datos",
+      "texto": "Un dashboard no personaliza el aprendizaje por sí solo. Necesitan un plan pedagógico que conecte los datos con intervenciones adaptadas a cada estudiante."
+    },
+    {
+      "titulo": "Comenzar con preguntas docentes",
+      "texto": "Antes de adoptar un tablero, identifiquen qué decisión docente específica necesitan tomar mejor. Los datos sin pregunta clara no mejoran la enseñanza."
+    }
+  ],
+  "sintesis": "Esta revisión de alcance incluyó 20 estudios sobre tableros de analítica de aprendizaje (learning analytics dashboards) en educación médica de pregrado. La mayoría se centró en describir diseño e implementación; solo tres evaluaron si mejoraban resultados educativos, y ninguno explicó mecanismos de acción.",
+  "aplicacionDocente": "Si están considerando un tablero de analítica, resistan la tentación de adoptarlo solo por novedad. Definan primero qué decisión docente quieren mejorar, diseñen cómo los datos se convertirán en acción educativa, y comprometan recursos para evaluar si realmente cambia el aprendizaje del estudiante.",
+  "infografia": "/img/infografias/2026-11-16-learning-analytics-dashboards-in-medical-education-a-scoping-review-towards-prec.png",
+  "disenoEstudio": "Revisión de alcance de 20 estudios sobre tableros de analítica en pregrado médico",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Tableros de analítica en medicina: muchos datos, poca evidencia de impacto educativo",
+  "etiquetas": [
+    "analítica de aprendizaje",
+    "tecnología educativa",
+    "educación personalizada",
+    "evaluación formativa",
+    "pregrado médico"
+  ],
+  "advertencia": "La mayoría de estudios solo describe diseño e implementación; faltan evaluaciones rigurosas de impacto en el aprendizaje.",
+  "generadoPor": "claude-sonnet-4-5"
+}
