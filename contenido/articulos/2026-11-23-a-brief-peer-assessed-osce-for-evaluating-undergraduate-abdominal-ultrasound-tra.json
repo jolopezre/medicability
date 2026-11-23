@@ -1,0 +1,90 @@
+{
+  "id": "2026-11-23-a-brief-peer-assessed-osce-for-evaluating-undergraduate-abdominal-ultrasound-tra",
+  "estado": "publicado",
+  "pmid": "43046050",
+  "doi": "10.1186/s12909-026-10782-x",
+  "titulo": "A brief peer-assessed OSCE for evaluating undergraduate abdominal ultrasound training: a three-cohort psychometric study",
+  "tituloEs": "OSCE breve por pares para evaluar ecografía abdominal: estudio psicométrico en tres cohortes",
+  "revista": "BMC medical education",
+  "autores": [
+    "Pfeil S",
+    "Iasevoli M",
+    "Recker F"
+  ],
+  "fechaPublicacion": "2026 Nov 16",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43046050/",
+  "resumenOriginal": "Background: Much of undergraduate ultrasound teaching takes place in student-led, near-peer courses, but learners' skills are rarely re-assessed once such a course is established. Full objective structured clinical examinations (OSCEs) often exceed the resources of these programmes, and brief peer-assessed formats need evidence before their scores can be interpreted. We examined which interpretations are justified, and for which purpose.\n\nMethods: Psychometric observational study of three consecutive cohorts (2025 to 2026) of a three-day, student-led basic abdominal ultrasound course for fifth-semester medical students at one German faculty. Participation was voluntary. Each student completed two 10-minute stations on two of seven randomly allocated organs, scored on 13 criteria (maximum 14 points) by trained student tutors; a subsample was rated independently by two examiners. The primary question was whether aggregated criterion- and organ-level results are stable enough to inform course review. Supporting objectives concerned the interpretation of individual scores, the relation to a 15-item knowledge test and delivery.\n\nResults: One hundred fifty-three students were scored on at least one station and 136 on both (total score 20.7&#x2009;&#xb1;&#x2009;4.1 of 28). The single-rater intraclass correlation coefficient (ICC) was 0.78 (95% CI 0.63-0.88; n&#x2009;=&#x2009;39) and 0.73 (0.52-0.86; n&#x2009;=&#x2009;33), and 0.65 and 0.69 after adjustment for organ; within-station Cronbach's alpha was 0.70 and 0.69, and 0.34 for the four interpretive criteria. Dynamic scanning criteria were hardest and among the most discriminating, basic criteria showed ceiling effects, and the difficulty ranking was concordant across cohorts (Kendall's W&#x2009;=&#x2009;0.92). The allocated organ accounted for 22% of score variance, examiners for 7% in a crossed model. Between-station consistency was low (r&#x2009;=&#x2009;0.17; organ-adjusted ICC 0.35); a reliability of 0.70 would require 5 organ-standardised stations (range 2 to 10). The total score correlated with the post-course knowledge test (r&#x2009;=&#x2009;0.38; n&#x2009;=&#x2009;79).\n\nConclusions: Aggregated criterion- and organ-level results were reproducible across cohorts and can inform iterative review of a student-led course, within limits of precision, representativeness and transferability. Individual total scores from two stations are not reliable enough for consequential decisions about learners, regardless of agreement between examiners. Readiness for independent clinical scanning is not addressed.",
+  "mesh": [
+    "Female",
+    "Humans",
+    "Male",
+    "Abdomen",
+    "Clinical Competence",
+    "Cohort Studies",
+    "Education, Medical, Undergraduate",
+    "Educational Measurement",
+    "Germany",
+    "Peer Group",
+    "Psychometrics",
+    "Reproducibility of Results"
+  ],
+  "palabrasClave": [
+    "Item analysis",
+    "Near-peer teaching",
+    "Objective structured clinical examination",
+    "Peer assessment",
+    "Programme evaluation",
+    "Reliability",
+    "Ultrasound",
+    "Undergraduate medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias"
+  ],
+  "puntaje": 26.5,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-23",
+  "publicadoEl": "2026-11-23",
+  "tips": [
+    {
+      "titulo": "Usar OSCE breves para revisar currículo",
+      "texto": "Los resultados agregados por criterio y órgano son estables entre cohortes. Usadlos para detectar áreas débiles del curso y ajustar la enseñanza, no para calificar estudiantes individualmente."
+    },
+    {
+      "titulo": "Criterios dinámicos distinguen mejor",
+      "texto": "Las maniobras de escaneo dinámico fueron las más difíciles y discriminativas; los criterios básicos mostraron efecto techo. Priorizad la evaluación de habilidades complejas en las estaciones."
+    },
+    {
+      "titulo": "Cinco estaciones para decisiones individuales",
+      "texto": "Dos estaciones no alcanzan confiabilidad suficiente para aprobar o reprobar. Se necesitan al menos cinco estaciones estandarizadas por órgano para decisiones consecuenciales sobre cada estudiante."
+    },
+    {
+      "titulo": "El órgano afecta la puntuación",
+      "texto": "El órgano asignado explicó 22% de la varianza; estandarizad por órgano o rotad las estaciones para evitar ventajas aleatorias en evaluaciones sumativas."
+    },
+    {
+      "titulo": "Correlación con conocimiento declarativo",
+      "texto": "La puntuación práctica correlacionó moderadamente con el test de conocimientos. Combinad ambas modalidades para una evaluación más completa de la competencia ecográfica."
+    }
+  ],
+  "sintesis": "Estudio psicométrico en 153 estudiantes de medicina evaluados en un OSCE de ecografía abdominal de dos estaciones, calificado por tutores pares. Los resultados agregados por criterio y órgano fueron reproducibles entre cohortes, pero la confiabilidad individual fue insuficiente para decisiones de alto impacto.",
+  "aplicacionDocente": "Implementad OSCE breves calificados por pares para revisar vuestro curso de ecografía: identificad criterios con efecto techo, ajustad contenidos según dificultad y usad resultados agregados, no individuales. Para decisiones de promoción, extended a cinco estaciones estandarizadas.",
+  "infografia": "/img/infografias/2026-11-23-a-brief-peer-assessed-osce-for-evaluating-undergraduate-abdominal-ultrasound-tra.png",
+  "disenoEstudio": "Estudio observacional psicométrico en tres cohortes consecutivas de estudiantes alemanes de quinto semestre",
+  "nivelEvidencia": "moderado",
+  "fraseInfografia": "OSCE de 2 estaciones: útil para revisar cursos, insuficiente para calificar estudiantes",
+  "etiquetas": [
+    "ecografía",
+    "evaluación por pares",
+    "OSCE",
+    "psicometría",
+    "docencia pregrado"
+  ],
+  "advertencia": "El órgano asignado y el bajo número de estaciones limitan la generalización de puntajes individuales; no evalúa preparación para práctica clínica autónoma.",
+  "generadoPor": "claude-sonnet-4-5"
+}

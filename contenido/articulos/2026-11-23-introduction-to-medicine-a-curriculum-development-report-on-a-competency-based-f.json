@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-23-introduction-to-medicine-a-curriculum-development-report-on-a-competency-based-f",
+  "estado": "publicado",
+  "pmid": "43068063",
+  "doi": "10.2147/AMEP.S637234",
+  "titulo": "Introduction to Medicine: A Curriculum Development Report on a Competency-Based Foundational Behavioral Science Course in Early Medical Education",
+  "tituloEs": "Ciencias conductuales desde primer año: modelo de curso fundacional en competencias médicas tempranas",
+  "revista": "Advances in medical education and practice",
+  "autores": [
+    "Kiss H",
+    "Barabás K",
+    "Pikó B"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43068063/",
+  "resumenOriginal": "Background: Medical education traditionally begins with a strong biomedical orientation, often postponing the systematic exploration of professional values and ethical reasoning until later phases of training. Concurrent recognition of the psychosocial, ethical, and professional dimensions of medical competence has increased attention to the earlier and more systematic integration of behavioral sciences into medical education.\n\nAim: This curriculum development report describes the design and implementation of Introduction to Medicine, a compulsory first-year, outcome-oriented and competency-based behavioral sciences course at the University of Szeged, Hungary, and presents descriptive student evaluation data collected over three consecutive academic years.\n\nDescription/methods: The course is embedded within a spiral curriculum in which behavioral, social, and ethical perspectives are revisited with increasing complexity throughout the first four years of the six-year medical program, culminating in a comprehensive examination at the end of the fourth year. Grounded in the biopsychosocial-spiritual paradigm, the course integrates models of health and disease, population health and prevention, medical ethics, history of medicine, healthcare systems, and doctor-patient relationships. Teaching method combines interactive lectures, case-based discussions, group projects, ethical scenario analysis, structured debates, reflection, and peer feedback. Besides written examination, a reflective Good Doctor essay forms part of the course assessment. Descriptive Student Evaluation of Teaching (SET) data were examined for the 2023/24, 2024/25, and 2025/26 academic years, where cohort sizes were 228, 239, and 254 students, with lecture/practical response rates of 29.4%/58.3%, 33.1%/75.7%, and 23.6%/72.8%, respectively.\n\nFindings: Student evaluations indicated generally positive ratings for perceived learning contribution and the usefulness of supplementary resources, although ratings varied across academic years and generally declined over time. Mean ratings for perceived learning contribution ranged from 3.97 to 4.48 for lectures and from 4.14 to 4.56 for practical sessions, while ratings for the usefulness of supplementary resources ranged from 4.07 to 4.48 and from 4.12 to 4.42, respectively, on five-point scales. Class attendance was typically reported as having only occasional absences.\n\nConclusion: The course illustrates how behavioral sciences can be integrated into early medical education through explicit learning outcomes, reflective learning activities, and clinically contextualized teaching. The course design is intended to establish an early conceptual, professional, and reflective foundation for the progressive development of medical competencies. As a single curriculum development report, it does not provide evidence of changes in professional identity formation or patient-centered healthcare. Future research can include longitudinal follow-up of student cohorts, systematic thematic analysis of reflective essays, and validated measures of professional identity and related outcomes. The model may provide a basis for adaptation in other institutions, subject to local curricular, regulatory, and faculty-resource considerations.",
+  "mesh": [],
+  "palabrasClave": [
+    "biopsychosocial-spiritual model",
+    "competency-based medical education",
+    "introduction to medicine",
+    "outcome-based",
+    "spiral curriculum"
+  ],
+  "temas": [
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-23",
+  "publicadoEl": "2026-11-23",
+  "tips": [
+    {
+      "titulo": "Integración desde el inicio",
+      "texto": "Incorporad contenidos de ética, humanidades y relación médico-paciente desde el primer año, antes de inmersión clínica. Diseñad secuencias en espiral que revisen estos temas con creciente complejidad."
+    },
+    {
+      "titulo": "Evaluación reflexiva complementaria",
+      "texto": "Incluid ensayos reflexivos sobre 'el buen médico' como componente de evaluación, además del examen escrito. Permite valorar formación de identidad profesional temprana."
+    },
+    {
+      "titulo": "Métodos interactivos variados",
+      "texto": "Combinad lecturas interactivas con análisis de escenarios éticos, debates estructurados y retroalimentación entre pares. La variedad metodológica sostiene el compromiso en temas abstractos."
+    },
+    {
+      "titulo": "Contexto biopsicosocial explícito",
+      "texto": "Enmarcar los contenidos en el paradigma biopsicosocial-espiritual desde inicio ayuda a que estudiantes integren dimensiones no biomédicas como componentes centrales, no periféricos."
+    },
+    {
+      "titulo": "Monitoreo sistemático estudiantil",
+      "texto": "Recoged evaluaciones docentes por cohorte y año para detectar tendencias. La variabilidad temporal puede indicar necesidad de ajustes pedagógicos o logísticos."
+    }
+  ],
+  "sintesis": "Se describe el diseño e implementación de un curso obligatorio de primer año en ciencias conductuales, integrado en un currículo en espiral de cuatro años. Las evaluaciones estudiantiles mostraron percepciones positivas sobre el aporte al aprendizaje, aunque con variabilidad entre años.",
+  "aplicacionDocente": "Este modelo muestra que podéis introducir formalmente ética, profesionalismo y perspectiva biopsicosocial desde primer año mediante actividades reflexivas y casos. Considerad adaptar componentes (como el ensayo reflexivo) a vuestro contexto, vigilando que los métodos interactivos se mantengan aunque las calificaciones estudiantiles fluctúen entre años.",
+  "infografia": "/img/infografias/2026-11-23-introduction-to-medicine-a-curriculum-development-report-on-a-competency-based-f.png",
+  "disenoEstudio": "Reporte de desarrollo curricular con evaluaciones estudiantiles en tres cohortes (n=228-254)",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Ciencias conductuales en primer año: fundamentos antes de la clínica, reflexión desde el inicio",
+  "etiquetas": [
+    "ciencias conductuales",
+    "curriculum en espiral",
+    "formacion profesional temprana",
+    "modelo biopsicosocial",
+    "evaluacion reflexiva"
+  ],
+  "advertencia": "Reporte de una sola institución sin medición de impacto en identidad profesional o conducta clínica posterior.",
+  "generadoPor": "claude-sonnet-4-5"
+}

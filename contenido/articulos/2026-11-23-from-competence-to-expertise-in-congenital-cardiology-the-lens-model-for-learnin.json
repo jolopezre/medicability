@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-23-from-competence-to-expertise-in-congenital-cardiology-the-lens-model-for-learnin",
+  "estado": "publicado",
+  "pmid": "43055946",
+  "doi": "10.1007/s00246-026-04561-0",
+  "titulo": "From Competence to Expertise in Congenital Cardiology: The LENS Model for Learning to See Problems Differently",
+  "tituloEs": "Del umbral de competencia a la experticia en cardiología congénita: modelo LENS",
+  "revista": "Pediatric cardiology",
+  "autores": [
+    "Venter A",
+    "Ryan C",
+    "McMahon CJ"
+  ],
+  "fechaPublicacion": "2026 Nov 19",
+  "tiposPublicacion": [
+    "Journal Article",
+    "Review"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43055946/",
+  "resumenOriginal": "Competency-based medical education has improved how paediatric and congenital cardiology defines readiness for independent practice. Competencies and entrustable professional activities describe what trainees should be able to do, and the degree of supervision they require. Competence is an essential threshold rather than the endpoint of professional development. The mechanisms through which a competent congenital cardiologist subsequently develops expertise remain incompletely understood. Research in medical education and cognitive psychology suggests that experts do not simply accumulate more knowledge or more clinical experience. Expertise involves changes in knowledge organisation, clinical problem representation, information selection, recognition of discordance, management of uncertainty, decision-making and adaptation when familiar solutions are insufficient. These concepts are particularly relevant to congenital cardiology, where clinicians integrate complex anatomy, physiology, imaging, haemodynamics, previous interventions and longitudinal trajectories while frequently making decisions despite incomplete evidence. We propose that the expert congenital cardiologist may be distinguished not simply by knowing more answers, but by seeing problems differently. We introduce the LENS model as a conceptual framework for this process: Link information into a coherent clinical representation; Extract the discriminating signal from noise; Notice discordance, uncertainty and possible failure of the initial pattern; and Shift reasoning strategy, seek distributed expertise or learn when the existing model is insufficient. The framework integrates literature on medical expertise, deliberate practice, adaptive expertise, uncertainty and congenital cardiac decision-making. It offers a vocabulary for teaching, faculty development and future empirical study while deliberately preserving the distinction between career stage, reputation and demonstrated expertise.",
+  "mesh": [],
+  "palabrasClave": [
+    "Clinical reasoning",
+    "Congenital heart disease",
+    "Expertise",
+    "Medical education",
+    "Pediatric cardiology",
+    "Uncertainty"
+  ],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "Evaluación y competencias",
+    "Simulación y retroalimentación"
+  ],
+  "puntaje": 29.5,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-23",
+  "publicadoEl": "2026-11-23",
+  "tips": [
+    {
+      "titulo": "Enseñen representación del problema",
+      "texto": "En la ronda, pidan al residente que describa cómo integra anatomía, fisiología e historia previa antes de proponer diagnósticos. Evalúen la coherencia narrativa, no solo la lista de diferenciales."
+    },
+    {
+      "titulo": "Señalen discordancia explícitamente",
+      "texto": "Cuando los datos no encajen con el patrón esperado, nómbrenlo en voz alta: 'Aquí hay discordancia'. Modelen cómo el experto reconoce que su modelo inicial puede ser insuficiente."
+    },
+    {
+      "titulo": "Distingan expertise de experiencia",
+      "texto": "No asuman que más años equivalen a mejor razonamiento. Evalúen si el clínico reorganiza su conocimiento, adapta estrategias y maneja incertidumbre, no solo si acumula casos."
+    },
+    {
+      "titulo": "Usen LENS como vocabulario docente",
+      "texto": "Adopten el acrónimo (Link, Extract, Notice, Shift) para etiquetar momentos de enseñanza: '¿Cómo extraes la señal clave aquí?' o '¿Notaste la discordancia en estos datos?'"
+    },
+    {
+      "titulo": "Promuevan adaptación ante incertidumbre",
+      "texto": "En casos con evidencia incompleta, pidan al aprendiz que verbalice cuándo su estrategia habitual no sirve y cómo busca experticia distribuida en el equipo."
+    }
+  ],
+  "sintesis": "Este artículo de revisión propone que el cardiólogo congénito experto se distingue no solo por conocer más respuestas, sino por ver los problemas de manera diferente. Introduce el modelo LENS como marco conceptual para comprender cómo se desarrolla la experticia más allá del umbral de competencia.",
+  "aplicacionDocente": "Usen el modelo LENS para estructurar retroalimentación en sesiones de casos complejos. Pidan al residente que enlace datos en una narrativa coherente, identifique la información discriminante, señale discordancias y describa cuándo cambia de estrategia. Esto ayuda a distinguir competencia de experticia y guía el desarrollo profesional continuo.",
+  "infografia": "/img/infografias/2026-11-23-from-competence-to-expertise-in-congenital-cardiology-the-lens-model-for-learnin.png",
+  "disenoEstudio": "Revisión conceptual basada en literatura de educación médica y psicología cognitiva",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "El experto no sabe más respuestas: ve los problemas de manera diferente",
+  "etiquetas": [
+    "experticia clínica",
+    "cardiología congénita",
+    "razonamiento adaptativo",
+    "educación basada en competencias",
+    "desarrollo profesional"
+  ],
+  "advertencia": "El modelo LENS es un marco conceptual sin validación empírica propia; requiere estudios prospectivos que demuestren su utilidad en la formación de especialistas.",
+  "generadoPor": "claude-sonnet-4-5"
+}

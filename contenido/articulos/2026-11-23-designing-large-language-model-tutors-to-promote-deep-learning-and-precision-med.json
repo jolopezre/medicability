@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-23-designing-large-language-model-tutors-to-promote-deep-learning-and-precision-med",
+  "estado": "publicado",
+  "pmid": "43070650",
+  "doi": "10.1093/acamed/wvag357",
+  "titulo": "Designing large language model tutors to promote deep learning and precision medical education",
+  "tituloEs": "Tutores con IA como espejos socráticos: restaurar el esfuerzo cognitivo en educación médica",
+  "revista": "Academic medicine : journal of the Association of American Medical Colleges",
+  "autores": [
+    "Mehta S",
+    "Valanci S",
+    "Agrawal A",
+    "Benjamin J",
+    "MacNeill H",
+    "Masters K",
+    "Mehta N"
+  ],
+  "fechaPublicacion": "2026 Nov 23",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43070650/",
+  "resumenOriginal": "The rapid adoption of large language models (LLMs) by medical students has created two significant concerns: that students will use artificial intelligence (AI) for quick answers, short-circuiting the cognitive effort essential for deep learning, and that the satisfaction of discovery will be lost to algorithmic efficiency. This Scholarly Perspective reframes LLMs not as information retrieval systems, but as \"Socratic Mirrors\": interactive tutors grounded in established learning science (such as the desirable level of difficulty, social constructivism and zone of proximal development, the illusion of explanatory depth, and dual coding theory) that can restore the productive struggle that traditional LLMs often constrain. Drawing on the three functions of education framework, the authors argue that by handling qualification (the foundational work of content mastery), Socratic tutors free faculty to focus on what AI cannot provide: socialization (initiation into the norms and values of the profession) and subjectification (the formation of physicians as autonomous, ethical, and reflective practitioners). This potential is not merely theoretical. Empirical evidence from randomized controlled trials suggests that pedagogically engineered AI tutors, those designed to scaffold discovery rather than deliver answers, can significantly outperform traditional instruction. The studies demonstrate how LLMs configured as Socratic tutors can address the \"2-Sigma\" problem, offering personalized one-on-one tutoring at scale and moving medical education closer to the ideal of precision education. However, these studies are drawn from outside medical education, and the inferential leap to medical training, while theoretically grounded, remains empirically undemonstrated. The PICRAT (passive, interactive, creative, replacement, amplification, transformation) model is presented as a technology integration framework to ensure intentional rather than reactive AI integration. Together, these principles suggest a promising pathway toward scalable precision medical education that warrants formal evaluation in medical education contexts.",
+  "mesh": [],
+  "palabrasClave": [
+    "Socratic method",
+    "artificial intelligence",
+    "educational technology",
+    "learning science",
+    "precision medical education"
+  ],
+  "temas": [
+    "Docencia médica",
+    "IA en educación médica"
+  ],
+  "puntaje": 26,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-23",
+  "publicadoEl": "2026-11-23",
+  "tips": [
+    {
+      "titulo": "Andamiar, no responder",
+      "texto": "Configurad la IA para que formule preguntas guía en lugar de entregar diagnósticos. Esto preserva el esfuerzo cognitivo necesario para el aprendizaje profundo."
+    },
+    {
+      "titulo": "Liberar tiempo para profesionalización",
+      "texto": "Si la IA tutoriza contenido básico, podéis dedicar más tiempo de ronda a modelar razonamiento ético, comunicación y valores profesionales que la tecnología no replica."
+    },
+    {
+      "titulo": "Evaluar la ilusión de comprensión",
+      "texto": "Preguntad a estudiantes que usan IA: '¿Podés explicar esto sin el chatbot?' Exponer la ilusión de profundidad explicativa fortalece la metacognición."
+    },
+    {
+      "titulo": "Usar el modelo PICRAT",
+      "texto": "Antes de incorporar IA, preguntaos: ¿reemplaza, amplifica o transforma el aprendizaje? Solo integrad herramientas que amplíen o transformen, no que sustituyan pasivamente."
+    },
+    {
+      "titulo": "Exigir evidencia local",
+      "texto": "La evidencia proviene de educación general. Implementad pilotos controlados en vuestro contexto clínico antes de adopción institucional masiva."
+    }
+  ],
+  "sintesis": "Esta perspectiva propone diseñar modelos de lenguaje como tutores socráticos que andamien el descubrimiento, basándose en ciencia del aprendizaje. Evidencia de ensayos controlados fuera de medicina sugiere que estos tutores pueden superar la instrucción tradicional, aunque su eficacia en educación médica requiere demostración empírica.",
+  "aplicacionDocente": "Configurad la IA como tutor socrático que haga preguntas scaffolded en casos clínicos, no que entregue diagnósticos. Usad el tiempo liberado para trabajar profesionalismo y reflexión ética en la ronda. Evaluad si estudiantes realmente comprenden o solo reproducen respuestas de IA mediante explicaciones sin apoyo tecnológico.",
+  "infografia": "/img/infografias/2026-11-23-designing-large-language-model-tutors-to-promote-deep-learning-and-precision-med.png",
+  "disenoEstudio": "Perspectiva académica con revisión de evidencia en educación general",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "IA como espejo socrático: andamiar el descubrimiento, no reemplazar el esfuerzo cognitivo",
+  "etiquetas": [
+    "inteligencia artificial",
+    "tutoria socratica",
+    "aprendizaje profundo",
+    "educacion de precision",
+    "tecnologia educativa"
+  ],
+  "advertencia": "La evidencia de eficacia proviene de ensayos en educación general; no hay estudios controlados que demuestren estos efectos en educación médica.",
+  "generadoPor": "claude-sonnet-4-5"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-23-navigating-without-a-compass-chinese-medical-students-perspectives-on-ai-in-clin",
+  "estado": "publicado",
+  "pmid": "43066053",
+  "doi": "10.5334/pme.2692",
+  "titulo": "Navigating Without a Compass: Chinese Medical Students' Perspectives on AI in Clinical Training",
+  "tituloEs": "Estudiantes chinos navegan sin brújula el uso de IA en su formación clínica",
+  "revista": "Perspectives on medical education",
+  "autores": [
+    "Chen K",
+    "Wu Y",
+    "Hu Y"
+  ],
+  "fechaPublicacion": "2026",
+  "tiposPublicacion": [
+    "Journal Article"
+  ],
+  "enlace": "https://pubmed.ncbi.nlm.nih.gov/43066053/",
+  "resumenOriginal": "Introduction: Artificial intelligence (AI) is rapidly transforming clinical practice, yet its integration into medical education remains largely unstructured. In China, where AI adoption is accelerating, little is known about how medical students perceive AI's role or what guidance they expect from educators. This study explores Chinese medical students' perspectives on AI in clinical training and their preferences for faculty engagement.\n\nMethods: Using educational cultural hegemony as a theoretical framework, the research team conducted in-depth, semi-structured interviews with 13 medical students across all five years of training at a medical school in China. Interviews addressed three sensitizing scenarios involving AI for clinical documentation, diagnostic assistance, and learning support. Transcripts were analyzed using Braun and Clarke's reflexive thematic analysis.\n\nResults: Four themes were identified: Learning in the Shadows describes how students use AI covertly due to uncertain policies; Trust but Verify captures students' nuanced stance on AI reliability; The Human Element reveals concerns that AI may erode clinical reasoning and patient-physician relationships within China's high-volume healthcare system; and Educator as Compass describes students' desire for faculty who proactively teach AI literacy and model appropriate use.\n\nConclusion: Chinese medical students navigate AI use without formal guidance in an ambiguous space between enthusiasm and caution. They seek educators who acknowledge AI's presence and preserve humanistic medicine. Findings underscore the urgent need for curricular integration of AI literacy and faculty development, particularly within hierarchical educational contexts. These findings carry implications beyond China's borders, suggesting that when institutions fail to acknowledge emerging technologies, students adapt independently but not necessarily safely or equitably.",
+  "mesh": [
+    "Humans",
+    "Students, Medical",
+    "China",
+    "Artificial Intelligence",
+    "Qualitative Research",
+    "Female",
+    "Male",
+    "Perception",
+    "Interviews as Topic",
+    "Education, Medical, Undergraduate",
+    "East Asian People"
+  ],
+  "palabrasClave": [],
+  "temas": [
+    "Razonamiento clínico",
+    "Docencia médica",
+    "IA en educación médica"
+  ],
+  "puntaje": 32,
+  "semana": "2026-S48",
+  "descubiertoEl": "2026-11-23",
+  "publicadoEl": "2026-11-23",
+  "tips": [
+    {
+      "titulo": "Hagan visible lo invisible",
+      "texto": "Inicien conversaciones explícitas sobre cuándo y cómo los estudiantes usan IA en la práctica. El silencio institucional empuja el uso a las sombras."
+    },
+    {
+      "titulo": "Modelen el escepticismo informado",
+      "texto": "Demuestren en la ronda cómo verificar las sugerencias de IA contra evidencia clínica. Los estudiantes adoptan la postura 'confiar pero verificar'."
+    },
+    {
+      "titulo": "Protejan el razonamiento clínico",
+      "texto": "Señalen explícitamente cuándo la IA puede acelerar la documentación sin reemplazar el pensamiento diagnóstico. Los estudiantes temen perder habilidades centrales."
+    },
+    {
+      "titulo": "Integren alfabetización en IA",
+      "texto": "Incorporen casos sobre sesgos algorítmicos, limitaciones de datos y validación de herramientas. No esperen que el currículo formal llegue."
+    },
+    {
+      "titulo": "Preserven lo humanístico",
+      "texto": "Discutan cómo la eficiencia de la IA puede liberar tiempo para la relación clínica, especialmente en sistemas de alto volumen."
+    }
+  ],
+  "sintesis": "Trece estudiantes de medicina en China usan inteligencia artificial de manera encubierta por falta de políticas claras. Buscan docentes que enseñen alfabetización en IA y modelen su uso apropiado, mientras temen que erosione el razonamiento clínico y la relación médico-paciente.",
+  "aplicacionDocente": "El lunes, pregunten en la ronda qué herramientas de IA usan los estudiantes y por qué no las mencionan. Modelen la validación crítica de una sugerencia de IA en un caso real. Diseñen un taller breve sobre cuándo la IA complementa (documentación) versus cuándo amenaza (razonamiento) la formación clínica.",
+  "infografia": "/img/infografias/2026-11-23-navigating-without-a-compass-chinese-medical-students-perspectives-on-ai-in-clin.png",
+  "disenoEstudio": "Estudio cualitativo con entrevistas semiestructuradas a 13 estudiantes de los cinco años de formación",
+  "nivelEvidencia": "exploratorio",
+  "fraseInfografia": "Estudiantes usan IA en las sombras: esperan docentes que enseñen su uso sin borrar lo humano",
+  "etiquetas": [
+    "inteligencia artificial",
+    "educación médica",
+    "razonamiento clínico",
+    "relación médico-paciente",
+    "alfabetización digital"
+  ],
+  "advertencia": "Muestra pequeña de una sola escuela en China; la transferibilidad a otros contextos educativos y culturales requiere validación.",
+  "generadoPor": "claude-sonnet-4-5"
+}
